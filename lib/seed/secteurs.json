@@ -1,0 +1,1695 @@
+{
+  "andrezieux-boutheon": {
+    "superficie": 16,
+    "meta_description": "Avis de valeur, vente et achat à Andrézieux-Bouthéon avec Romain Rieg, conseiller iad. Pôle économique majeur de la Plaine du Forez, à 14 km de Saint-Étienne.",
+    "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+    "ecoles": [
+      {
+        "nom": "Arthur Rimbaud - Victor Hugo - Louis Pasteur - Paul Éluard",
+        "type": "Primaire",
+        "precision": "Réseau d’écoles publiques réparties sur la commune, couvrant les principaux secteurs résidentiels d’Andrézieux-Bouthéon."
+      },
+      {
+        "nom": "École Jeanne d’Arc",
+        "type": "Privé",
+        "precision": "École primaire privée située rue Marcellin Girinon, présente dans le paysage scolaire local."
+      },
+      {
+        "nom": "Collège Jacques Prévert",
+        "type": "Collège",
+        "precision": "Collège public situé rue Racine, établissement de référence pour les familles de la commune."
+      },
+      {
+        "nom": "Lycée François Mauriac - Forez",
+        "type": "Lycée",
+        "precision": "Lycée général et technologique situé rue des Bullieux, au sein de la cité scolaire Mauriac / Desgranges."
+      },
+      {
+        "nom": "Lycée Pierre Desgranges",
+        "type": "Lycée",
+        "precision": "Lycée professionnel situé rue des Bullieux, avec des formations orientées vers les parcours professionnels."
+      }
+    ],
+    "intro": "À la croisée de Saint-Étienne, de la Plaine du Forez et des grands axes, Andrézieux-Bouthéon se distingue par son dynamisme économique, ses équipements, ses commerces, son aéroport et son cadre de vie entre Loire, château et quartiers résidentiels. Une commune pratique, active et attractive pour les familles, les actifs et les projets immobiliers accessibles.",
+    "nom": "Andrézieux-Bouthéon",
+    "cp": "42160",
+    "ce_qui_differencie": [
+      {
+        "titre": "Une ville carrefour entre Saint-Étienne et la Plaine du Forez",
+        "description": "Andrézieux-Bouthéon bénéficie d’un emplacement stratégique avec accès à l’A72 - gare SNCF - aéroport de Saint-Étienne Loire et proximité rapide avec Saint-Étienne"
+      },
+      {
+        "titre": "Un pôle économique et commercial majeur",
+        "description": "La commune accueille un tissu économique dense avec de nombreuses entreprises - zones d’activités et une offre commerciale importante autour des centres-bourgs et des pôles périphériques"
+      },
+      {
+        "titre": "Trois centralités historiques",
+        "description": "Andrézieux - Bouthéon et La Chapelle structurent la commune avec des ambiances complémentaires : centre pratique - cœur patrimonial - secteur résidentiel et équipements"
+      },
+      {
+        "titre": "Un patrimoine fort autour du Château de Bouthéon",
+        "description": "Le château - son parc animalier et botanique et ses espaces culturels constituent un repère majeur de la commune"
+      },
+      {
+        "titre": "Un marché immobilier accessible et varié",
+        "description": "Entre maisons familiales - appartements - biens récents - secteurs résidentiels et zones plus connectées - Andrézieux-Bouthéon offre une alternative accessible."
+      }
+    ],
+    "population": 10425,
+    "intercommunalite": "Saint-Étienne Métropole",
+    "associations": [
+      {
+        "nom": "ABFC - Andrézieux-Bouthéon Football Club",
+        "activite": "Club de football emblématique de la commune, installé à l’Envol Stadium et très identifié dans le paysage sportif local."
+      },
+      {
+        "nom": "TCAB - Tennis Club Andrézieux-Bouthéon",
+        "activite": "Club majeur de tennis et padel dans la Loire, avec plusieurs courts, des terrains de padel, un club house et une vraie dynamique sportive locale."
+      },
+      {
+        "nom": "SCABB - Saint-Chamond Andrézieux-Bouthéon Basket",
+        "activite": "Club structurant du territoire, avec une forte visibilité sportive et un réseau local important autour du basket."
+      },
+      {
+        "activite": "Club d’athlétisme du secteur, présent à Andrézieux-Bouthéon, avec une pratique orientée course, piste, compétition et sport pour tous.",
+        "nom": "Forez Athletic Club - FAC"
+      },
+      {
+        "nom": "AF Boxing Club",
+        "activite": "Club enseignant la boxe sous différentes formes, avec une pratique loisir et sportive."
+      },
+      {
+        "nom": "Judo Club Plaine du Forez / clubs d’arts martiaux",
+        "activite": "Présence d’associations d’arts martiaux et de judo, participant à l’offre sportive familiale de la commune."
+      },
+      {
+        "activite": "Club de rugby local, participant à la diversité sportive de la commune.",
+        "nom": "RCAB - Rugby Club d’Andrézieux-Bouthéon"
+      },
+      {
+        "activite": "Club de pétanque de la commune, ancré dans la vie locale et sportive.",
+        "nom": "Pétanque de l’Envol"
+      }
+    ],
+    "evolution_prix": [
+      {
+        "annee": 2020,
+        "prixM2": 1850,
+        "prix_appartement": 1295
+      },
+      {
+        "annee": 2021,
+        "prixM2": 2050,
+        "prix_appartement": 1434
+      },
+      {
+        "annee": 2022,
+        "prixM2": 2350,
+        "prix_appartement": 1644
+      },
+      {
+        "annee": 2023,
+        "prixM2": 2504,
+        "prix_appartement": 1752
+      },
+      {
+        "annee": 2024,
+        "prixM2": 2380,
+        "prix_appartement": 1665
+      },
+      {
+        "annee": 2025,
+        "prixM2": 2301,
+        "prix_appartement": 1610
+      }
+    ],
+    "restaurants": [
+      {
+        "nom": "La Petite Assiette du Château",
+        "cuisine": "Adresse située face au Château de Bouthéon, avec une cuisine soignée, une ambiance contemporaine et une belle cohérence avec le secteur patrimonial. · 4,8★ ",
+        "gamme": "Gastro"
+      },
+      {
+        "nom": "La Brasserie des Gourmands",
+        "cuisine": "Adresse située près de l’Envol Stadium, avec un esprit grande brasserie, une terrasse et une cuisine généreuse dans un cadre convivial. · 4,5★",
+        "gamme": "Gastro"
+      },
+      {
+        "nom": "Restaurant By Georgette",
+        "cuisine": "Restaurant situé boulevard Pierre Desgranges, avec une cuisine à base de produits frais et locaux dans un cadre chaleureux et décontracté. · 4,5★",
+        "gamme": "Bistrot"
+      },
+      {
+        "nom": "Mas de la Gare",
+        "cuisine": "Adresse située avenue Jean Martouret, proche de la gare, avec une cuisine française, des plats faits maison et une ambiance de restaurant traditionnel. · 4,4★",
+        "gamme": "Brasserie"
+      },
+      {
+        "nom": "La Tapa Loca",
+        "cuisine": "Restaurant espagnol situé aux Communaux, avec tapas, spécialités ibériques et ambiance conviviale. · 4,8★",
+        "gamme": "Café"
+      },
+      {
+        "nom": "L’Artiste Pizzaïolo",
+        "cuisine": "Pizzeria située à Andrézieux-Bouthéon, avec pizzas artisanales cuites au feu de bois. · 4,6★",
+        "gamme": "Pizza"
+      },
+      {
+        "nom": "Mazarin",
+        "cuisine": "Pizzeria - restaurant située boulevard Joseph Cugnot, avec une carte italienne et une ambiance conviviale. · 4,3★",
+        "gamme": "Pizza"
+      },
+      {
+        "nom": "La Conciergerie Andrézieux",
+        "cuisine": "Adresse située ZAC des Murons, avec restaurant, bar à vin, terrasse et ambiance lounge. · 4.2★",
+        "gamme": "Bistrot"
+      }
+    ],
+    "video_insta": {
+      "titre": "Andrézieux-Bouthéon : 3 raisons d'y investir en 2026",
+      "duree": "0:45"
+    },
+    "galerie": [
+      "/uploads/img_8400.jpeg",
+      "/uploads/img_8365.jpeg",
+      "/uploads/img_8372.jpeg",
+      "/uploads/img_8342.jpeg",
+      "/uploads/img_8424.jpeg",
+      "/uploads/img_8498.jpeg",
+      "/uploads/img_8513.jpeg",
+      "/uploads/img_8432.jpeg"
+    ],
+    "video": "/uploads/andrezieux.jpeg",
+    "quartiers": [
+      {
+        "nom": "Bourg d’Andrézieux - Place du Forez - Gare",
+        "description": "Centre pratique de la commune, avec commerces, services, gare, équipements et accès rapide aux axes. Le marché y est varié, entre maisons de ville, appartements, petits collectifs et biens plus fonctionnels.",
+        "prix_indicatif": "2 100 - 2 800 €/m²"
+      },
+      {
+        "nom": "Bourg de Bouthéon - Château - Loire",
+        "description": "Secteur patrimonial et résidentiel autour du Château de Bouthéon, avec une ambiance plus village, des vues, un lien avec la Loire et des maisons recherchées selon l’adresse et l’environnement.",
+        "prix_indicatif": "2 300 - 3 100 €/m²"
+      },
+      {
+        "nom": "La Chapelle",
+        "description": "Secteur central dans l’organisation de la commune, avec écoles, équipements sportifs, services et quartiers résidentiels. Un secteur familial et pratique, intéressant pour les acquéreurs recherchant un bon compromis entre budget, accès et vie locale.",
+        "prix_indicatif": "2 200 - 2 900 €/m²"
+      },
+      {
+        "nom": "Les Maladières - Avenue de Saint-Étienne - La Chaux",
+        "description": "Secteur connecté et résidentiel, avec un marché mixte entre maisons, appartements et biens proches des axes. Les prix varient fortement selon l’exposition, le calme, l’état du bien et la proximité des voies passantes.",
+        "prix_indicatif": "2 100 - 2 800 €/m²"
+      },
+      {
+        "nom": "Essarts - Loire Sud - Gouyonnière",
+        "description": "Secteur plus économique et fonctionnel, proche des zones d’activités, commerces et grands axes. Le marché y est plus hétérogène, avec des opportunités pour les actifs, les investisseurs et les budgets plus maîtrisés.",
+        "prix_indicatif": "1 900 - 2 700 €/m²"
+      },
+      {
+        "nom": "Bords de Loire - Mariniers",
+        "prix_indicatif": "2 200 - 3 000 €/m²",
+        "description": "Secteurs plus diffus, appréciés pour les accès aux espaces extérieurs, la proximité de la Loire et certaines adresses plus calmes. Les maisons avec terrain ou environnement préservé peuvent se valoriser davantage."
+      }
+    ],
+    "video_visite": "/uploads/andrezieux-boutheon.mp4",
+    "meta_title": "Conseiller immobilier iad à Andrézieux-Bouthéon",
+    "prix_m2_maison": 2741,
+    "prix_m2_appartement": 1918,
+    "delai_vente": 82
+  },
+  "champagne-au-mont-dor": {
+    "superficie": 2.6,
+    "meta_description": "Avis de valeur, vente et achat à Champagne-au-Mont-d'Or avec Romain Rieg, conseiller iad. Connaissance fine du marché du Mont d'Or et de l'Ouest lyonnais.",
+    "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+    "ecoles": [
+      {
+        "nom": "Groupe scolaire public de Champagne-au-Mont-d’Or",
+        "type": "Primaire",
+        "precision": "École publique de la commune - maternelle et élémentaire."
+      },
+      {
+        "nom": "École Les Chartreux Saint-Joseph",
+        "type": "Privé",
+        "precision": "École privée située au cœur du village - de la petite section au CM2."
+      },
+      {
+        "nom": "Collège Jean-Philippe Rameau",
+        "type": "Collège",
+        "precision": "Collège public situé à Champagne-au-Mont-d’Or - établissement de secteur pour plusieurs communes des Monts d’Or."
+      },
+      {
+        "nom": "Lycée Jean Perrin / La Martinière Duchère",
+        "type": "Lycée",
+        "precision": "Lycées publics situés à proximité, selon la sectorisation et l’orientation choisie."
+      }
+    ],
+    "intro": "Commune à taille humaine aux portes de Lyon, Champagne-au-Mont-d’Or séduit par son centre village vivant, ses commerces de proximité, sa bonne connexion à Vaise et son cadre résidentiel recherché. Une adresse pratique et familiale dans les Monts d’Or, appréciée pour son équilibre entre vie de village, accès rapide à Lyon et marché immobilier dynamique.",
+    "nom": "Champagne-au-Mont-d'Or",
+    "cp": "69410",
+    "ce_qui_differencie": [
+      {
+        "titre": "Une commune à taille humaine dans les Monts d’Or",
+        "description": "Champagne-au-Mont-d’Or offre un cadre résidentiel recherché avec une vraie vie de village - des commerces de proximité et une ambiance familiale"
+      },
+      {
+        "titre": "Un centre village vivant et pratique",
+        "description": "Marché - mairie - commerces - services du quotidien : la commune conserve une centralité agréable et facile à vivre"
+      },
+      {
+        "titre": "Une connexion efficace avec Lyon",
+        "description": "Lignes de bus TCL - proximité de Vaise - accès rapide aux grands axes : Champagne-au-Mont-d’Or reste très pratique pour les actifs et les familles"
+      },
+      {
+        "titre": "Un atout scolaire rare dans les Monts d’Or",
+        "description": "La commune dispose d’un collège public sur son territoire - un vrai point fort pour les familles du secteur"
+      }
+    ],
+    "population": 6311,
+    "intercommunalite": "Métropole de Lyon",
+    "associations": [
+      {
+        "nom": "GOAL FC - Grand Ouest Association Lyonnaise Football Club",
+        "activite": "Club de football structurant de l’Ouest lyonnais, présent dans la vie sportive locale."
+      },
+      {
+        "nom": "Association Champagne Tennis",
+        "activite": "Club de tennis local, ancré dans la pratique sportive de la commune."
+      },
+      {
+        "nom": "Champa’Bad",
+        "activite": "Association sportive champenoise dédiée à la pratique du badminton."
+      },
+      {
+        "nom": "Champagne Tennis de Table",
+        "activite": "Club local ouvert à la pratique loisir et sportive."
+      },
+      {
+        "nom": "Les Lycoses de Champagne-au-Mont-d’Or",
+        "activite": "Association dédiée à l’escalade, pour jeunes et adultes."
+      },
+      {
+        "nom": "Comité des Fêtes",
+        "activite": "Association impliquée dans les grands temps forts de la commune : forum des associations, Champagne en Fête, fête de la musique et animations locales."
+      }
+    ],
+    "evolution_prix": [
+      {
+        "annee": 2020,
+        "prixM2": 4300,
+        "prix_appartement": 3463
+      },
+      {
+        "annee": 2021,
+        "prixM2": 4650,
+        "prix_appartement": 3745
+      },
+      {
+        "annee": 2022,
+        "prixM2": 5000,
+        "prix_appartement": 4026
+      },
+      {
+        "annee": 2023,
+        "prixM2": 5050,
+        "prix_appartement": 4067
+      },
+      {
+        "annee": 2024,
+        "prixM2": 4960,
+        "prix_appartement": 3994
+      },
+      {
+        "annee": 2025,
+        "prixM2": 4890,
+        "prix_appartement": 3938
+      }
+    ],
+    "restaurants": [
+      {
+        "nom": "O Platanes",
+        "cuisine": "Restaurant bistronomique à Champagne-au-Mont-d’Or, avec une cuisine française soignée et une atmosphère chaleureuse. · 4,6★ ",
+        "gamme": "Bistrot",
+        "note": 4.6
+      },
+      {
+        "nom": "N'Autre MOnde",
+        "cuisine": "Adresse moderne et conviviale, avec une cuisine inspirée des cultures asiatiques et une terrasse agréable en saison. · 4,7★ ",
+        "gamme": "Bistrot",
+        "note": 4.7
+      },
+      {
+        "nom": "Le Rouge-Gorge",
+        "cuisine": "Adresse de proximité au cœur de Champagne-au-Mont-d’Or, dans un esprit bistrot simple et local. · 4,3★ ",
+        "gamme": "Bistrot",
+        "note": 4.3
+      },
+      {
+        "nom": "Le Rictoria",
+        "cuisine": "Adresse familiale et accessible, idéale pour déjeuner, dîner ou partager un moment simple dans un cadre agréable. · 4,6★ ",
+        "gamme": "Brasserie",
+        "note": 4.6
+      },
+      {
+        "nom": "Da Cocó by La Boîte Noire",
+        "cuisine": "Adresse italienne et pizzeria de qualité, dans l’esprit convivial des bonnes tables de quartier. · 4,7★ ",
+        "gamme": "Pizza",
+        "note": 4.7
+      },
+      {
+        "nom": "Ninkasi Champagne",
+        "cuisine": "Adresse animée pour burgers, bières craft et moments conviviaux, avec l’esprit Ninkasi bien connu dans la métropole lyonnaise. · 4,4★",
+        "gamme": "Brasserie",
+        "note": 4.4
+      },
+      {
+        "nom": "La Ferme des Monts d'Or",
+        "cuisine": "Restaurant français situé à Champagne-au-Mont-d’Or, avec une ardoise renouvelée et une ambiance conviviale. · 4,5★",
+        "gamme": "Bistrot",
+        "note": 4.5
+      }
+    ],
+    "video_insta": {
+      "titre": "Champagne - la commune la plus dynamique du Mont d'Or",
+      "duree": "1:25"
+    },
+    "galerie": [
+      "/uploads/champagne-au-mont-d-or.jpeg",
+      "/uploads/img_7134.jpeg",
+      "/uploads/img_7143.jpeg",
+      "/uploads/img_7147.jpeg",
+      "/uploads/img_7174.jpeg",
+      "/uploads/img_7183.jpeg"
+    ],
+    "video": "/uploads/champagne.jpeg",
+    "quartiers": [
+      {
+        "nom": "Centre village - Lanessan",
+        "description": "Le cœur pratique de Champagne-au-Mont-d’Or : mairie, commerces, marché, écoles, collège et accès rapide aux lignes TCL. Un secteur recherché pour sa vie de village, sa centralité et sa facilité au quotidien.",
+        "prix_indicatif": "4 000 - 4 900 €/m²"
+      },
+      {
+        "nom": "Les Bruyères - secteur résidentiel familial",
+        "description": "Un environnement résidentiel calme, composé de maisons familiales, petits collectifs et rues plus confidentielles. Un secteur apprécié pour son équilibre entre tranquillité, proximité des écoles et accès rapide aux grands axes.",
+        "prix_indicatif": "3 900 - 4 700 €/m²"
+      },
+      {
+        "nom": "Le Rocher - Mont-Louis",
+        "description": "Un secteur plus recherché sur les hauteurs, avec davantage de vues, de calme et de biens résidentiels qualitatifs. Une adresse intéressante pour les acquéreurs qui recherchent une atmosphère plus exclusive tout en restant proches du centre.",
+        "prix_indicatif": "4 500 - 5 600 €/m²"
+      },
+      {
+        "description": "Un secteur plus rare, marqué par le patrimoine ancien, la proximité du vallon de Rochecardon et une ambiance plus végétale. Les biens y sont moins nombreux, mais recherchés pour leur cadre, leur discrétion et leur connexion avec les Monts d’Or.",
+        "prix_indicatif": "4 300 - 5 400 €/m²",
+        "nom": "Voutillière - Rochecardon"
+      }
+    ],
+    "video_visite": "/uploads/champagne-au-mont-dor.mp4",
+    "meta_title": "Conseiller immobilier iad à Champagne-au-Mont-d'Or",
+    "prix_m2_maison": 4889,
+    "prix_m2_appartement": 3937,
+    "delai_vente": 54
+  },
+  "dardilly": {
+    "superficie": 13.99,
+    "meta_description": "Avis de valeur, vente et achat à Dardilly avec Romain Rieg, conseiller iad. Expertise des quartiers pavillonnaires du Mont d'Or et de l'Ouest lyonnais.",
+    "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+    "delai_vente": 68,
+    "prix_m2_maison": 4759,
+    "ecoles": [
+      {
+        "nom": "École des Noyeraies",
+        "type": "Primaire",
+        "precision": "École publique située à Dardilly - proche du Bourg et de l’Aqueduc."
+      },
+      {
+        "nom": "École Grégoire Parsonge",
+        "type": "Primaire",
+        "precision": "École publique située à Dardilly - proche du gymnase Moulin Carron et de l’Aqueduc."
+      },
+      {
+        "nom": "École Saint-Joseph",
+        "type": "Privé",
+        "precision": "École privée située à Dardilly - enseignement de la maternelle au primaire."
+      },
+      {
+        "nom": "Pas de collège public à Dardilly",
+        "type": "Collège",
+        "precision": "Les élèves dépendent d’établissements publics de secteur situés dans les communes voisines selon la sectorisation."
+      },
+      {
+        "nom": "Aux Lazaristes La Salle - site de Limonest",
+        "type": "Privé",
+        "precision": "Établissement privé situé à proximité immédiate de Dardilly."
+      },
+      {
+        "nom": "Lycée François Rabelais & GRETA-CFA Hôtelier",
+        "type": "Lycée",
+        "precision": "Lycée reconnu pour les formations aux métiers de l’hôtellerie, de la restauration et des métiers de bouche."
+      },
+      {
+        "nom": "Lycée Horticole, Paysage et Environnement Lyon-Dardilly",
+        "type": "Lycée",
+        "precision": "Établissement spécialisé dans les formations liées à l’horticulture, au paysage, à l’environnement et aux sciences du vivant."
+      },
+      {
+        "nom": "Centre de formation Philibert de l’Orme",
+        "type": "Supérieur",
+        "precision": "Centre de formation aux métiers du bâtiment situé à Dardilly."
+      }
+    ],
+    "intro": "Entre nature et métropole, Dardilly offre un équilibre recherché aux portes de Lyon : grands terrains, quartiers résidentiels calmes, environnement verdoyant et accès rapide aux grands axes. Une commune appréciée des familles et des actifs qui recherchent de l’espace, de la praticité et une vraie qualité de vie dans l’Ouest lyonnais.",
+    "nom": "Dardilly",
+    "cp": "69570",
+    "ce_qui_differencie": [
+      {
+        "titre": "De grandes parcelles et un cadre résidentiel rare",
+        "description": "Dardilly séduit par ses maisons familiales - ses terrains généreux - ses quartiers pavillonnaires et son atmosphère résidentielle préservée"
+      },
+      {
+        "titre": "Une commune connectée à Lyon et aux grands axes",
+        "description": "Accès rapide à l’A6 - proximité de Techlid - liaison vers Lyon et l’Ouest lyonnais : un positionnement pratique pour les actifs et les familles"
+      },
+      {
+        "titre": "Un pôle de formation reconnu",
+        "description": "Lycée François Rabelais / Lycée Horticole de Dardilly / centre de formation Philibert de l’Orme : la commune bénéficie d’un environnement éducatif et technique solide"
+      },
+      {
+        "titre": "Un cadre de vie vert et familial",
+        "description": "Espaces naturels - équipements sportifs - proximité du golf de La Tour-de-Salvagny et ambiance village : Dardilly conserve une vraie respiration aux portes de la métropole"
+      }
+    ],
+    "population": 9221,
+    "intercommunalite": "Métropole de Lyon",
+    "associations": [
+      {
+        "nom": "FCLDSD - Football Club Limonest-Dardilly-Saint-Didier",
+        "activite": "Club intercommunal structurant, de l’école de football aux équipes seniors, avec une vraie présence dans la vie sportive locale."
+      },
+      {
+        "nom": "Tennis Club Dardilly Champagne",
+        "activite": "Club reconnu à proximité de Dardilly, avec tennis, padel, courts couverts, terrains extérieurs et pratique pour tous les niveaux."
+      },
+      {
+        "nom": "Athletic Club Dardilly",
+        "activite": "Association dédiée à l’athlétisme, au running et à la marche nordique."
+      },
+      {
+        "nom": "Badminton Club Dardillois - BCD69",
+        "activite": "Club de badminton local, ouvert aux jeunes et aux adultes, avec pratique loisir et compétition."
+      },
+      {
+        "nom": "Centre de danse et de fitness de Dardilly",
+        "activite": "Association proposant danse, gymnastique, yoga, zumba et activités de forme."
+      },
+      {
+        "nom": "Aïkido Dardilly / Arts Martiaux Dardilly",
+        "activite": "Pratique des arts martiaux, du judo, de l’aïkido et d’activités associées dans les équipements sportifs de la commune."
+      }
+    ],
+    "evolution_prix": [
+      {
+        "annee": 2020,
+        "prixM2": 4200,
+        "prix_appartement": 3791
+      },
+      {
+        "annee": 2021,
+        "prixM2": 4550,
+        "prix_appartement": 4107
+      },
+      {
+        "annee": 2022,
+        "prixM2": 4900,
+        "prix_appartement": 4423
+      },
+      {
+        "annee": 2023,
+        "prixM2": 4950,
+        "prix_appartement": 4468
+      },
+      {
+        "annee": 2024,
+        "prixM2": 4850,
+        "prix_appartement": 4378
+      },
+      {
+        "annee": 2025,
+        "prixM2": 4760,
+        "prix_appartement": 4297
+      }
+    ],
+    "prix_m2_appartement": 4296,
+    "restaurants": [
+      {
+        "nom": "Restaurant Bol d'Air",
+        "cuisine": "Institution locale avenue de Verdun, avec un esprit café de village, une cuisine bistronomique et une atmosphère conviviale. · 4,7★",
+        "gamme": "Gastro",
+        "note": 4.7
+      },
+      {
+        "nom": "Odyssée Restaurant",
+        "cuisine": "Une adresse chaleureuse au cœur de la zone Techlid, avec une cuisine maison, généreuse et de saison. · 4,9★ ",
+        "gamme": "Bistrot",
+        "note": 4.9
+      },
+      {
+        "nom": "L'Auberge du Village",
+        "cuisine": "Adresse emblématique de Dardilly, appréciée pour sa cuisine française traditionnelle et son atmosphère chaleureuse. · 4,5★ ",
+        "gamme": "Brasserie",
+        "note": 4.5
+      },
+      {
+        "nom": "Restaurant Comme Avant",
+        "cuisine": "Adresse située place de l’Église, avec terrasse ombragée, cuisine française traditionnelle et ambiance de village.· 4,8★ ",
+        "gamme": "Bistrot",
+        "note": 4.8
+      },
+      {
+        "nom": "La Table du Bas",
+        "cuisine": "Restaurant bistronomique situé avenue de Verdun, avec une cuisine généreuse, raffinée, fraîche et de saison. · 4,9★ ",
+        "gamme": "Bistrot",
+        "note": 4.9
+      },
+      {
+        "nom": "Le Patio Dardilly",
+        "cuisine": "Adresse conviviale pour déjeuner ou dîner, dans un esprit brasserie accessible et pratique. · 4,2★ ",
+        "gamme": "Brasserie",
+        "note": 4.2
+      },
+      {
+        "nom": "Café Marcel",
+        "cuisine": "Une adresse récente et conviviale à Dardilly, idéale pour une pause café, un déjeuner simple ou une parenthèse plus légère. · 5★ ",
+        "gamme": "Café",
+        "note": 5
+      },
+      {
+        "nom": "Double 7 Dardilly",
+        "cuisine": "Restaurant situé dans le quartier d’affaires, avec cuisine maison, cadre moderne et ambiance conviviale. · 4,5★ ",
+        "gamme": "Bistrot",
+        "note": 4.5
+      }
+    ],
+    "video_insta": {
+      "titre": "Pourquoi Dardilly est sous-coté",
+      "duree": "1:15"
+    },
+    "galerie": [
+      "/uploads/dardilly.jpeg",
+      "/uploads/img_6768.jpeg",
+      "/uploads/img_6774.jpeg",
+      "/uploads/img_6782.jpeg",
+      "/uploads/img_6814.jpeg",
+      "/uploads/img_6825.jpeg",
+      "/uploads/img_6851.jpeg",
+      "/uploads/img_6859.jpeg"
+    ],
+    "video": "/uploads/dardilly.jpeg",
+    "quartiers": [
+      {
+        "nom": "Le Bourg - Esplanade",
+        "description": "Cœur historique et pratique de Dardilly avec mairie, commerces, écoles, équipements publics et nouvelle dynamique autour de l’Esplanade. Un secteur recherché pour sa vie de village, sa centralité et sa praticité au quotidien.",
+        "prix_indicatif": "4 400 - 5 200 €/m²"
+      },
+      {
+        "nom": "Le Barriot - Pierre Blanche",
+        "description": "Secteur historique de Dardilly autour de l’église du Barriot, du marché de producteurs et d’une vraie ambiance de village. Une adresse appréciée pour ses commerces de proximité, son cadre résidentiel et son esprit local.",
+        "prix_indicatif": "4 200 - 5 100 €/m²"
+      },
+      {
+        "nom": "Les Noyeraies - Parsonge",
+        "description": "Secteur résidentiel familial, apprécié pour son calme, ses équipements, ses écoles et son environnement pavillonnaire. Un bon équilibre entre vie de quartier, accès aux services et cadre verdoyant.",
+        "prix_indicatif": "4 400 - 5 300 €/m²"
+      },
+      {
+        "nom": "La Beffe - Mouchettes",
+        "description": "Secteur plus résidentiel et qualitatif, recherché pour ses maisons familiales, ses parcelles plus généreuses et son environnement confidentiel. Les biens les plus soignés peuvent dépasser cette fourchette selon le terrain et les prestations.",
+        "prix_indicatif": "4 600 - 5 600 €/m²"
+      },
+      {
+        "nom": "Gargantua - Brûley - Porte de Lyon",
+        "description": "Secteur pratique et connecté, proche des grands axes, des commerces et de la zone d’activité. Il offre un marché plus mixte entre maisons, petits collectifs et biens fonctionnels.",
+        "prix_indicatif": "3 900 - 4 900 €/m²"
+      },
+      {
+        "description": "Secteur recherché pour son environnement plus vert, son ambiance résidentielle et sa proximité avec les espaces naturels. Les maisons avec terrain, calme et prestations de qualité y sont particulièrement appréciées.",
+        "prix_indicatif": "4 500 - 5 500 €/m²",
+        "nom": "Bois de Serres - Brochetière"
+      }
+    ],
+    "video_visite": "/uploads/dardilly.mp4",
+    "meta_title": "Conseiller immobilier iad à Dardilly (69570)"
+  },
+  "ecully": {
+    "superficie": 9,
+    "meta_description": "Avis de valeur, vente et achat à Écully avec Romain Rieg, conseiller iad. Connaissance fine des résidences de standing du Mont d'Or et de l'Ouest lyonnais.",
+    "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+    "delai_vente": 62,
+    "prix_m2_maison": 5278,
+    "ecoles": [
+      {
+        "nom": "Écoles publiques d’Écully",
+        "type": "Primaire",
+        "precision": "La commune compte plusieurs groupes scolaires publics : Les Cerisiers, Charrière Blanche, Vallon de Grandvaux, Le Pérollier et le Centre."
+      },
+      {
+        "nom": "École Sainte-Blandine",
+        "type": "Privé",
+        "precision": "École privée située place de la Libération à Écully."
+      },
+      {
+        "nom": "École Saint Dominique Savio",
+        "type": "Privé",
+        "precision": "École privée située chemin de la Sauvegarde à Écully."
+      },
+      {
+        "nom": "Collège Laurent Mourguet",
+        "precision": "Collège public situé à Écully.",
+        "type": "Collège"
+      },
+      {
+        "precision": "Collège privé catholique sous contrat situé avenue du Docteur Terver à Écully.",
+        "type": "Privé",
+        "nom": "Collège Sacré-Cœur - Don Bosco"
+      },
+      {
+        "nom": "École Centrale de Lyon",
+        "type": "Supérieur",
+        "precision": "Établissement d’excellence situé à Écully, au cœur du campus Lyon Ouest."
+      },
+      {
+        "nom": "Institut Lyfe - ex Institut Paul Bocuse",
+        "type": "Supérieur",
+        "precision": "École internationale de référence dans les domaines de l’hôtellerie-restauration, des arts culinaires, de la pâtisserie et du management."
+      }
+    ],
+    "intro": "Aux portes de Lyon, Écully séduit par son équilibre rare entre cadre résidentiel, patrimoine naturel, grandes écoles et accès rapide au centre lyonnais. Entre propriétés familiales, résidences de standing, quartiers commerçants et secteurs plus confidentiels, la commune attire une clientèle variée à la recherche d’espace, de confort et de qualité de vie.",
+    "nom": "Écully",
+    "cp": "69130",
+    "ce_qui_differencie": [
+      {
+        "titre": "Un marché résidentiel recherché",
+        "description": "Écully attire une demande familiale solide grâce à sa proximité avec Lyon - ses quartiers résidentiels - ses écoles et son cadre de vie privilégié"
+      },
+      {
+        "titre": "Un pôle d’enseignement supérieur reconnu",
+        "description": "École Centrale de Lyon / Institut Lyfe - ex Institut Paul Bocuse / campus Lyon Ouest Écully : la commune bénéficie d’un environnement académique fort et attractif"
+      },
+      {
+        "titre": "Une commune bien connectée à Lyon",
+        "description": "Accès rapide à Lyon par les lignes de bus - la gare Écully-la-Demi-Lune - le tram-train de l’Ouest lyonnais et les grands axes routiers"
+      },
+      {
+        "titre": "Un cadre naturel très présent",
+        "description": "Parc du Vivier / bois de Serres / espaces boisés / quartiers résidentiels arborés : Écully conserve une vraie respiration verte aux portes de Lyon"
+      }
+    ],
+    "population": 17944,
+    "intercommunalite": "Métropole de Lyon",
+    "associations": [
+      {
+        "nom": "Écully Sports",
+        "activite": "Structure multisports emblématique de la commune, avec plusieurs disciplines et une forte présence dans la vie locale."
+      },
+      {
+        "nom": "Écully Athlétisme",
+        "activite": "Club dédié à la pratique de l’athlétisme, de la découverte à la compétition."
+      },
+      {
+        "nom": "MJC d'Écully",
+        "activite": "Lieu important de la vie culturelle locale, avec activités, ateliers, théâtre, musique et projets collectifs."
+      },
+      {
+        "nom": "Comité de jumelage Écully - Lourinhã (Portugal)",
+        "activite": "Association favorisant les échanges culturels et les liens internationaux avec le Portugal."
+      }
+    ],
+    "evolution_prix": [
+      {
+        "annee": 2020,
+        "prixM2": 4700,
+        "prix_appartement": 3856
+      },
+      {
+        "annee": 2021,
+        "prixM2": 5050,
+        "prix_appartement": 4143
+      },
+      {
+        "annee": 2022,
+        "prixM2": 5400,
+        "prix_appartement": 4430
+      },
+      {
+        "annee": 2023,
+        "prixM2": 5450,
+        "prix_appartement": 4471
+      },
+      {
+        "annee": 2024,
+        "prixM2": 5350,
+        "prix_appartement": 4389
+      },
+      {
+        "annee": 2025,
+        "prixM2": 5280,
+        "prix_appartement": 4332
+      }
+    ],
+    "prix_m2_appartement": 4330,
+    "restaurants": [
+      {
+        "nom": "Saisons (Institut Paul Bocuse) -                 1 étoile michelin",
+        "cuisine": "Restaurant gastronomique d’application installé au cœur du parc du Vivier, dans l’environnement de l’Institut Lyfe - ex Institut Paul Bocuse. · 4,8★ ",
+        "gamme": "Étoilé",
+        "note": 4.8
+      },
+      {
+        "nom": "Au Bel Avenir",
+        "cuisine": "Restaurant et bar à Écully, avec une cuisine traditionnelle française, une ambiance conviviale et une belle adresse pour déjeuner, dîner ou partager un moment entre amis. · 4,7★ ",
+        "gamme": "Brasserie",
+        "note": 4.7
+      },
+      {
+        "nom": "Au Comptoir d'Écully",
+        "cuisine": "Adresse récente et chaleureuse, pensée autour de la convivialité, des produits du terroir et d’une cuisine maison.· 4,9★ ",
+        "gamme": "Bistrot",
+        "note": 4.9
+      },
+      {
+        "nom": "Volfoni Écully",
+        "cuisine": "Restaurant italien situé chemin Jean-Marie Vianney, à proximité d’Écully Grand Ouest.· 4,6★ ",
+        "gamme": "Bistrot",
+        "note": 4.6
+      },
+      {
+        "nom": "Restaurant Le Village",
+        "cuisine": "Adresse située avenue du Docteur Terver, avec une cuisine maison, une ambiance chaleureuse et une terrasse agréable en saison. · 4,5★ ",
+        "gamme": "Bistrot",
+        "note": 4.5
+      },
+      {
+        "nom": "L'Entre-Nous",
+        "cuisine": "Restaurant italien situé allée Moulin Berger, avec une offre de restauration, pizzeria et vente à emporter.· 4,5★ ",
+        "gamme": "Bistrot",
+        "note": 4.5
+      },
+      {
+        "nom": "Kif Angkor",
+        "cuisine": "Adresse située rue Marietton, avec une cuisine d’inspiration cambodgienne et indochinoise.· 5★ ",
+        "gamme": "Bistrot",
+        "note": 5
+      }
+    ],
+    "video_insta": {
+      "titre": "Pourquoi Écully attire les familles cadres",
+      "duree": "1:30"
+    },
+    "galerie": [
+      "/uploads/img_7187.jpeg",
+      "/uploads/ecully.jpeg",
+      "/uploads/img_7205.jpeg",
+      "/uploads/img_7214.jpeg",
+      "/uploads/img_7235.jpeg",
+      "/uploads/img_8002.jpeg",
+      "/uploads/img_8005.jpeg"
+    ],
+    "video": "/uploads/ecully.jpeg",
+    "quartiers": [
+      {
+        "nom": "Centre-ville - Docteur Terver",
+        "description": "Le cœur vivant d’Écully : commerces, marché, mairie, écoles, restaurants et services du quotidien. Un secteur recherché pour sa centralité, son esprit village et sa facilité de vie aux portes de Lyon.",
+        "prix_indicatif": "4 500 - 5 400 €/m²"
+      },
+      {
+        "nom": "Valvert - Charlier - Marietton",
+        "description": "Secteur pratique et connecté, proche de Lyon 9e, de Vaise, des transports et des grands axes. Le marché y est varié, entre appartements, maisons de ville et adresses plus résidentielles selon les rues.",
+        "prix_indicatif": "4 100 - 5 100 €/m²"
+      },
+      {
+        "nom": "Vivier - Les Serres",
+        "description": "Secteur résidentiel apprécié pour son environnement verdoyant, ses belles propriétés, ses espaces arborés et la proximité du parc du Vivier. Une adresse recherchée pour son calme et son cadre de vie.",
+        "prix_indicatif": "4 500 - 5 600 €/m²"
+      },
+      {
+        "nom": "Charrière Blanche - Grandvaux - Calabert",
+        "description": "Secteur familial et résidentiel, composé de maisons, résidences de standing et rues calmes. Grandvaux et Charrière Blanche affichent souvent des valeurs solides grâce à leur environnement, leurs écoles et leur qualité résidentielle.",
+        "prix_indicatif": "4 600 - 5 700 €/m²"
+      },
+      {
+        "nom": "Sources - Pérollier - Vianney",
+        "description": "Secteur plus mixte, avec une offre importante d’appartements, de résidences et de logements familiaux. Un secteur intéressant pour les acquéreurs recherchant un budget plus accessible à Écully, avec des écarts importants selon l’adresse et l’état du bien.",
+        "prix_indicatif": "3 900 - 5 100 €/m²"
+      },
+      {
+        "nom": "Tronchon - Moulin Carron - École Centrale",
+        "description": "Secteur lié au campus, aux grandes écoles et aux axes de l’Ouest lyonnais. Il attire aussi bien des familles, des actifs que des profils investisseurs, notamment grâce à la proximité de l’École Centrale de Lyon et des pôles d’enseignement supérieur.",
+        "prix_indicatif": "4 100 - 5 200 €/m"
+      }
+    ],
+    "video_visite": "/uploads/ecully.mp4",
+    "meta_title": "Conseiller immobilier iad à Écully (69130)"
+  },
+  "limonest": {
+    "superficie": 9,
+    "meta_description": "Avis de valeur, vente et achat à Limonest avec Romain Rieg, conseiller iad. Expertise du patrimoine en pierres dorées du Mont d'Or et de l'Ouest lyonnais.",
+    "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+    "delai_vente": 71,
+    "prix_m2_maison": 5184,
+    "ecoles": [
+      {
+        "nom": "École publique Antoine Godard",
+        "type": "Primaire",
+        "precision": "École publique de Limonest, située allée de la Liberté, avec un enseignement de la maternelle à l’élémentaire."
+      },
+      {
+        "nom": "École privée Saint-Martin",
+        "type": "Privé",
+        "precision": "École privée située à Limonest, de la maternelle au primaire, dans un cadre familial au cœur de la commune."
+      },
+      {
+        "nom": "Collège Aux Lazaristes La Salle - site Limonest",
+        "type": "Collège",
+        "precision": "Établissement privé situé chemin de la Sablière, très identifié sur le secteur et recherché par de nombreuses familles de l’Ouest lyonnais."
+      },
+      {
+        "nom": "Institut Sandar La Salle",
+        "type": "Supérieur",
+        "precision": "Établissement situé à Limonest, avec des formations liées à l’environnement, l’agriculture, l’équitation, l’agrotechnologie et certains parcours post-bac."
+      },
+      {
+        "nom": "Lycées de Lyon Ouest et de l’Ouest lyonnais",
+        "type": "Lycée",
+        "precision": "Selon l’adresse, la sectorisation et l’orientation choisie, les élèves peuvent se tourner vers les lycées publics de proximité, notamment sur Lyon 5e, Lyon 9e ou Dardilly."
+      }
+    ],
+    "intro": "Village de caractère dans les Monts d’Or, Limonest séduit par son patrimoine en pierres dorées, ses vues, son environnement naturel et sa proximité avec les grands pôles économiques de l’Ouest lyonnais. Une commune recherchée par les familles, les actifs et les acquéreurs en quête d’un cadre de vie résidentiel, vert et bien connecté à Lyon.",
+    "nom": "Limonest",
+    "cp": "69760",
+    "ce_qui_differencie": [
+      {
+        "titre": "Un village de caractère dans les Monts d’Or",
+        "description": "Limonest conserve une vraie identité locale avec son centre village - son bâti ancien - ses pierres dorées - ses hameaux historiques et ses paysages vallonnés"
+      },
+      {
+        "titre": "Un cadre naturel très présent",
+        "description": "Entre Mont Verdun - Bois d’Ars - chemins - vues et espaces paysagers - la commune offre une respiration rare à proximité immédiate de Lyon"
+      },
+      {
+        "titre": "Un marché résidentiel recherché",
+        "description": "Maisons familiales - propriétés avec terrain - biens rénovés et adresses plus confidentielles attirent une clientèle sensible au calme - à l’espace et à la qualité de vie"
+      },
+      {
+        "titre": "Un pôle économique stratégique",
+        "description": "Avec Techlid - Puy d’Or et les Bruyères - Limonest bénéficie d’un environnement tertiaire important - très pratique pour les actifs de l’Ouest lyonnais"
+      }
+    ],
+    "population": 4012,
+    "intercommunalite": "Métropole de Lyon",
+    "hero_position": "center",
+    "associations": [
+      {
+        "nom": "FCLDSD - Football Club Limonest-Dardilly-Saint-Didier",
+        "activite": "Club structurant de l’Ouest lyonnais, fortement ancré dans la vie sportive locale."
+      },
+      {
+        "nom": "Tennis & Padel Club du Bois d’Ars",
+        "activite": "Club sportif situé route du Bois d’Ars, avec une pratique tennis et padel dans un environnement verdoyant."
+      },
+      {
+        "nom": "BMX et VTT Limonest",
+        "activite": "Association sportive locale dédiée à la pratique du vélo, du BMX et du VTT."
+      },
+      {
+        "nom": "Badmin d’Or",
+        "activite": "Club de badminton actif sur les communes des Monts d’Or, avec une pratique loisir et sportive."
+      },
+      {
+        "nom": "Association de Sauvegarde des Lavoirs & du Petit Patrimoine",
+        "activite": "Association engagée dans la préservation du patrimoine local et des éléments historiques de la commune."
+      },
+      {
+        "nom": "Comité des Fêtes de Limonest",
+        "activite": "Association impliquée dans les temps forts, événements et animations qui participent à la vie du village."
+      }
+    ],
+    "evolution_prix": [
+      {
+        "annee": 2020,
+        "prixM2": 4500,
+        "prix_appartement": 4102
+      },
+      {
+        "annee": 2021,
+        "prixM2": 4900,
+        "prix_appartement": 4467
+      },
+      {
+        "annee": 2022,
+        "prixM2": 5250,
+        "prix_appartement": 4786
+      },
+      {
+        "annee": 2023,
+        "prixM2": 5350,
+        "prix_appartement": 4877
+      },
+      {
+        "annee": 2024,
+        "prixM2": 5250,
+        "prix_appartement": 4786
+      },
+      {
+        "annee": 2025,
+        "prixM2": 5180,
+        "prix_appartement": 4722
+      }
+    ],
+    "prix_m2_appartement": 4726,
+    "restaurants": [
+      {
+        "nom": "La Pièce du Boucher",
+        "cuisine": "Adresse reconnue de Limonest pour les amateurs de viande, avec une cuisine maison et une ambiance conviviale. · 4,6★ (1 356 avis), av. Général de Gaulle",
+        "gamme": "Bistrot",
+        "note": 4.6
+      },
+      {
+        "nom": "Jols Lyon Limonest",
+        "cuisine": "Adresse bien connue de l’Ouest lyonnais, située route du Puy d’Or, spécialisée dans les poissons et fruits de mer. · 4,3★ ",
+        "gamme": "Brasserie",
+        "note": 4.3
+      },
+      {
+        "nom": "La Casa Nostra",
+        "cuisine": "C’est une vraie adresse italienne de Limonest, avec pizzas au feu de bois, spécialités italiennes et grande terrasse ombragée. · 4,3★",
+        "gamme": "Pizza",
+        "note": 4.3
+      },
+      {
+        "nom": "Restaurant Côté Balcon",
+        "cuisine": "Adresse située place du Griffon, au cœur de Limonest, appréciée pour son esprit convivial, sa terrasse et son cadre avec vue. · 4,6★ ",
+        "gamme": "Bistrot",
+        "note": 4.6
+      },
+      {
+        "nom": "Maison Savoure",
+        "cuisine": "Adresse située au Parc Swen, avec une offre de restauration, traiteur et privatisation, particulièrement adaptée au secteur tertiaire de Limonest.· 4,6★ ",
+        "gamme": "Bistrot",
+        "note": 4.6
+      },
+      {
+        "nom": "ILO",
+        "cuisine": "Adresse récente allée des Frênes, entre café, cantine et bar, avec une atmosphère moderne et adaptée aux actifs du secteur. · 4,9★",
+        "gamme": "Bistrot",
+        "note": 4.9
+      },
+      {
+        "nom": "Les Halles de Limonest",
+        "cuisine": "Lieu de vie mêlant restaurant, artisans, boulangerie, boucherie, poissonnerie et cave à vins. Une adresse récente qui renforce l’attractivité du centre. · 4,3★ (198 avis)",
+        "gamme": "Brasserie",
+        "note": 4.3
+      },
+      {
+        "nom": "MIDI SEIZE",
+        "cuisine": "Restaurant situé au cœur de Techlid, pensé pour le déjeuner, les plats du jour, les repas à emporter et les moments professionnels. · 5★ ",
+        "gamme": "Bistrot",
+        "note": 5
+      }
+    ],
+    "video_insta": {
+      "titre": "Sur les pas du Mont Verdun - patrimoine de Limonest",
+      "duree": "2:00"
+    },
+    "galerie": [
+      "/uploads/limonest.jpeg",
+      "/uploads/img_6898.jpeg",
+      "/uploads/img_6908.jpeg",
+      "/uploads/img_6920.jpeg",
+      "/uploads/img_6950.jpeg",
+      "/uploads/img_6964.jpeg",
+      "/uploads/img_6971.jpeg",
+      "/uploads/img_6985.jpeg"
+    ],
+    "video": "/uploads/limonest.jpeg",
+    "quartiers": [
+      {
+        "nom": "Le Bourg - Place du Griffon",
+        "description": "Le cœur historique et pratique de Limonest : mairie, église, commerces, écoles, restaurants et vie de village. Un secteur recherché pour sa centralité, son cachet et sa facilité de vie au quotidien.",
+        "prix_indicatif": "4 800 - 5 700 €/m²"
+      },
+      {
+        "nom": "Saint-André du Coing - La Garde",
+        "description": "Secteur résidentiel et patrimonial sur les hauteurs, marqué par les hameaux anciens, les vues et une ambiance plus confidentielle. Une adresse appréciée pour son calme, son caractère et son rapport direct aux paysages des Monts d’Or.",
+        "prix_indicatif": "4 900 - 5 900 €/m²"
+      },
+      {
+        "nom": "Mont Verdun - Sans Souci",
+        "description": "Secteur emblématique de Limonest, recherché pour son environnement naturel, ses grandes propriétés, ses vues et son atmosphère préservée. Les biens rares avec terrain, prestations ou adresse exceptionnelle peuvent dépasser cette fourchette.",
+        "prix_indicatif": "5 100 - 6 300 €/m²"
+      },
+      {
+        "nom": "Bois d’Ars - Châtaignière - Vallonière",
+        "description": "Secteur résidentiel plus vert, apprécié pour ses maisons familiales, ses parcelles arborées et son ambiance calme. Une zone attractive pour les acquéreurs recherchant espace, nature et proximité avec le centre de Limonest.",
+        "prix_indicatif": "4 900 - 6 000 €/m²"
+      },
+      {
+        "nom": "Puy d’Or - Bruyères - Champivost",
+        "description": "Secteur mixte, entre parc tertiaire, résidences récentes, accès routiers et environnement paysager. Un secteur pratique pour les actifs, avec une bonne connexion vers Lyon, Dardilly et Techlid.",
+        "prix_indicatif": "4 600 - 5 600 €/m²"
+      },
+      {
+        "nom": "Porte de Lyon - Route Nationale 6 - Techlid",
+        "description": "Secteur plus connecté et plus fonctionnel, proche des axes, des commerces et des pôles économiques. Le marché y est plus hétérogène, entre appartements, résidences, biens récents et maisons selon les rues.",
+        "prix_indicatif": "4 300 - 5 300 €/m²"
+      }
+    ],
+    "video_visite": "/uploads/limonest.mp4",
+    "meta_title": "Conseiller immobilier iad à Limonest (69760)"
+  },
+  "saint-cyr-au-mont-dor": {
+    "superficie": 7.29,
+    "meta_description": "Avis de valeur, vente et achat à Saint-Cyr-au-Mont-d'Or avec Romain Rieg, conseiller iad. Expertise des propriétés de prestige du Mont d'Or et de l'Ouest lyonnais.",
+    "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+    "delai_vente": 74,
+    "prix_m2_maison": 6230,
+    "ecoles": [
+      {
+        "nom": "École maternelle du Bourg",
+        "type": "Maternelle",
+        "precision": "École publique située au cœur du village - de la petite à la grande section."
+      },
+      {
+        "nom": "École élémentaire de Champlong",
+        "type": "Primaire",
+        "precision": "École publique de la commune - du CP au CM2."
+      },
+      {
+        "nom": "Les Chartreux - Sainte Blandine",
+        "type": "Privé",
+        "precision": "École privée située à Saint-Cyr-au-Mont-d’Or"
+      },
+      {
+        "nom": "L’Envolée",
+        "type": "Primaire",
+        "precision": "École privée située à Saint-Cyr-au-Mont-d’Or"
+      },
+      {
+        "nom": "Collège Jean-Philippe Rameau",
+        "type": "Collège",
+        "precision": "Collège public situé à Champagne-au-Mont-d’Or"
+      },
+      {
+        "precision": "Établissement privé reconnu de l’Ouest lyonnais - de la primaire au lycée selon les niveaux et sites concernés.",
+        "nom": "Sainte-Marie Lyon",
+        "type": "Privé"
+      }
+    ],
+    "intro": "Surplombant la Saône, Saint-Cyr-au-Mont-d’Or fait partie des adresses les plus confidentielles dans les Monts d’Or. Propriétés d’exception, vues dégagées, belles demeures en pierres dorées et biens rarement disponibles : la commune attire une clientèle exigeante en recherche de calme, de discrétion et de proximité avec Lyon.",
+    "nom": "Saint-Cyr-au-Mont-d'Or",
+    "cp": "69450",
+    "ce_qui_differencie": [
+      {
+        "titre": "Un marché immobilier confidentiel et recherché",
+        "description": "Saint-Cyr-au-Mont-d’Or fait partie des communes les plus prisées de la métropole lyonnaise. L’offre y reste limitée et les biens de qualité sont particulièrement recherchés"
+      },
+      {
+        "titre": "Une adresse forte dans les Monts d’Or",
+        "description": "À quelques minutes de Lyon - la commune offre un cadre résidentiel rare avec vues sur la Saône - environnement préservé et atmosphère très privilégiée"
+      },
+      {
+        "titre": "Un patrimoine bâti remarquable",
+        "description": "Bastides anciennes / maisons en pierres dorées / propriétés avec parc / adresses discrètes : Saint-Cyr-au-Mont-d’Or possède une identité patrimoniale forte"
+      },
+      {
+        "titre": "Une clientèle exigeante",
+        "description": "Le marché local attire des acquéreurs attentifs à la qualité de vie - à la discrétion - aux prestations et à l’emplacement"
+      }
+    ],
+    "population": 6327,
+    "intercommunalite": "Métropole de Lyon",
+    "associations": [
+      {
+        "nom": "Tennis Club de Saint-Cyr-au-Mont-d’Or",
+        "activite": "Club sportif historique de la commune, avec une pratique locale ancrée"
+      },
+      {
+        "nom": "Mont Cindre et son ermitage",
+        "activite": "Association engagée dans la mise en valeur du Mont Cindre, de son ermitage et de son patrimoine remarquable."
+      },
+      {
+        "nom": "HBCCD - Handball Club Saint-Cyr / Saint-Didier",
+        "activite": "Club de handball intercommunal, actif sur Saint-Cyr-au-Mont-d’Or et Saint-Didier-au-Mont-d’Or."
+      },
+      {
+        "nom": "Associations culturelles et sportives",
+        "activite": "La commune bénéficie d’un tissu associatif varié, entre sport, culture, patrimoine et animations locales."
+      }
+    ],
+    "evolution_prix": [
+      {
+        "annee": 2020,
+        "prixM2": 5400,
+        "prix_appartement": 4449
+      },
+      {
+        "annee": 2021,
+        "prixM2": 5900,
+        "prix_appartement": 4861
+      },
+      {
+        "annee": 2022,
+        "prixM2": 6350,
+        "prix_appartement": 5232
+      },
+      {
+        "annee": 2023,
+        "prixM2": 6450,
+        "prix_appartement": 5314
+      },
+      {
+        "annee": 2024,
+        "prixM2": 6320,
+        "prix_appartement": 5207
+      },
+      {
+        "annee": 2025,
+        "prixM2": 6230,
+        "prix_appartement": 5133
+      }
+    ],
+    "prix_m2_appartement": 5133,
+    "restaurants": [
+      {
+        "nom": "L'Ermitage Cuisine à Manger",
+        "cuisine": "Une adresse emblématique sur les hauteurs de Saint-Cyr-au-Mont-d’Or, avec cuisine soignée, produits de saison et vue remarquable sur Lyon. · 4,5★ ",
+        "gamme": "Gastro",
+        "note": 4.5
+      },
+      {
+        "nom": "Le Comptoir de St Cyr",
+        "cuisine": "Une adresse conviviale route de Lyon, appréciée pour son esprit brasserie et son emplacement pratique. · 4,3★ ",
+        "gamme": "Brasserie",
+        "note": 4.3
+      },
+      {
+        "nom": "Là-Haut sur la Colline",
+        "cuisine": "Restaurant situé route du Mont Cindre, avec une cuisine de saison dans un cadre verdoyant et une atmosphère chaleureuse. · 4,3★ ",
+        "gamme": "Bistrot",
+        "note": 4.3
+      },
+      {
+        "nom": "Brasserie des Monts d'Or",
+        "cuisine": "Une adresse de centre village, simple et conviviale, qui participe à la vie locale de Saint-Cyr-au-Mont-d’Or. · 3,9★",
+        "gamme": "Brasserie",
+        "note": 3.9
+      }
+    ],
+    "video_insta": {
+      "titre": "Bastide en pierres dorées - visite exclusive",
+      "duree": "1:45"
+    },
+    "galerie": [
+      "/uploads/saint-cyr-au-mont-dor.jpeg",
+      "/uploads/img_7306.jpeg",
+      "/uploads/img_7348.jpeg",
+      "/uploads/img_7386.jpeg",
+      "/uploads/img_7949.jpeg",
+      "/uploads/img_7389.jpeg",
+      "/uploads/img_7396.jpeg",
+      "/uploads/img_7425.jpeg"
+    ],
+    "video": "/uploads/st-cyr.jpeg",
+    "quartiers": [
+      {
+        "nom": "Le Bourg - République",
+        "description": "Le cœur historique de Saint-Cyr-au-Mont-d’Or : commerces de proximité, mairie, église, marché et belles maisons en pierres des Monts d’Or. Un secteur recherché pour son cachet, sa vie de village et sa proximité avec Lyon.",
+        "prix_indicatif": "5 500 - 6 700 €/m²"
+      },
+      {
+        "nom": "Mont Cindre - Ermitage",
+        "description": "Secteur emblématique de la commune, apprécié pour ses vues, son environnement boisé et son patrimoine autour de l’Ermitage. Les propriétés les plus rares peuvent dépasser cette fourchette selon le terrain, la vue et le niveau de prestations.",
+        "prix_indicatif": "6 000 - 7 600 €/m²"
+      },
+      {
+        "nom": "Les Ormes - Greffières - Indiennerie",
+        "description": "Un secteur résidentiel plus varié, entre maisons familiales, propriétés anciennes, environnement végétal et accès pratique vers Lyon. Une zone intéressante pour les acquéreurs qui recherchent le compromis entre cadre de vie et mobilité.",
+        "prix_indicatif": "5 300 - 6 600 €/m²"
+      },
+      {
+        "nom": "Mont Thou - Maison de la Nature",
+        "prix_indicatif": "5 800 - 7 300 €/m²",
+        "description": "Un secteur résidentiel confidentiel, recherché pour son calme, ses grandes parcelles et son rapport direct à la nature. Une adresse très appréciée des acquéreurs en quête d’espace et de discrétion."
+      },
+      {
+        "prix_indicatif": "5 400 - 6 700 €/m²",
+        "nom": "La Chaux - Baticolière - Nervieux",
+        "description": "Un secteur familial et résidentiel, composé de maisons individuelles, de propriétés discrètes et d’adresses calmes. Très apprécié pour son équilibre entre tranquillité, accès aux écoles et proximité des transports."
+      }
+    ],
+    "video_visite": "/uploads/saint-cyr-au-mont-dor.mp4",
+    "meta_title": "Conseiller immobilier iad à Saint-Cyr-au-Mont-d'Or"
+  },
+  "saint-didier-au-mont-dor": {
+    "superficie": 8,
+    "meta_description": "Avis de valeur, vente et achat à Saint-Didier-au-Mont-d'Or avec Romain Rieg, conseiller iad résident. Connaissance fine du marché du Mont d'Or et de l'Ouest lyonnais.",
+    "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+    "delai_vente": 58,
+    "prix_m2_maison": 6256,
+    "ecoles": [
+      {
+        "nom": "École publique Ennat et Auguste Leger",
+        "type": "Maternelle",
+        "precision": "École publique de la commune - répartie entre le site du Bourg et le site de Saint-Fortunat."
+      },
+      {
+        "nom": "École primaire privée Fromente - Saint-François",
+        "type": "Maternelle",
+        "precision": "École privée située à Saint-Didier-au-Mont-d’Or - maternelle et élémentaire."
+      },
+      {
+        "nom": "Collège Fromente - Saint-François / Lycée Chevreul Saint Didier",
+        "type": "Collège",
+        "precision": "Établissements privés situés à Saint-Didier-au-Mont-d’Or - dans un cadre reconnu dans les Monts d’Or."
+      },
+      {
+        "nom": "Collège Jean Perrin / Lycée Jean Perrin",
+        "type": "Collège",
+        "precision": "Établissements publics du secteur - situés à Lyon 9e selon la sectorisation et l’orientation choisie."
+      }
+    ],
+    "intro": "Commune résidentielle emblématique dans les Monts d’Or, Saint-Didier-au-Mont-d’Or séduit par son cadre de vie, ses écoles reconnues, son esprit village et sa proximité immédiate avec Lyon. Un marché recherché et exigeant, où les maisons familiales, les belles propriétés et les biens bien situés restent particulièrement convoités.",
+    "nom": "Saint-Didier-au-Mont-d'Or",
+    "cp": "69370",
+    "ce_qui_differencie": [
+      {
+        "titre": "Un marché immobilier rare et recherché",
+        "description": "Saint-Didier-au-Mont-d’Or fait partie des communes les plus prisées de la métropole lyonnaise. La demande y reste souvent supérieure à l’offre disponible"
+      },
+      {
+        "titre": "Un cadre de vie familial et privilégié",
+        "description": "Écoles - associations - commerces de proximité - environnement verdoyant : la commune offre un équilibre rare entre esprit village et accès rapide à Lyon"
+      },
+      {
+        "titre": "Une adresse forte dans les Monts d’Or",
+        "description": "À seulement quelques minutes de Lyon - Saint-Didier-au-Mont-d’Or conserve une identité résidentielle marquée avec des quartiers calmes - recherchés et bien établis"
+      },
+      {
+        "titre": "Une clientèle exigeante",
+        "description": "Maisons de famille / propriétés avec terrain / biens rénovés / adresses confidentielles : le marché local attire des acquéreurs attentifs à la qualité de vie - à l’emplacement et aux prestations"
+      }
+    ],
+    "population": 7435,
+    "intercommunalite": "Métropole de Lyon",
+    "associations": [
+      {
+        "nom": "FCLDSD - Football Club Limonest-Dardilly-Saint-Didier",
+        "activite": "Club de football intercommunal reconnu dans les Monts d’Or - équipes jeunes, seniors et pratique compétitive."
+      },
+      {
+        "nom": "HBCCD - Handball Club Saint-Cyr / Saint-Didier",
+        "activite": "Club de handball local, avec une pratique au gymnase de Saint-Didier-au-Mont-d’Or."
+      },
+      {
+        "nom": "Boule des Monts d'Or",
+        "activite": "Association dédiée à la boule lyonnaise, ancrée dans la tradition sportive locale."
+      },
+      {
+        "nom": "AGYD - Activités Gymniques de Saint-Didier",
+        "activite": "Cours de gymnastique, pilates, yoga et activités bien-être pour différents publics."
+      },
+      {
+        "nom": "Aïkido / Judo Ouest Grand Lyon",
+        "activite": "Pratique des arts martiaux au Centre Laurent Bonnevay - dojo de Saint-Didier-au-Mont-d’Or."
+      },
+      {
+        "nom": "Badmin d'Or",
+        "activite": "Club de badminton actif sur Saint-Didier-au-Mont-d’Or et Limonest."
+      },
+      {
+        "nom": "Comité d'animation de Saint-Didier",
+        "activite": "Événements villageois, temps forts communaux et animations qui participent à la vie locale."
+      }
+    ],
+    "evolution_prix": [
+      {
+        "annee": 2020,
+        "prixM2": 5300,
+        "prix_appartement": 4516
+      },
+      {
+        "annee": 2021,
+        "prixM2": 5850,
+        "prix_appartement": 4984
+      },
+      {
+        "annee": 2022,
+        "prixM2": 6350,
+        "prix_appartement": 5410
+      },
+      {
+        "annee": 2023,
+        "prixM2": 6500,
+        "prix_appartement": 5538
+      },
+      {
+        "annee": 2024,
+        "prixM2": 6350,
+        "prix_appartement": 5410
+      },
+      {
+        "annee": 2025,
+        "prixM2": 6250,
+        "prix_appartement": 5325
+      }
+    ],
+    "prix_m2_appartement": 5330,
+    "restaurants": [
+      {
+        "nom": "L'Éclat de Pierre",
+        "cuisine": "Une adresse reconnue au cœur du village, distinguée Bib Gourmand par le Guide Michelin. Cuisine française soignée, produits de saison et terrasse face à l’église. · 4,6★ ",
+        "gamme": "Bistrot",
+        "note": 4.6
+      },
+      {
+        "nom": "Aux Montagnards",
+        "cuisine": "Une institution locale sur les hauteurs de Saint-Didier-au-Mont-d’Or. Fondue, raclette, rôtisserie et cuisine généreuse dans un ancien relais de chasse. · 4,2★ ",
+        "gamme": "Brasserie",
+        "note": 4.2
+      },
+      {
+        "nom": "La Cantine du Village",
+        "cuisine": "Une table conviviale en plein cœur de Saint-Didier-au-Mont-d’Or, avec une cuisine française raffinée et une vraie atmosphère de village. · 4,4★ ",
+        "gamme": "Bistrot",
+        "note": 4.4
+      },
+      {
+        "nom": "La Boîte Noire",
+        "cuisine": "Une pizzeria contemporaine installée dans les Monts d’Or, idéale pour une adresse simple, efficace et conviviale. · 4,7★",
+        "gamme": "Pizza",
+        "note": 4.7
+      },
+      {
+        "nom": "Comptoir Fortunella",
+        "cuisine": "Une adresse italienne familiale à Saint-Fortunat, entre petite restauration, produits de qualité et inspirations sardes et siciliennes. · 4,9★",
+        "gamme": "Bistrot",
+        "note": 4.9
+      },
+      {
+        "nom": "Les Jardins de Saint-Didier",
+        "cuisine": "Une adresse conviviale avec terrasse, cuisine généreuse et esprit village. Un lieu apprécié pour déjeuner, dîner ou partager un moment en extérieur. · 4,5★",
+        "gamme": "Pizza",
+        "note": 4.5
+      }
+    ],
+    "video_insta": {
+      "titre": "Saint-Didier vu d'en haut - visite du Mont Cindre",
+      "duree": "2:10"
+    },
+    "galerie": [
+      "/uploads/saint-didier-au-mont-dor.jpeg",
+      "/uploads/img_6587.jpeg",
+      "/uploads/img_6989.jpeg",
+      "/uploads/img_6996.jpeg",
+      "/uploads/img_7016.jpeg",
+      "/uploads/img_7033.jpeg",
+      "/uploads/img_7050.jpeg",
+      "/uploads/img_7061.jpeg",
+      "/uploads/img_7070.jpeg",
+      "/uploads/img_7577.jpeg",
+      "/uploads/img_7600.jpeg"
+    ],
+    "video": "/uploads/saint-didier.jpeg",
+    "quartiers": [
+      {
+        "nom": "Centre village - Bourg",
+        "description": "Le cœur historique et pratique de Saint-Didier-au-Mont-d’Or : mairie, commerces, écoles, vie locale et accès rapide aux transports. Un secteur recherché pour son esprit village, sa centralité et son équilibre entre praticité et qualité de vie.",
+        "prix_indicatif": "5 600 - 6 700 €/m²"
+      },
+      {
+        "nom": "Saint-Fortunat",
+        "description": "Hameau emblématique dans les Monts d’Or, apprécié pour ses maisons en pierres dorées, son atmosphère préservée et son charme patrimonial. Les biens rares avec vue, terrain ou prestations de qualité peuvent dépasser cette fourchette.",
+        "prix_indicatif": "6 000 - 7 200 €/m²"
+      },
+      {
+        "nom": "Plat de l’Air - hauteurs",
+        "description": "Secteur résidentiel recherché sur les hauteurs, avec de belles propriétés, un environnement verdoyant et une ambiance plus confidentielle. Une adresse appréciée des familles recherchant calme, espace et proximité avec Lyon.",
+        "prix_indicatif": "6 200 - 7 500 €/m²"
+      },
+      {
+        "nom": "Les Carrières - Tourillon",
+        "description": "Secteur familial et résidentiel, mêlant maisons rénovées, biens contemporains et adresses plus discrètes. Un secteur intéressant pour son équilibre entre cadre de vie, accès aux écoles et proximité du centre.",
+        "prix_indicatif": "5 600 - 6 900 €/m²"
+      },
+      {
+        "description": "Secteur pratique et connecté, à proximité du parc d’affaires de Crécy, des axes vers Lyon 9e et des transports. Un secteur intéressant pour les actifs recherchant une adresse dans les Monts d’Or avec un accès rapide à Lyon.",
+        "prix_indicatif": "5 700 - 6 900 €/m²",
+        "nom": "Parc de Crécy - Chemin de Crécy"
+      },
+      {
+        "description": "Secteur pratique et connecté, proche des axes, des commerces et des services du quotidien. Le marché y est plus mixte, entre maisons familiales, appartements et biens à rénover selon les rues.",
+        "prix_indicatif": "5 300 - 6 500 €/m²",
+        "nom": "Rocade - Pasteur - République"
+      }
+    ],
+    "video_visite": "/uploads/saint-didier-au-mont-dor.mp4",
+    "meta_title": "Conseiller immobilier iad à Saint-Didier-au-Mont-d'Or"
+  },
+  "saint-just-saint-rambert": {
+    "superficie": 40,
+    "meta_description": "Avis de valeur, vente et achat à Saint-Just-Saint-Rambert avec Romain Rieg, conseiller iad. Marché dynamique de la Plaine du Forez, idéal primo-accédants.",
+    "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+    "delai_vente": 78,
+    "prix_m2_maison": 2730,
+    "ecoles": [
+      {
+        "nom": "Écoles publiques côté Saint-Just : Les Érables - Les Peupliers - Les Tilleuls - Les Cèdres",
+        "type": "Primaire",
+        "precision": "Plusieurs écoles maternelles et élémentaires publiques réparties côté Saint-Just, pratiques pour les familles installées autour du centre et des quartiers résidentiels."
+      },
+      {
+        "nom": "Écoles publiques côté Saint-Rambert : Jacques Prévert - Bois de la Dame - Les Barques - Thibaud Marandé",
+        "type": "Primaire",
+        "precision": "Un réseau d’écoles publiques couvrant les secteurs de Saint-Rambert, des Barques et des quartiers résidentiels proches des bords de Loire."
+      },
+      {
+        "nom": "École Saint-Nicolas",
+        "type": "Privé",
+        "precision": "École privée présente sur les deux sites de Saint-Just et Saint-Rambert, de la maternelle au primaire."
+      },
+      {
+        "nom": "Collège Anne Frank",
+        "type": "Collège",
+        "precision": "Collège public situé à Saint-Just-Saint-Rambert, établissement de référence pour les familles du secteur."
+      },
+      {
+        "nom": "Collège Saint-Joseph",
+        "type": "Collège",
+        "precision": "Collège privé situé rue Crozet Fourneyron, intégré à l’ensemble scolaire Saint-Nicolas Saint-Joseph."
+      },
+      {
+        "nom": "Lycée François Mauriac - Forez",
+        "precision": "Lycée public situé à Andrézieux-Bouthéon, facilement accessible depuis Saint-Just-Saint-Rambert selon le secteur d’habitation.",
+        "type": "Lycée"
+      }
+    ],
+    "intro": "Au cœur de la Plaine du Forez, Saint-Just-Saint-Rambert offre un cadre de vie recherché entre bords de Loire, patrimoine historique, commerces, équipements scolaires et accès rapide à Saint-Étienne. Une commune dynamique, accessible et familiale, idéale pour habiter, investir ou concrétiser un premier achat immobilier.",
+    "nom": "Saint-Just-Saint-Rambert",
+    "cp": "42170",
+    "ce_qui_differencie": [
+      {
+        "titre": "Une ville attractive dans la Plaine du Forez",
+        "description": "Saint-Just-Saint-Rambert combine commerces - écoles - équipements sportifs - vie locale et accès rapide à Saint-Étienne - Andrézieux-Bouthéon et Montbrison"
+      },
+      {
+        "titre": "Deux identités fortes",
+        "description": "Saint-Just offre une centralité plus commerçante et pratique - tandis que Saint-Rambert conserve un charme patrimonial marqué avec son centre historique - ses ruelles et son lien direct avec la Loire"
+      },
+      {
+        "titre": "Un cadre naturel recherché",
+        "description": "Bords de Loire - canal du Forez - base de loisirs - chemins de promenade et espaces verts offrent une vraie qualité de vie au quotidien"
+      },
+      {
+        "titre": "Un marché immobilier accessible",
+        "description": "Avec un prix moyen maison autour de 2 730 €/m² - Saint-Just-Saint-Rambert reste plus accessible que la métropole lyonnaise tout en offrant une belle qualité résidentielle"
+      },
+      {
+        "titre": "Un secteur intéressant pour les projets locatifs",
+        "description": "La commune attire des familles - des actifs - des primo-accédants et des profils investisseurs grâce à son bassin d’emploi - ses écoles - ses commerces et sa proximité avec Andrézieux-Bouthéon et Saint-Étienne"
+      }
+    ],
+    "population": 15764,
+    "intercommunalite": "Loire Forez Agglomération",
+    "associations": [
+      {
+        "nom": "Pontoise ULR Basket",
+        "activite": "Club emblématique de Saint-Just-Saint-Rambert, fortement ancré dans la vie sportive locale et reconnu au-delà de la commune."
+      },
+      {
+        "nom": "Saint-Just-Saint-Rambert Football",
+        "activite": "Club local structurant, avec des équipes jeunes et adultes, très présent dans la vie sportive de la ville."
+      },
+      {
+        "nom": "Club des Nageurs du Forez - CNF",
+        "activite": "Club de natation historique du Forez, proposant différentes pratiques : apprentissage, perfectionnement, natation course, natation artistique et activités aquatiques."
+      },
+      {
+        "nom": "Subaquatique Club Forézien - SCF",
+        "activite": "Club de plongée historique du Forez, proposant formation, découverte et pratique de la plongée dans un esprit sportif et convivial."
+      },
+      {
+        "nom": "Tennis Club de Saint-Just-Saint-Rambert",
+        "activite": "Club local avec équipements dédiés, pratique loisir et sportive, notamment sur le secteur de la Quérillère."
+      },
+      {
+        "nom": "Dojo Saint-Just-Saint-Rambert",
+        "activite": "Club installé au complexe sportif des Mûriers, proposant judo, ju-jitsu, self-défense et éveil sportif dans une ambiance familiale."
+      },
+      {
+        "nom": "Ducks Baseball-Softball Club",
+        "activite": "Club de baseball et softball établi à Saint-Just-Saint-Rambert depuis 1987, ouvert aux jeunes et aux adultes, en loisir comme en compétition."
+      },
+      {
+        "nom": "Base de Loisirs Loire Forez",
+        "activite": "Base située en bord de Loire, avec activités de pleine nature, canoë-kayak, animations et loisirs en extérieur."
+      }
+    ],
+    "evolution_prix": [
+      {
+        "annee": 2020,
+        "prixM2": 2200,
+        "prix_appartement": 1691
+      },
+      {
+        "annee": 2021,
+        "prixM2": 2400,
+        "prix_appartement": 1844
+      },
+      {
+        "annee": 2022,
+        "prixM2": 2620,
+        "prix_appartement": 2013
+      },
+      {
+        "annee": 2023,
+        "prixM2": 2650,
+        "prix_appartement": 2037
+      },
+      {
+        "annee": 2024,
+        "prixM2": 2600,
+        "prix_appartement": 1998
+      },
+      {
+        "annee": 2025,
+        "prixM2": 2560,
+        "prix_appartement": 1967
+      }
+    ],
+    "prix_m2_appartement": 2254,
+    "restaurants": [
+      {
+        "nom": "Le Minimaliste",
+        "cuisine": "Adresse située avenue du Stade, dans le secteur du Cinépôle, avec une ambiance moderne, des planches, cocktails et une restauration conviviale. · 4,9★",
+        "gamme": "Bistrot",
+        "note": 4.9
+      },
+      {
+        "nom": "Les Serres Babylone",
+        "cuisine": "Adresse originale avenue des Barques, mêlant univers floral, restauration le midi et bar à tapas dans une atmosphère chaleureuse. · 4,6★ ",
+        "gamme": "Bistrot",
+        "note": 4.6
+      },
+      {
+        "nom": "Ô Benestar",
+        "cuisine": "Restaurant situé place du Pont, avec une cuisine traditionnelle française, des inspirations du Sud-Ouest et un vrai esprit de générosité dans l’assiette. · 4,5★ ",
+        "gamme": "Bistrot",
+        "note": 4.5
+      },
+      {
+        "nom": "Les Remparts de Saint-Rambert",
+        "cuisine": "Restaurant situé dans le secteur ancien de Saint-Rambert, intéressant pour son cadre et son lien avec le patrimoine local.· 4,2★ ",
+        "gamme": "Brasserie",
+        "note": 4.2
+      },
+      {
+        "nom": "Brasserie de l'Industrie",
+        "cuisine": "Adresse connue de la commune, avec une cuisine de brasserie et une ambiance simple, pratique et conviviale.· 4,1★ ",
+        "gamme": "Brasserie",
+        "note": 4.1
+      },
+      {
+        "nom": "Aux 2 Ancres",
+        "cuisine": "Adresse située dans le quartier historique de Saint-Rambert, avec une cuisine conviviale, des plats travaillés et une atmosphère de centre ancien. · 4,5★",
+        "gamme": "Bistrot",
+        "note": 4.5
+      },
+      {
+        "nom": "Le Rambertois Grill",
+        "cuisine": "Restaurant situé boulevard de la Libération, avec cuisine turque, grillades, plats traditionnels et cuisson au feu de bois dans une ambiance conviviale. · 4,5★ (629 avis)",
+        "gamme": "Brasserie",
+        "note": 4.5
+      },
+      {
+        "nom": "Lulu à Table",
+        "cuisine": "Restaurant situé route de Cordeyron, avec une cuisine de saison, une ambiance intimiste et une carte renouvelée régulièrement. · 4,5★ ",
+        "gamme": "Bistrot",
+        "note": 4.5
+      },
+      {
+        "nom": "Ali Baba kébab",
+        "cuisine": "Adresse située avenue Mellet Mandard, proche d’un parc ombragé côté Saint-Just, avec kebabs, sandwiches et restauration sur place ou à emporter. · 4,5★",
+        "gamme": "Brasserie"
+      }
+    ],
+    "video_insta": {
+      "titre": "La Plaine du Forez : pourquoi y investir maintenant",
+      "duree": "1:50"
+    },
+    "galerie": [
+      "/uploads/saint-just-saint-rambert.jpeg",
+      "/uploads/dji_20260417_093002_288.jpg",
+      "/uploads/dji_20260417_093419_368.jpg",
+      "/uploads/img_8161.jpeg",
+      "/uploads/img_8235.jpeg",
+      "/uploads/img_8249.jpeg",
+      "/uploads/img_8297.jpeg",
+      "/uploads/img_8316.jpeg",
+      "/uploads/img_8325.jpeg"
+    ],
+    "video": "/uploads/st-just.jpeg",
+    "quartiers": [
+      {
+        "nom": "Centre Saint-Just - Vieux Saint-Just",
+        "description": "Centre commerçant et pratique de la commune, avec services, écoles, commerces, marché et accès rapide aux axes. Un secteur intéressant pour les familles, les primo-accédants et les acquéreurs recherchant la facilité au quotidien.",
+        "prix_indicatif": "2 300 - 2 900 €/m²"
+      },
+      {
+        "nom": "Saint-Rambert historique - Grand Port - Port Haut",
+        "description": "Secteur patrimonial de la commune, avec ruelles anciennes, prieuré, ambiance de village et proximité des bords de Loire. Une adresse recherchée pour son charme, son cachet et sa qualité de vie.",
+        "prix_indicatif": "2 500 - 3 200 €/m²"
+      },
+      {
+        "nom": "Tranchardière - Clos Grousset - Méarie",
+        "description": "Secteur résidentiel apprécié pour son calme, ses maisons familiales et son positionnement entre Saint-Just, Saint-Rambert et les accès vers Andrézieux-Bouthéon. Les écarts peuvent être importants selon la rue, le terrain, l’état du bien et la proximité des axes.",
+        "prix_indicatif": "2 500 - 3 300 €/m²"
+      },
+      {
+        "nom": "Bords de Loire - Barques - Bateliers",
+        "description": "Secteur recherché pour son cadre naturel, ses promenades, la proximité de la Loire et son ambiance plus résidentielle. Les maisons avec extérieur, vue ou environnement calme peuvent dépasser cette fourchette.",
+        "prix_indicatif": "2 600 - 3 300 €/m²"
+      },
+      {
+        "nom": "Les Unchats - La Quérillère",
+        "description": "Secteur familial et pratique, proche des équipements sportifs, de la base de loisirs et de quartiers résidentiels calmes. Une zone attractive pour les familles recherchant espace, fonctionnalité et proximité avec les loisirs.",
+        "prix_indicatif": "2 500 - 3 200 €/m²"
+      },
+      {
+        "nom": "Les Mûres - Avernay",
+        "description": "Secteur plus résidentiel et diffus, avec maisons familiales, terrains et environnement plus dégagé. Une zone intéressante pour les acquéreurs recherchant de l’espace, du calme et un budget maîtrisé.",
+        "prix_indicatif": "2 300 - 3 000 €/m²"
+      }
+    ],
+    "video_visite": "/uploads/saint-just-saint-rambert.mp4",
+    "meta_title": "Conseiller immobilier iad à Saint-Just-Saint-Rambert"
+  }
+}

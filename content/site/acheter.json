@@ -1,0 +1,80 @@
+{
+  "meta_title": "Acheter / Investir",
+  "meta_description": "Trouvez votre futur chez-vous sur le Mont d'Or, l'Ouest lyonnais ou la Plaine du Forez. Accès off-market au réseau iad, accompagnement complet de la recherche à la signature.",
+  "hero": {
+    "argument_gold": "**Mon rôle : vous faire gagner du temps**, vous donner accès aux bonnes opportunités et sécuriser chaque étape de votre achat - de la première visite à la signature chez le notaire.",
+    "surtitre": "Acheter · Investir",
+    "cta_primary_label": "Démarrer ma recherche",
+    "intro": "Vous avez l’impression d’arriver trop tard sur les biens intéressants ou de perdre du temps avec des annonces qui ne correspondent pas vraiment à votre recherche ?",
+    "titre": "Trouvez votre futur chez-vous.",
+    "cta_secondary_url": "sms:+33679571473?body=Bonjour%20Romain%2C%20je%20cherche%20un%20bien.",
+    "cta_primary_href": "/contact",
+    "cta_secondary_label": "💬 Sms",
+    "presentation": "Je suis Romain Rieg, conseiller immobilier iad basé à Saint-Didier-au-Mont-d'Or. Grâce à ma connaissance terrain des Monts d'Or, de l'Ouest lyonnais et de la Plaine du Forez, je vous accompagne dans votre recherche avec **une approche claire, réactive et personnalisée.**\n",
+    "video": "/uploads/img_8317.jpeg"
+  },
+  "piliers": {
+    "surtitre": "Pourquoi acheter ou investir avec moi ?",
+    "titre": "Quatre piliers concrets pour sécuriser votre projet.",
+    "items": [
+      {
+        "titre": "Expertise locale",
+        "desc": "Je connais les marchés des Monts d’Or, de l’Ouest lyonnais et de la Plaine du Forez dans le détail : secteurs recherchés, prix au m², évolution du marché et opportunités à saisir."
+      },
+      {
+        "titre": "Accès off-market & réseau iad",
+        "desc": "Grâce au réseau iad et à mon réseau local, vous pouvez accéder à des biens en avant-première, parfois avant leur diffusion sur les portails immobiliers classiques."
+      },
+      {
+        "titre": "Accompagnement sur-mesure",
+        "desc": "Je vous guide à chaque étape : définition de votre recherche, sélection des biens, analyse du prix, organisation des visites, négociation et suivi jusqu’à la signature."
+      },
+      {
+        "titre": "Investissement sécurisé",
+        "desc": "Que votre projet concerne le neuf, l’ancien ou un investissement locatif, je vous aide à évaluer le potentiel du bien, sa cohérence avec votre objectif et sa pérennité dans le temps."
+      }
+    ]
+  },
+  "services": {
+    "surtitre": "Mes services pour l'achat & l'investissement",
+    "titre": "De la recherche à la remise des clés.",
+    "items": [
+      {
+        "titre": "Chasse immobilière personnalisée",
+        "desc": "**Gagnez du temps avec une sélection de biens réellement adaptés à votre projet** : secteur, budget, critères de vie, potentiel de valorisation. Vous visitez uniquement les opportunités pertinentes."
+      },
+      {
+        "titre": "Analyse & comparaison des biens",
+        "desc": "Emplacement, prix, état général, potentiel d'évolution, cohérence avec votre projet - **je vous aide à prendre la bonne décision, sans précipitation.**"
+      },
+      {
+        "titre": "Accompagnement jusqu'à la signature",
+        "desc": "Visites, conseils personnalisés, aide à la négociation et suivi administratif complet jusqu’au notaire. Je vous accompagne à chaque étape pour sécuriser votre achat."
+      },
+      {
+        "titre": "Accès élargi aux opportunités",
+        "desc": "Grâce au partage entre conseillers iad et à mon réseau local, vous bénéficiez d’un accès plus large aux biens disponibles, qu’ils soient diffusés publiquement ou proposés en avant-première."
+      }
+    ]
+  },
+  "secteurs_section": {
+    "surtitre": "Mes secteurs",
+    "titre": "Deux zones que je connais par cœur.",
+    "intro": "Survolez une commune sur la carte pour voir les infos clés, cliquez pour ouvrir sa fiche détaillée.",
+    "groupe_mont_dor_label": "Ouest Lyonnais",
+    "groupe_forez_label": "Plaine du Forez",
+    "zones_lien_label": "Découvrir la zone →"
+  },
+  "romain_card": {
+    "titre": "Trouver le bon bien, c'est mon métier.",
+    "message": "Avant chaque visite, je qualifie financièrement les biens et je vous évite les déplacements inutiles. Je travaille pour vous - pas pour le vendeur. Mes honoraires sont à la charge du vendeur, jamais de l'acquéreur."
+  },
+  "cta_final": {
+    "titre": "Dites-moi ce que vous cherchez.",
+    "intro": "Un café, 30 minutes, et on dresse ensemble votre cahier des charges.",
+    "cta_primary_label": "Démarrer ma recherche",
+    "cta_primary_href": "/contact",
+    "cta_whatsapp_label": "💬 Sms",
+    "cta_whatsapp_url": "sms:+33679571473"
+  }
+}

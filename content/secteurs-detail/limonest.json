@@ -1,0 +1,216 @@
+{
+  "superficie": 9,
+  "meta_description": "Avis de valeur, vente et achat à Limonest avec Romain Rieg, conseiller iad. Expertise du patrimoine en pierres dorées du Mont d'Or et de l'Ouest lyonnais.",
+  "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+  "delai_vente": 71,
+  "prix_m2_maison": 5184,
+  "ecoles": [
+    {
+      "nom": "École publique Antoine Godard",
+      "type": "Primaire",
+      "precision": "École publique de Limonest, située allée de la Liberté, avec un enseignement de la maternelle à l’élémentaire."
+    },
+    {
+      "nom": "École privée Saint-Martin",
+      "type": "Privé",
+      "precision": "École privée située à Limonest, de la maternelle au primaire, dans un cadre familial au cœur de la commune."
+    },
+    {
+      "nom": "Collège Aux Lazaristes La Salle - site Limonest",
+      "type": "Collège",
+      "precision": "Établissement privé situé chemin de la Sablière, très identifié sur le secteur et recherché par de nombreuses familles de l’Ouest lyonnais."
+    },
+    {
+      "nom": "Institut Sandar La Salle",
+      "type": "Supérieur",
+      "precision": "Établissement situé à Limonest, avec des formations liées à l’environnement, l’agriculture, l’équitation, l’agrotechnologie et certains parcours post-bac."
+    },
+    {
+      "nom": "Lycées de Lyon Ouest et de l’Ouest lyonnais",
+      "type": "Lycée",
+      "precision": "Selon l’adresse, la sectorisation et l’orientation choisie, les élèves peuvent se tourner vers les lycées publics de proximité, notamment sur Lyon 5e, Lyon 9e ou Dardilly."
+    }
+  ],
+  "intro": "Village de caractère dans les Monts d’Or, Limonest séduit par son patrimoine en pierres dorées, ses vues, son environnement naturel et sa proximité avec les grands pôles économiques de l’Ouest lyonnais. Une commune recherchée par les familles, les actifs et les acquéreurs en quête d’un cadre de vie résidentiel, vert et bien connecté à Lyon.",
+  "nom": "Limonest",
+  "cp": "69760",
+  "ce_qui_differencie": [
+    {
+      "titre": "Un village de caractère dans les Monts d’Or",
+      "description": "Limonest conserve une vraie identité locale avec son centre village - son bâti ancien - ses pierres dorées - ses hameaux historiques et ses paysages vallonnés"
+    },
+    {
+      "titre": "Un cadre naturel très présent",
+      "description": "Entre Mont Verdun - Bois d’Ars - chemins - vues et espaces paysagers - la commune offre une respiration rare à proximité immédiate de Lyon"
+    },
+    {
+      "titre": "Un marché résidentiel recherché",
+      "description": "Maisons familiales - propriétés avec terrain - biens rénovés et adresses plus confidentielles attirent une clientèle sensible au calme - à l’espace et à la qualité de vie"
+    },
+    {
+      "titre": "Un pôle économique stratégique",
+      "description": "Avec Techlid - Puy d’Or et les Bruyères - Limonest bénéficie d’un environnement tertiaire important - très pratique pour les actifs de l’Ouest lyonnais"
+    }
+  ],
+  "population": 4012,
+  "intercommunalite": "Métropole de Lyon",
+  "hero_position": "center",
+  "associations": [
+    {
+      "nom": "FCLDSD - Football Club Limonest-Dardilly-Saint-Didier",
+      "activite": "Club structurant de l’Ouest lyonnais, fortement ancré dans la vie sportive locale."
+    },
+    {
+      "nom": "Tennis & Padel Club du Bois d’Ars",
+      "activite": "Club sportif situé route du Bois d’Ars, avec une pratique tennis et padel dans un environnement verdoyant."
+    },
+    {
+      "nom": "BMX et VTT Limonest",
+      "activite": "Association sportive locale dédiée à la pratique du vélo, du BMX et du VTT."
+    },
+    {
+      "nom": "Badmin d’Or",
+      "activite": "Club de badminton actif sur les communes des Monts d’Or, avec une pratique loisir et sportive."
+    },
+    {
+      "nom": "Association de Sauvegarde des Lavoirs & du Petit Patrimoine",
+      "activite": "Association engagée dans la préservation du patrimoine local et des éléments historiques de la commune."
+    },
+    {
+      "nom": "Comité des Fêtes de Limonest",
+      "activite": "Association impliquée dans les temps forts, événements et animations qui participent à la vie du village."
+    }
+  ],
+  "evolution_prix": [
+    {
+      "annee": 2020,
+      "prixM2": 4500,
+      "prix_appartement": 4102
+    },
+    {
+      "annee": 2021,
+      "prixM2": 4900,
+      "prix_appartement": 4467
+    },
+    {
+      "annee": 2022,
+      "prixM2": 5250,
+      "prix_appartement": 4786
+    },
+    {
+      "annee": 2023,
+      "prixM2": 5350,
+      "prix_appartement": 4877
+    },
+    {
+      "annee": 2024,
+      "prixM2": 5250,
+      "prix_appartement": 4786
+    },
+    {
+      "annee": 2025,
+      "prixM2": 5180,
+      "prix_appartement": 4722
+    }
+  ],
+  "prix_m2_appartement": 4726,
+  "restaurants": [
+    {
+      "nom": "La Pièce du Boucher",
+      "cuisine": "Adresse reconnue de Limonest pour les amateurs de viande, avec une cuisine maison et une ambiance conviviale. · 4,6★ (1 356 avis), av. Général de Gaulle",
+      "gamme": "Bistrot",
+      "note": 4.6
+    },
+    {
+      "nom": "Jols Lyon Limonest",
+      "cuisine": "Adresse bien connue de l’Ouest lyonnais, située route du Puy d’Or, spécialisée dans les poissons et fruits de mer. · 4,3★ ",
+      "gamme": "Brasserie",
+      "note": 4.3
+    },
+    {
+      "nom": "La Casa Nostra",
+      "cuisine": "C’est une vraie adresse italienne de Limonest, avec pizzas au feu de bois, spécialités italiennes et grande terrasse ombragée. · 4,3★",
+      "gamme": "Pizza",
+      "note": 4.3
+    },
+    {
+      "nom": "Restaurant Côté Balcon",
+      "cuisine": "Adresse située place du Griffon, au cœur de Limonest, appréciée pour son esprit convivial, sa terrasse et son cadre avec vue. · 4,6★ ",
+      "gamme": "Bistrot",
+      "note": 4.6
+    },
+    {
+      "nom": "Maison Savoure",
+      "cuisine": "Adresse située au Parc Swen, avec une offre de restauration, traiteur et privatisation, particulièrement adaptée au secteur tertiaire de Limonest.· 4,6★ ",
+      "gamme": "Bistrot",
+      "note": 4.6
+    },
+    {
+      "nom": "ILO",
+      "cuisine": "Adresse récente allée des Frênes, entre café, cantine et bar, avec une atmosphère moderne et adaptée aux actifs du secteur. · 4,9★",
+      "gamme": "Bistrot",
+      "note": 4.9
+    },
+    {
+      "nom": "Les Halles de Limonest",
+      "cuisine": "Lieu de vie mêlant restaurant, artisans, boulangerie, boucherie, poissonnerie et cave à vins. Une adresse récente qui renforce l’attractivité du centre. · 4,3★ (198 avis)",
+      "gamme": "Brasserie",
+      "note": 4.3
+    },
+    {
+      "nom": "MIDI SEIZE",
+      "cuisine": "Restaurant situé au cœur de Techlid, pensé pour le déjeuner, les plats du jour, les repas à emporter et les moments professionnels. · 5★ ",
+      "gamme": "Bistrot",
+      "note": 5
+    }
+  ],
+  "video_insta": {
+    "titre": "Sur les pas du Mont Verdun - patrimoine de Limonest",
+    "duree": "2:00"
+  },
+  "galerie": [
+    "/uploads/limonest.jpeg",
+    "/uploads/img_6898.jpeg",
+    "/uploads/img_6908.jpeg",
+    "/uploads/img_6920.jpeg",
+    "/uploads/img_6950.jpeg",
+    "/uploads/img_6964.jpeg",
+    "/uploads/img_6971.jpeg",
+    "/uploads/img_6985.jpeg"
+  ],
+  "video": "/uploads/limonest.jpeg",
+  "quartiers": [
+    {
+      "nom": "Le Bourg - Place du Griffon",
+      "description": "Le cœur historique et pratique de Limonest : mairie, église, commerces, écoles, restaurants et vie de village. Un secteur recherché pour sa centralité, son cachet et sa facilité de vie au quotidien.",
+      "prix_indicatif": "4 800 - 5 700 €/m²"
+    },
+    {
+      "nom": "Saint-André du Coing - La Garde",
+      "description": "Secteur résidentiel et patrimonial sur les hauteurs, marqué par les hameaux anciens, les vues et une ambiance plus confidentielle. Une adresse appréciée pour son calme, son caractère et son rapport direct aux paysages des Monts d’Or.",
+      "prix_indicatif": "4 900 - 5 900 €/m²"
+    },
+    {
+      "nom": "Mont Verdun - Sans Souci",
+      "description": "Secteur emblématique de Limonest, recherché pour son environnement naturel, ses grandes propriétés, ses vues et son atmosphère préservée. Les biens rares avec terrain, prestations ou adresse exceptionnelle peuvent dépasser cette fourchette.",
+      "prix_indicatif": "5 100 - 6 300 €/m²"
+    },
+    {
+      "nom": "Bois d’Ars - Châtaignière - Vallonière",
+      "description": "Secteur résidentiel plus vert, apprécié pour ses maisons familiales, ses parcelles arborées et son ambiance calme. Une zone attractive pour les acquéreurs recherchant espace, nature et proximité avec le centre de Limonest.",
+      "prix_indicatif": "4 900 - 6 000 €/m²"
+    },
+    {
+      "nom": "Puy d’Or - Bruyères - Champivost",
+      "description": "Secteur mixte, entre parc tertiaire, résidences récentes, accès routiers et environnement paysager. Un secteur pratique pour les actifs, avec une bonne connexion vers Lyon, Dardilly et Techlid.",
+      "prix_indicatif": "4 600 - 5 600 €/m²"
+    },
+    {
+      "nom": "Porte de Lyon - Route Nationale 6 - Techlid",
+      "description": "Secteur plus connecté et plus fonctionnel, proche des axes, des commerces et des pôles économiques. Le marché y est plus hétérogène, entre appartements, résidences, biens récents et maisons selon les rues.",
+      "prix_indicatif": "4 300 - 5 300 €/m²"
+    }
+  ],
+  "video_visite": "/uploads/limonest.mp4",
+  "meta_title": "Conseiller immobilier iad à Limonest (69760)"
+}

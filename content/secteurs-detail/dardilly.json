@@ -1,0 +1,230 @@
+{
+  "superficie": 13.99,
+  "meta_description": "Avis de valeur, vente et achat à Dardilly avec Romain Rieg, conseiller iad. Expertise des quartiers pavillonnaires du Mont d'Or et de l'Ouest lyonnais.",
+  "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+  "delai_vente": 68,
+  "prix_m2_maison": 4759,
+  "ecoles": [
+    {
+      "nom": "École des Noyeraies",
+      "type": "Primaire",
+      "precision": "École publique située à Dardilly - proche du Bourg et de l’Aqueduc."
+    },
+    {
+      "nom": "École Grégoire Parsonge",
+      "type": "Primaire",
+      "precision": "École publique située à Dardilly - proche du gymnase Moulin Carron et de l’Aqueduc."
+    },
+    {
+      "nom": "École Saint-Joseph",
+      "type": "Privé",
+      "precision": "École privée située à Dardilly - enseignement de la maternelle au primaire."
+    },
+    {
+      "nom": "Pas de collège public à Dardilly",
+      "type": "Collège",
+      "precision": "Les élèves dépendent d’établissements publics de secteur situés dans les communes voisines selon la sectorisation."
+    },
+    {
+      "nom": "Aux Lazaristes La Salle - site de Limonest",
+      "type": "Privé",
+      "precision": "Établissement privé situé à proximité immédiate de Dardilly."
+    },
+    {
+      "nom": "Lycée François Rabelais & GRETA-CFA Hôtelier",
+      "type": "Lycée",
+      "precision": "Lycée reconnu pour les formations aux métiers de l’hôtellerie, de la restauration et des métiers de bouche."
+    },
+    {
+      "nom": "Lycée Horticole, Paysage et Environnement Lyon-Dardilly",
+      "type": "Lycée",
+      "precision": "Établissement spécialisé dans les formations liées à l’horticulture, au paysage, à l’environnement et aux sciences du vivant."
+    },
+    {
+      "nom": "Centre de formation Philibert de l’Orme",
+      "type": "Supérieur",
+      "precision": "Centre de formation aux métiers du bâtiment situé à Dardilly."
+    }
+  ],
+  "intro": "Entre nature et métropole, Dardilly offre un équilibre recherché aux portes de Lyon : grands terrains, quartiers résidentiels calmes, environnement verdoyant et accès rapide aux grands axes. Une commune appréciée des familles et des actifs qui recherchent de l’espace, de la praticité et une vraie qualité de vie dans l’Ouest lyonnais.",
+  "nom": "Dardilly",
+  "cp": "69570",
+  "ce_qui_differencie": [
+    {
+      "titre": "De grandes parcelles et un cadre résidentiel rare",
+      "description": "Dardilly séduit par ses maisons familiales - ses terrains généreux - ses quartiers pavillonnaires et son atmosphère résidentielle préservée"
+    },
+    {
+      "titre": "Une commune connectée à Lyon et aux grands axes",
+      "description": "Accès rapide à l’A6 - proximité de Techlid - liaison vers Lyon et l’Ouest lyonnais : un positionnement pratique pour les actifs et les familles"
+    },
+    {
+      "titre": "Un pôle de formation reconnu",
+      "description": "Lycée François Rabelais / Lycée Horticole de Dardilly / centre de formation Philibert de l’Orme : la commune bénéficie d’un environnement éducatif et technique solide"
+    },
+    {
+      "titre": "Un cadre de vie vert et familial",
+      "description": "Espaces naturels - équipements sportifs - proximité du golf de La Tour-de-Salvagny et ambiance village : Dardilly conserve une vraie respiration aux portes de la métropole"
+    }
+  ],
+  "population": 9221,
+  "intercommunalite": "Métropole de Lyon",
+  "associations": [
+    {
+      "nom": "FCLDSD - Football Club Limonest-Dardilly-Saint-Didier",
+      "activite": "Club intercommunal structurant, de l’école de football aux équipes seniors, avec une vraie présence dans la vie sportive locale."
+    },
+    {
+      "nom": "Tennis Club Dardilly Champagne",
+      "activite": "Club reconnu à proximité de Dardilly, avec tennis, padel, courts couverts, terrains extérieurs et pratique pour tous les niveaux."
+    },
+    {
+      "nom": "Athletic Club Dardilly",
+      "activite": "Association dédiée à l’athlétisme, au running et à la marche nordique."
+    },
+    {
+      "nom": "Badminton Club Dardillois - BCD69",
+      "activite": "Club de badminton local, ouvert aux jeunes et aux adultes, avec pratique loisir et compétition."
+    },
+    {
+      "nom": "Centre de danse et de fitness de Dardilly",
+      "activite": "Association proposant danse, gymnastique, yoga, zumba et activités de forme."
+    },
+    {
+      "nom": "Aïkido Dardilly / Arts Martiaux Dardilly",
+      "activite": "Pratique des arts martiaux, du judo, de l’aïkido et d’activités associées dans les équipements sportifs de la commune."
+    }
+  ],
+  "evolution_prix": [
+    {
+      "annee": 2020,
+      "prixM2": 4200,
+      "prix_appartement": 3791
+    },
+    {
+      "annee": 2021,
+      "prixM2": 4550,
+      "prix_appartement": 4107
+    },
+    {
+      "annee": 2022,
+      "prixM2": 4900,
+      "prix_appartement": 4423
+    },
+    {
+      "annee": 2023,
+      "prixM2": 4950,
+      "prix_appartement": 4468
+    },
+    {
+      "annee": 2024,
+      "prixM2": 4850,
+      "prix_appartement": 4378
+    },
+    {
+      "annee": 2025,
+      "prixM2": 4760,
+      "prix_appartement": 4297
+    }
+  ],
+  "prix_m2_appartement": 4296,
+  "restaurants": [
+    {
+      "nom": "Restaurant Bol d'Air",
+      "cuisine": "Institution locale avenue de Verdun, avec un esprit café de village, une cuisine bistronomique et une atmosphère conviviale. · 4,7★",
+      "gamme": "Gastro",
+      "note": 4.7
+    },
+    {
+      "nom": "Odyssée Restaurant",
+      "cuisine": "Une adresse chaleureuse au cœur de la zone Techlid, avec une cuisine maison, généreuse et de saison. · 4,9★ ",
+      "gamme": "Bistrot",
+      "note": 4.9
+    },
+    {
+      "nom": "L'Auberge du Village",
+      "cuisine": "Adresse emblématique de Dardilly, appréciée pour sa cuisine française traditionnelle et son atmosphère chaleureuse. · 4,5★ ",
+      "gamme": "Brasserie",
+      "note": 4.5
+    },
+    {
+      "nom": "Restaurant Comme Avant",
+      "cuisine": "Adresse située place de l’Église, avec terrasse ombragée, cuisine française traditionnelle et ambiance de village.· 4,8★ ",
+      "gamme": "Bistrot",
+      "note": 4.8
+    },
+    {
+      "nom": "La Table du Bas",
+      "cuisine": "Restaurant bistronomique situé avenue de Verdun, avec une cuisine généreuse, raffinée, fraîche et de saison. · 4,9★ ",
+      "gamme": "Bistrot",
+      "note": 4.9
+    },
+    {
+      "nom": "Le Patio Dardilly",
+      "cuisine": "Adresse conviviale pour déjeuner ou dîner, dans un esprit brasserie accessible et pratique. · 4,2★ ",
+      "gamme": "Brasserie",
+      "note": 4.2
+    },
+    {
+      "nom": "Café Marcel",
+      "cuisine": "Une adresse récente et conviviale à Dardilly, idéale pour une pause café, un déjeuner simple ou une parenthèse plus légère. · 5★ ",
+      "gamme": "Café",
+      "note": 5
+    },
+    {
+      "nom": "Double 7 Dardilly",
+      "cuisine": "Restaurant situé dans le quartier d’affaires, avec cuisine maison, cadre moderne et ambiance conviviale. · 4,5★ ",
+      "gamme": "Bistrot",
+      "note": 4.5
+    }
+  ],
+  "video_insta": {
+    "titre": "Pourquoi Dardilly est sous-coté",
+    "duree": "1:15"
+  },
+  "galerie": [
+    "/uploads/dardilly.jpeg",
+    "/uploads/img_6768.jpeg",
+    "/uploads/img_6774.jpeg",
+    "/uploads/img_6782.jpeg",
+    "/uploads/img_6814.jpeg",
+    "/uploads/img_6825.jpeg",
+    "/uploads/img_6851.jpeg",
+    "/uploads/img_6859.jpeg"
+  ],
+  "video": "/uploads/dardilly.jpeg",
+  "quartiers": [
+    {
+      "nom": "Le Bourg - Esplanade",
+      "description": "Cœur historique et pratique de Dardilly avec mairie, commerces, écoles, équipements publics et nouvelle dynamique autour de l’Esplanade. Un secteur recherché pour sa vie de village, sa centralité et sa praticité au quotidien.",
+      "prix_indicatif": "4 400 - 5 200 €/m²"
+    },
+    {
+      "nom": "Le Barriot - Pierre Blanche",
+      "description": "Secteur historique de Dardilly autour de l’église du Barriot, du marché de producteurs et d’une vraie ambiance de village. Une adresse appréciée pour ses commerces de proximité, son cadre résidentiel et son esprit local.",
+      "prix_indicatif": "4 200 - 5 100 €/m²"
+    },
+    {
+      "nom": "Les Noyeraies - Parsonge",
+      "description": "Secteur résidentiel familial, apprécié pour son calme, ses équipements, ses écoles et son environnement pavillonnaire. Un bon équilibre entre vie de quartier, accès aux services et cadre verdoyant.",
+      "prix_indicatif": "4 400 - 5 300 €/m²"
+    },
+    {
+      "nom": "La Beffe - Mouchettes",
+      "description": "Secteur plus résidentiel et qualitatif, recherché pour ses maisons familiales, ses parcelles plus généreuses et son environnement confidentiel. Les biens les plus soignés peuvent dépasser cette fourchette selon le terrain et les prestations.",
+      "prix_indicatif": "4 600 - 5 600 €/m²"
+    },
+    {
+      "nom": "Gargantua - Brûley - Porte de Lyon",
+      "description": "Secteur pratique et connecté, proche des grands axes, des commerces et de la zone d’activité. Il offre un marché plus mixte entre maisons, petits collectifs et biens fonctionnels.",
+      "prix_indicatif": "3 900 - 4 900 €/m²"
+    },
+    {
+      "description": "Secteur recherché pour son environnement plus vert, son ambiance résidentielle et sa proximité avec les espaces naturels. Les maisons avec terrain, calme et prestations de qualité y sont particulièrement appréciées.",
+      "prix_indicatif": "4 500 - 5 500 €/m²",
+      "nom": "Bois de Serres - Brochetière"
+    }
+  ],
+  "video_visite": "/uploads/dardilly.mp4",
+  "meta_title": "Conseiller immobilier iad à Dardilly (69570)"
+}

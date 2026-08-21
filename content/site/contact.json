@@ -1,0 +1,54 @@
+{
+  "meta_title": "Contact",
+  "meta_description": "Votre projet démarre en 30 secondes - qualification intelligente, réponse personnelle de Romain Rieg sous 24h.",
+  "hero": {
+    "surtitre": "Contact",
+    "titre": "Votre projet, en 30 secondes.",
+    "intro": "Quelques clics suffisent pour qualifier votre besoin. La réponse arrive sous 24h, personnelle et ciblée - jamais générique.",
+    "garanties": [
+      "Réponse personnelle sous 24h",
+      "Aucune sollicitation commerciale",
+      "Données 100% confidentielles"
+    ]
+  },
+  "calendrier": {
+    "surtitre": "La solution la plus rapide",
+    "titre": "Réservez un créneau en ligne.",
+    "intro": "30 minutes en visio ou par téléphone pour qualifier votre projet, répondre à vos questions et envisager une collaboration.",
+    "puces": [
+      "Pas d'inscription",
+      "Pas de spam",
+      "Annulation ou report en un clic",
+      "Rappel automatique avant le rendez-vous"
+    ],
+    "cal_url": "https://cal.com/romain-rieg-ckdm4p/30min",
+    "cta_label": "Ouvrir le calendrier ↗"
+  },
+  "sidebar": {
+    "horaires_titre": "Du lundi au samedi",
+    "telephone_lien": "+33679571473",
+    "whatsapp_url": "sms:+33679571473",
+    "surtitre": "Vous préférez le contact direct ?",
+    "horaires_detail": "8h30 - 20h",
+    "telephone": "06 79 57 14 73",
+    "horaires_note": "Rendez-vous en soirée possibles sur demande.",
+    "whatsapp_label": "Envoyer un SMS",
+    "calcom_label": "Réserver 30 minutes",
+    "formulaire_label": "Remplir un formulaire",
+    "titre": "Quatre canaux, vous choisissez.",
+    "email": "romain.rieg@iadfrance.fr"
+  },
+  "engagement": {
+    "surtitre": "L'engagement",
+    "items": [
+      "Je vous réponds personnellement (pas d'assistant ni d'IA)",
+      "Sous 24h en semaine",
+      "Sous 4h si urgent",
+      "Aucun ajout à une liste de prospection automatique",
+      "Données strictement confidentielles",
+      "Jamais revendues"
+    ]
+  },
+  "footer_form_titre": "Pourquoi ce formulaire détaillé ?",
+  "footer_form_note": "Pour vous faire gagner du temps. En 30 secondes, votre besoin est qualifié et vous recevez une réponse vraiment ciblée - bien plus efficace qu'un formulaire générique « nom / email / message ».\n"
+}

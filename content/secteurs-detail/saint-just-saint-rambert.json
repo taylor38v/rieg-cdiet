@@ -1,0 +1,238 @@
+{
+  "superficie": 40,
+  "meta_description": "Avis de valeur, vente et achat à Saint-Just-Saint-Rambert avec Romain Rieg, conseiller iad. Marché dynamique de la Plaine du Forez, idéal primo-accédants.",
+  "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+  "delai_vente": 78,
+  "prix_m2_maison": 2730,
+  "ecoles": [
+    {
+      "nom": "Écoles publiques côté Saint-Just : Les Érables - Les Peupliers - Les Tilleuls - Les Cèdres",
+      "type": "Primaire",
+      "precision": "Plusieurs écoles maternelles et élémentaires publiques réparties côté Saint-Just, pratiques pour les familles installées autour du centre et des quartiers résidentiels."
+    },
+    {
+      "nom": "Écoles publiques côté Saint-Rambert : Jacques Prévert - Bois de la Dame - Les Barques - Thibaud Marandé",
+      "type": "Primaire",
+      "precision": "Un réseau d’écoles publiques couvrant les secteurs de Saint-Rambert, des Barques et des quartiers résidentiels proches des bords de Loire."
+    },
+    {
+      "nom": "École Saint-Nicolas",
+      "type": "Privé",
+      "precision": "École privée présente sur les deux sites de Saint-Just et Saint-Rambert, de la maternelle au primaire."
+    },
+    {
+      "nom": "Collège Anne Frank",
+      "type": "Collège",
+      "precision": "Collège public situé à Saint-Just-Saint-Rambert, établissement de référence pour les familles du secteur."
+    },
+    {
+      "nom": "Collège Saint-Joseph",
+      "type": "Collège",
+      "precision": "Collège privé situé rue Crozet Fourneyron, intégré à l’ensemble scolaire Saint-Nicolas Saint-Joseph."
+    },
+    {
+      "nom": "Lycée François Mauriac - Forez",
+      "precision": "Lycée public situé à Andrézieux-Bouthéon, facilement accessible depuis Saint-Just-Saint-Rambert selon le secteur d’habitation.",
+      "type": "Lycée"
+    }
+  ],
+  "intro": "Au cœur de la Plaine du Forez, Saint-Just-Saint-Rambert offre un cadre de vie recherché entre bords de Loire, patrimoine historique, commerces, équipements scolaires et accès rapide à Saint-Étienne. Une commune dynamique, accessible et familiale, idéale pour habiter, investir ou concrétiser un premier achat immobilier.",
+  "nom": "Saint-Just-Saint-Rambert",
+  "cp": "42170",
+  "ce_qui_differencie": [
+    {
+      "titre": "Une ville attractive dans la Plaine du Forez",
+      "description": "Saint-Just-Saint-Rambert combine commerces - écoles - équipements sportifs - vie locale et accès rapide à Saint-Étienne - Andrézieux-Bouthéon et Montbrison"
+    },
+    {
+      "titre": "Deux identités fortes",
+      "description": "Saint-Just offre une centralité plus commerçante et pratique - tandis que Saint-Rambert conserve un charme patrimonial marqué avec son centre historique - ses ruelles et son lien direct avec la Loire"
+    },
+    {
+      "titre": "Un cadre naturel recherché",
+      "description": "Bords de Loire - canal du Forez - base de loisirs - chemins de promenade et espaces verts offrent une vraie qualité de vie au quotidien"
+    },
+    {
+      "titre": "Un marché immobilier accessible",
+      "description": "Avec un prix moyen maison autour de 2 730 €/m² - Saint-Just-Saint-Rambert reste plus accessible que la métropole lyonnaise tout en offrant une belle qualité résidentielle"
+    },
+    {
+      "titre": "Un secteur intéressant pour les projets locatifs",
+      "description": "La commune attire des familles - des actifs - des primo-accédants et des profils investisseurs grâce à son bassin d’emploi - ses écoles - ses commerces et sa proximité avec Andrézieux-Bouthéon et Saint-Étienne"
+    }
+  ],
+  "population": 15764,
+  "intercommunalite": "Loire Forez Agglomération",
+  "associations": [
+    {
+      "nom": "Pontoise ULR Basket",
+      "activite": "Club emblématique de Saint-Just-Saint-Rambert, fortement ancré dans la vie sportive locale et reconnu au-delà de la commune."
+    },
+    {
+      "nom": "Saint-Just-Saint-Rambert Football",
+      "activite": "Club local structurant, avec des équipes jeunes et adultes, très présent dans la vie sportive de la ville."
+    },
+    {
+      "nom": "Club des Nageurs du Forez - CNF",
+      "activite": "Club de natation historique du Forez, proposant différentes pratiques : apprentissage, perfectionnement, natation course, natation artistique et activités aquatiques."
+    },
+    {
+      "nom": "Subaquatique Club Forézien - SCF",
+      "activite": "Club de plongée historique du Forez, proposant formation, découverte et pratique de la plongée dans un esprit sportif et convivial."
+    },
+    {
+      "nom": "Tennis Club de Saint-Just-Saint-Rambert",
+      "activite": "Club local avec équipements dédiés, pratique loisir et sportive, notamment sur le secteur de la Quérillère."
+    },
+    {
+      "nom": "Dojo Saint-Just-Saint-Rambert",
+      "activite": "Club installé au complexe sportif des Mûriers, proposant judo, ju-jitsu, self-défense et éveil sportif dans une ambiance familiale."
+    },
+    {
+      "nom": "Ducks Baseball-Softball Club",
+      "activite": "Club de baseball et softball établi à Saint-Just-Saint-Rambert depuis 1987, ouvert aux jeunes et aux adultes, en loisir comme en compétition."
+    },
+    {
+      "nom": "Base de Loisirs Loire Forez",
+      "activite": "Base située en bord de Loire, avec activités de pleine nature, canoë-kayak, animations et loisirs en extérieur."
+    }
+  ],
+  "evolution_prix": [
+    {
+      "annee": 2020,
+      "prixM2": 2200,
+      "prix_appartement": 1691
+    },
+    {
+      "annee": 2021,
+      "prixM2": 2400,
+      "prix_appartement": 1844
+    },
+    {
+      "annee": 2022,
+      "prixM2": 2620,
+      "prix_appartement": 2013
+    },
+    {
+      "annee": 2023,
+      "prixM2": 2650,
+      "prix_appartement": 2037
+    },
+    {
+      "annee": 2024,
+      "prixM2": 2600,
+      "prix_appartement": 1998
+    },
+    {
+      "annee": 2025,
+      "prixM2": 2560,
+      "prix_appartement": 1967
+    }
+  ],
+  "prix_m2_appartement": 2254,
+  "restaurants": [
+    {
+      "nom": "Le Minimaliste",
+      "cuisine": "Adresse située avenue du Stade, dans le secteur du Cinépôle, avec une ambiance moderne, des planches, cocktails et une restauration conviviale. · 4,9★",
+      "gamme": "Bistrot",
+      "note": 4.9
+    },
+    {
+      "nom": "Les Serres Babylone",
+      "cuisine": "Adresse originale avenue des Barques, mêlant univers floral, restauration le midi et bar à tapas dans une atmosphère chaleureuse. · 4,6★ ",
+      "gamme": "Bistrot",
+      "note": 4.6
+    },
+    {
+      "nom": "Ô Benestar",
+      "cuisine": "Restaurant situé place du Pont, avec une cuisine traditionnelle française, des inspirations du Sud-Ouest et un vrai esprit de générosité dans l’assiette. · 4,5★ ",
+      "gamme": "Bistrot",
+      "note": 4.5
+    },
+    {
+      "nom": "Les Remparts de Saint-Rambert",
+      "cuisine": "Restaurant situé dans le secteur ancien de Saint-Rambert, intéressant pour son cadre et son lien avec le patrimoine local.· 4,2★ ",
+      "gamme": "Brasserie",
+      "note": 4.2
+    },
+    {
+      "nom": "Brasserie de l'Industrie",
+      "cuisine": "Adresse connue de la commune, avec une cuisine de brasserie et une ambiance simple, pratique et conviviale.· 4,1★ ",
+      "gamme": "Brasserie",
+      "note": 4.1
+    },
+    {
+      "nom": "Aux 2 Ancres",
+      "cuisine": "Adresse située dans le quartier historique de Saint-Rambert, avec une cuisine conviviale, des plats travaillés et une atmosphère de centre ancien. · 4,5★",
+      "gamme": "Bistrot",
+      "note": 4.5
+    },
+    {
+      "nom": "Le Rambertois Grill",
+      "cuisine": "Restaurant situé boulevard de la Libération, avec cuisine turque, grillades, plats traditionnels et cuisson au feu de bois dans une ambiance conviviale. · 4,5★ (629 avis)",
+      "gamme": "Brasserie",
+      "note": 4.5
+    },
+    {
+      "nom": "Lulu à Table",
+      "cuisine": "Restaurant situé route de Cordeyron, avec une cuisine de saison, une ambiance intimiste et une carte renouvelée régulièrement. · 4,5★ ",
+      "gamme": "Bistrot",
+      "note": 4.5
+    },
+    {
+      "nom": "Ali Baba kébab",
+      "cuisine": "Adresse située avenue Mellet Mandard, proche d’un parc ombragé côté Saint-Just, avec kebabs, sandwiches et restauration sur place ou à emporter. · 4,5★",
+      "gamme": "Brasserie"
+    }
+  ],
+  "video_insta": {
+    "titre": "La Plaine du Forez : pourquoi y investir maintenant",
+    "duree": "1:50"
+  },
+  "galerie": [
+    "/uploads/saint-just-saint-rambert.jpeg",
+    "/uploads/dji_20260417_093002_288.jpg",
+    "/uploads/dji_20260417_093419_368.jpg",
+    "/uploads/img_8161.jpeg",
+    "/uploads/img_8235.jpeg",
+    "/uploads/img_8249.jpeg",
+    "/uploads/img_8297.jpeg",
+    "/uploads/img_8316.jpeg",
+    "/uploads/img_8325.jpeg"
+  ],
+  "video": "/uploads/st-just.jpeg",
+  "quartiers": [
+    {
+      "nom": "Centre Saint-Just - Vieux Saint-Just",
+      "description": "Centre commerçant et pratique de la commune, avec services, écoles, commerces, marché et accès rapide aux axes. Un secteur intéressant pour les familles, les primo-accédants et les acquéreurs recherchant la facilité au quotidien.",
+      "prix_indicatif": "2 300 - 2 900 €/m²"
+    },
+    {
+      "nom": "Saint-Rambert historique - Grand Port - Port Haut",
+      "description": "Secteur patrimonial de la commune, avec ruelles anciennes, prieuré, ambiance de village et proximité des bords de Loire. Une adresse recherchée pour son charme, son cachet et sa qualité de vie.",
+      "prix_indicatif": "2 500 - 3 200 €/m²"
+    },
+    {
+      "nom": "Tranchardière - Clos Grousset - Méarie",
+      "description": "Secteur résidentiel apprécié pour son calme, ses maisons familiales et son positionnement entre Saint-Just, Saint-Rambert et les accès vers Andrézieux-Bouthéon. Les écarts peuvent être importants selon la rue, le terrain, l’état du bien et la proximité des axes.",
+      "prix_indicatif": "2 500 - 3 300 €/m²"
+    },
+    {
+      "nom": "Bords de Loire - Barques - Bateliers",
+      "description": "Secteur recherché pour son cadre naturel, ses promenades, la proximité de la Loire et son ambiance plus résidentielle. Les maisons avec extérieur, vue ou environnement calme peuvent dépasser cette fourchette.",
+      "prix_indicatif": "2 600 - 3 300 €/m²"
+    },
+    {
+      "nom": "Les Unchats - La Quérillère",
+      "description": "Secteur familial et pratique, proche des équipements sportifs, de la base de loisirs et de quartiers résidentiels calmes. Une zone attractive pour les familles recherchant espace, fonctionnalité et proximité avec les loisirs.",
+      "prix_indicatif": "2 500 - 3 200 €/m²"
+    },
+    {
+      "nom": "Les Mûres - Avernay",
+      "description": "Secteur plus résidentiel et diffus, avec maisons familiales, terrains et environnement plus dégagé. Une zone intéressante pour les acquéreurs recherchant de l’espace, du calme et un budget maîtrisé.",
+      "prix_indicatif": "2 300 - 3 000 €/m²"
+    }
+  ],
+  "video_visite": "/uploads/saint-just-saint-rambert.mp4",
+  "meta_title": "Conseiller immobilier iad à Saint-Just-Saint-Rambert"
+}

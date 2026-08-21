@@ -1,0 +1,219 @@
+{
+  "superficie": 16,
+  "meta_description": "Avis de valeur, vente et achat à Andrézieux-Bouthéon avec Romain Rieg, conseiller iad. Pôle économique majeur de la Plaine du Forez, à 14 km de Saint-Étienne.",
+  "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+  "ecoles": [
+    {
+      "nom": "Arthur Rimbaud - Victor Hugo - Louis Pasteur - Paul Éluard",
+      "type": "Primaire",
+      "precision": "Réseau d’écoles publiques réparties sur la commune, couvrant les principaux secteurs résidentiels d’Andrézieux-Bouthéon."
+    },
+    {
+      "nom": "École Jeanne d’Arc",
+      "type": "Privé",
+      "precision": "École primaire privée située rue Marcellin Girinon, présente dans le paysage scolaire local."
+    },
+    {
+      "nom": "Collège Jacques Prévert",
+      "type": "Collège",
+      "precision": "Collège public situé rue Racine, établissement de référence pour les familles de la commune."
+    },
+    {
+      "nom": "Lycée François Mauriac - Forez",
+      "type": "Lycée",
+      "precision": "Lycée général et technologique situé rue des Bullieux, au sein de la cité scolaire Mauriac / Desgranges."
+    },
+    {
+      "nom": "Lycée Pierre Desgranges",
+      "type": "Lycée",
+      "precision": "Lycée professionnel situé rue des Bullieux, avec des formations orientées vers les parcours professionnels."
+    }
+  ],
+  "intro": "À la croisée de Saint-Étienne, de la Plaine du Forez et des grands axes, Andrézieux-Bouthéon se distingue par son dynamisme économique, ses équipements, ses commerces, son aéroport et son cadre de vie entre Loire, château et quartiers résidentiels. Une commune pratique, active et attractive pour les familles, les actifs et les projets immobiliers accessibles.",
+  "nom": "Andrézieux-Bouthéon",
+  "cp": "42160",
+  "ce_qui_differencie": [
+    {
+      "titre": "Une ville carrefour entre Saint-Étienne et la Plaine du Forez",
+      "description": "Andrézieux-Bouthéon bénéficie d’un emplacement stratégique avec accès à l’A72 - gare SNCF - aéroport de Saint-Étienne Loire et proximité rapide avec Saint-Étienne"
+    },
+    {
+      "titre": "Un pôle économique et commercial majeur",
+      "description": "La commune accueille un tissu économique dense avec de nombreuses entreprises - zones d’activités et une offre commerciale importante autour des centres-bourgs et des pôles périphériques"
+    },
+    {
+      "titre": "Trois centralités historiques",
+      "description": "Andrézieux - Bouthéon et La Chapelle structurent la commune avec des ambiances complémentaires : centre pratique - cœur patrimonial - secteur résidentiel et équipements"
+    },
+    {
+      "titre": "Un patrimoine fort autour du Château de Bouthéon",
+      "description": "Le château - son parc animalier et botanique et ses espaces culturels constituent un repère majeur de la commune"
+    },
+    {
+      "titre": "Un marché immobilier accessible et varié",
+      "description": "Entre maisons familiales - appartements - biens récents - secteurs résidentiels et zones plus connectées - Andrézieux-Bouthéon offre une alternative accessible."
+    }
+  ],
+  "population": 10425,
+  "intercommunalite": "Saint-Étienne Métropole",
+  "associations": [
+    {
+      "nom": "ABFC - Andrézieux-Bouthéon Football Club",
+      "activite": "Club de football emblématique de la commune, installé à l’Envol Stadium et très identifié dans le paysage sportif local."
+    },
+    {
+      "nom": "TCAB - Tennis Club Andrézieux-Bouthéon",
+      "activite": "Club majeur de tennis et padel dans la Loire, avec plusieurs courts, des terrains de padel, un club house et une vraie dynamique sportive locale."
+    },
+    {
+      "nom": "SCABB - Saint-Chamond Andrézieux-Bouthéon Basket",
+      "activite": "Club structurant du territoire, avec une forte visibilité sportive et un réseau local important autour du basket."
+    },
+    {
+      "activite": "Club d’athlétisme du secteur, présent à Andrézieux-Bouthéon, avec une pratique orientée course, piste, compétition et sport pour tous.",
+      "nom": "Forez Athletic Club - FAC"
+    },
+    {
+      "nom": "AF Boxing Club",
+      "activite": "Club enseignant la boxe sous différentes formes, avec une pratique loisir et sportive."
+    },
+    {
+      "nom": "Judo Club Plaine du Forez / clubs d’arts martiaux",
+      "activite": "Présence d’associations d’arts martiaux et de judo, participant à l’offre sportive familiale de la commune."
+    },
+    {
+      "activite": "Club de rugby local, participant à la diversité sportive de la commune.",
+      "nom": "RCAB - Rugby Club d’Andrézieux-Bouthéon"
+    },
+    {
+      "activite": "Club de pétanque de la commune, ancré dans la vie locale et sportive.",
+      "nom": "Pétanque de l’Envol"
+    }
+  ],
+  "evolution_prix": [
+    {
+      "annee": 2020,
+      "prixM2": 1850,
+      "prix_appartement": 1295
+    },
+    {
+      "annee": 2021,
+      "prixM2": 2050,
+      "prix_appartement": 1434
+    },
+    {
+      "annee": 2022,
+      "prixM2": 2350,
+      "prix_appartement": 1644
+    },
+    {
+      "annee": 2023,
+      "prixM2": 2504,
+      "prix_appartement": 1752
+    },
+    {
+      "annee": 2024,
+      "prixM2": 2380,
+      "prix_appartement": 1665
+    },
+    {
+      "annee": 2025,
+      "prixM2": 2301,
+      "prix_appartement": 1610
+    }
+  ],
+  "restaurants": [
+    {
+      "nom": "La Petite Assiette du Château",
+      "cuisine": "Adresse située face au Château de Bouthéon, avec une cuisine soignée, une ambiance contemporaine et une belle cohérence avec le secteur patrimonial. · 4,8★ ",
+      "gamme": "Gastro"
+    },
+    {
+      "nom": "La Brasserie des Gourmands",
+      "cuisine": "Adresse située près de l’Envol Stadium, avec un esprit grande brasserie, une terrasse et une cuisine généreuse dans un cadre convivial. · 4,5★",
+      "gamme": "Gastro"
+    },
+    {
+      "nom": "Restaurant By Georgette",
+      "cuisine": "Restaurant situé boulevard Pierre Desgranges, avec une cuisine à base de produits frais et locaux dans un cadre chaleureux et décontracté. · 4,5★",
+      "gamme": "Bistrot"
+    },
+    {
+      "nom": "Mas de la Gare",
+      "cuisine": "Adresse située avenue Jean Martouret, proche de la gare, avec une cuisine française, des plats faits maison et une ambiance de restaurant traditionnel. · 4,4★",
+      "gamme": "Brasserie"
+    },
+    {
+      "nom": "La Tapa Loca",
+      "cuisine": "Restaurant espagnol situé aux Communaux, avec tapas, spécialités ibériques et ambiance conviviale. · 4,8★",
+      "gamme": "Café"
+    },
+    {
+      "nom": "L’Artiste Pizzaïolo",
+      "cuisine": "Pizzeria située à Andrézieux-Bouthéon, avec pizzas artisanales cuites au feu de bois. · 4,6★",
+      "gamme": "Pizza"
+    },
+    {
+      "nom": "Mazarin",
+      "cuisine": "Pizzeria - restaurant située boulevard Joseph Cugnot, avec une carte italienne et une ambiance conviviale. · 4,3★",
+      "gamme": "Pizza"
+    },
+    {
+      "nom": "La Conciergerie Andrézieux",
+      "cuisine": "Adresse située ZAC des Murons, avec restaurant, bar à vin, terrasse et ambiance lounge. · 4.2★",
+      "gamme": "Bistrot"
+    }
+  ],
+  "video_insta": {
+    "titre": "Andrézieux-Bouthéon : 3 raisons d'y investir en 2026",
+    "duree": "0:45"
+  },
+  "galerie": [
+    "/uploads/img_8400.jpeg",
+    "/uploads/img_8365.jpeg",
+    "/uploads/img_8372.jpeg",
+    "/uploads/img_8342.jpeg",
+    "/uploads/img_8424.jpeg",
+    "/uploads/img_8498.jpeg",
+    "/uploads/img_8513.jpeg",
+    "/uploads/img_8432.jpeg"
+  ],
+  "video": "/uploads/andrezieux.jpeg",
+  "quartiers": [
+    {
+      "nom": "Bourg d’Andrézieux - Place du Forez - Gare",
+      "description": "Centre pratique de la commune, avec commerces, services, gare, équipements et accès rapide aux axes. Le marché y est varié, entre maisons de ville, appartements, petits collectifs et biens plus fonctionnels.",
+      "prix_indicatif": "2 100 - 2 800 €/m²"
+    },
+    {
+      "nom": "Bourg de Bouthéon - Château - Loire",
+      "description": "Secteur patrimonial et résidentiel autour du Château de Bouthéon, avec une ambiance plus village, des vues, un lien avec la Loire et des maisons recherchées selon l’adresse et l’environnement.",
+      "prix_indicatif": "2 300 - 3 100 €/m²"
+    },
+    {
+      "nom": "La Chapelle",
+      "description": "Secteur central dans l’organisation de la commune, avec écoles, équipements sportifs, services et quartiers résidentiels. Un secteur familial et pratique, intéressant pour les acquéreurs recherchant un bon compromis entre budget, accès et vie locale.",
+      "prix_indicatif": "2 200 - 2 900 €/m²"
+    },
+    {
+      "nom": "Les Maladières - Avenue de Saint-Étienne - La Chaux",
+      "description": "Secteur connecté et résidentiel, avec un marché mixte entre maisons, appartements et biens proches des axes. Les prix varient fortement selon l’exposition, le calme, l’état du bien et la proximité des voies passantes.",
+      "prix_indicatif": "2 100 - 2 800 €/m²"
+    },
+    {
+      "nom": "Essarts - Loire Sud - Gouyonnière",
+      "description": "Secteur plus économique et fonctionnel, proche des zones d’activités, commerces et grands axes. Le marché y est plus hétérogène, avec des opportunités pour les actifs, les investisseurs et les budgets plus maîtrisés.",
+      "prix_indicatif": "1 900 - 2 700 €/m²"
+    },
+    {
+      "nom": "Bords de Loire - Mariniers",
+      "prix_indicatif": "2 200 - 3 000 €/m²",
+      "description": "Secteurs plus diffus, appréciés pour les accès aux espaces extérieurs, la proximité de la Loire et certaines adresses plus calmes. Les maisons avec terrain ou environnement préservé peuvent se valoriser davantage."
+    }
+  ],
+  "video_visite": "/uploads/andrezieux-boutheon.mp4",
+  "meta_title": "Conseiller immobilier iad à Andrézieux-Bouthéon",
+  "prix_m2_maison": 2741,
+  "prix_m2_appartement": 1918,
+  "delai_vente": 82
+}

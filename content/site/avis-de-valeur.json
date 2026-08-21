@@ -1,0 +1,82 @@
+{
+  "meta_description": "Avis de valeur immobilier gratuit et argumenté sous 24-48h par Romain Rieg, conseiller iad. Monts d'Or, Ouest lyonnais et Plaine du Forez, sans engagement.",
+  "cta_final": {
+    "titre": "Démarrer mon avis de valeur",
+    "intro": "Six questions rapides - réponse sous 24 à 48h, sans engagement.",
+    "cta_label": "Démarrer le questionnaire"
+  },
+  "forces": {
+    "surtitre": "Pourquoi faire estimer avec moi ?",
+    "titre": "Trois forces concrètes.",
+    "items": [
+      {
+        "titre": "Expertise locale & comparatif précis",
+        "desc": "Je connais parfaitement les marchés des Monts d'Or, de l'Ouest lyonnais et de la Plaine du Forez. Chaque estimation s'appuie sur **les ventes récentes dans votre secteur, les tendances actuelles du marché local et les caractéristiques propres à votre bien.**"
+      },
+      {
+        "titre": "Dossier soigné & mise en valeur",
+        "desc": "Photos professionnelles, angles de vue soignés et drone si nécessaire, pour mettre votre bien en valeur dès le premier regard. L'estimation est restituée dans un dossier complet et soigné : **comparatif de marché, fourchette de prix, conseils personnalisés.** Bien plus qu'un simple chiffre."
+      },
+      {
+        "titre": "Accompagnement complet & réactivité",
+        "desc": "Je reste disponible pour répondre à vos questions, affiner la stratégie de prix et vous accompagner vers la mise en vente si vous le souhaitez : sans pression, à votre rythme."
+      }
+    ]
+  },
+  "carte_section": {
+    "surtitre": "Mes secteurs d'intervention",
+    "titre": "Je réalise vos avis de valeur dans toute la métropole lyonnaise et dans la Plaine du Forez.",
+    "intro": "Cliquez sur une commune pour ouvrir sa fiche détaillée."
+  },
+  "etapes": {
+    "surtitre": "Comment ça se déroule ?",
+    "titre": "Quatre étapes en 24 - 48h.",
+    "items": [
+      {
+        "num": "01",
+        "titre": "Contact & échange",
+        "desc": "Formulaire en ligne ou contact direct par téléphone ou email. Je recueille **les informations clés** pour une estimation précise : type de bien, superficie, situation personnelle, délais souhaités."
+      },
+      {
+        "num": "02",
+        "titre": "Visite sur place",
+        "desc": "Je me déplace directement chez vous pour évaluer votre bien dans le détail : surface, état général, atouts, points de vigilance et environnement immédiat. **Tout ce qui fait la vraie valeur d'un bien ne se voit pas sur un plan.**"
+      },
+      {
+        "num": "03",
+        "titre": "Rapport de valeur détaillé",
+        "desc": "Vous recevez **un dossier complet** : prix estimé, fourchette de marché et conseils personnalisés. Remis en main propre, sous 24 à 48 h."
+      },
+      {
+        "num": "04",
+        "titre": "Accompagnement pour la suite",
+        "desc": "Que vous souhaitiez vendre maintenant ou plus tard, **je vous conseille sur la meilleure stratégie à adopter** selon votre projet et votre calendrier : sans engagement."
+      }
+    ]
+  },
+  "wizard_merci": {
+    "surtitre": "Demande reçue",
+    "titre_prefix": "Merci",
+    "intro": "Je vous recontacte sous 24h pour un premier échange. Nous convenons ensemble d'une visite sur place pour affiner l'estimation et vous remettre un avis de valeur complet et argumenté.",
+    "cta_label": "Retour à l'accueil",
+    "cta_href": "/"
+  },
+  "confidentialite": "Vos données restent strictement confidentielles. Je suis le seul destinataire de votre demande.",
+  "romain_card": {
+    "titre": "Un avis de valeur honnête, basé sur de vrais comparables.",
+    "message": "Je ne survalorise pas pour signer un mandat. Je vous donne le prix juste, argumenté avec les ventes récentes de votre quartier. Si on doit revoir à la baisse, je vous le dis."
+  },
+  "hero": {
+    "surtitre": "Avis de valeur · 24 - 48h",
+    "intro1": "Vous pensez à vendre, vous souhaitez simplement faire le point ou vous préparez un projet à moyen terme ? Avant toute décision, une question est essentielle : **combien vaut réellement votre bien aujourd'hui, dans votre quartier, sur votre secteur ?**\n",
+    "intro2": "Le prix affiché sur les portails ne reflète pas toujours le prix de vente réel. Une estimation juste vous permet d'éviter deux erreurs fréquentes : **surestimer votre bien et allonger les délais de vente, ou le sous-estimer et perdre de la valeur.**",
+    "cta_primary_label": "Demander mon avis de valeur",
+    "mention": "Sans engagement · 100% confidentiel",
+    "titre": "Connaissez la valeur réelle de votre bien.",
+    "cta_secondary_url": "sms:+33679571473?body=Bonjour%20Romain%2C%20je%20souhaite%20un%20avis%20de%20valeur%20de%20mon%20bien.",
+    "intro_complement": "Je suis Romain Rieg, conseiller immobilier iad basé à Saint-Didier-au-Mont-d’Or. Je vous remets **un avis de valeur personnalisé, précis et sans engagement, sous 24 à 48 h.**",
+    "cta_secondary_label": "💬 Sms",
+    "video": "/uploads/img_7945.jpeg"
+  },
+  "meta_title": "Avis de valeur · 24 - 48h"
+}

@@ -1,0 +1,99 @@
+{
+  "hero_cta_label": "Me contacter",
+  "meta_description": "Vendez votre bien dans l'Ouest lyonnais avec Romain Rieg, conseiller immobilier iad. Avis de valeur offert sous 24-48h, expertise des Mont d'Or, accompagnement complet.",
+  "process_titre": "Quatre étapes claires.",
+  "cta_titre": "Et si on commençait par un avis de valeur ? ",
+  "positionnement_surtitre": "Mon positionnement",
+  "communes_principales_label": "Communes principales",
+  "hero_surtitre": "Mon secteur d'intervention",
+  "communes_label": "Saint-Didier-au-Mont-d'Or · Saint-Cyr-au-Mont-d'Or · Écully · Dardilly · Limonest · Champagne-au-Mont-d'Or - et leurs limitrophes",
+  "h1": "Réussissez votre projet immobilier dans l'Ouest lyonnais.",
+  "atouts_surtitre": "Pourquoi me confier votre bien ?",
+  "atouts_titre": "Trois atouts qui font la différence.",
+  "etapes": [
+    {
+      "num": "01",
+      "titre": "Premier contact & collecte d'infos",
+      "desc": "Formulaire en ligne, téléphone ou email : nous échangeons sur votre bien, votre situation et vos objectifs. Je recueille les informations essentielles pour comprendre votre projet et préparer une première analyse."
+    },
+    {
+      "num": "02",
+      "titre": "Visite & avis de valeur précis",
+      "desc": "Je me déplace sur place pour évaluer votre bien dans le détail : emplacement, état général, prestations, atouts, points de vigilance et potentiel de valorisation. **Vous recevez ensuite un avis de valeur fiable, argumenté et adapté au marché local.**"
+    },
+    {
+      "num": "03",
+      "titre": "Mise en vente optimale",
+      "desc": "**Votre bien est mis en valeur** avec des photos professionnelles, une annonce soignée et, si nécessaire, des prises de vue par drone. Il est diffusé sur les principaux portails immobiliers et bénéficie de la puissance du réseau iad pour toucher les bons acquéreurs."
+    },
+    {
+      "num": "04",
+      "titre": "Suivi jusqu'à la signature",
+      "desc": "J’organise les visites, sélectionne les acquéreurs sérieux, vous accompagne dans la négociation et assure le suivi administratif jusqu’à la signature chez le notaire. **Vous avancez avec un interlocuteur unique, réactif et impliqué.**"
+    }
+  ],
+  "intro": [
+    "L’Ouest lyonnais est un secteur immobilier recherché, avec des marchés très différents d’une commune à l’autre. Entre les Monts d’Or, les communes résidentielles proches de Lyon et les villages familiaux, **chaque projet demande une vraie connaissance du terrain.** Vous souhaitez vendre, acheter, investir ou mettre votre bien en location dans l’Ouest lyonnais ou ses environs ?",
+    "Je mets mon expertise locale, ma réactivité et mon accompagnement personnalisé à votre service pour vous aider à prendre les bonnes décisions à chaque étape de votre projet.\n\n"
+  ],
+  "communes_principales": [
+    "Saint-Didier-au-Mont-d'Or",
+    "Saint-Cyr-au-Mont-d'Or",
+    "Écully",
+    "Dardilly",
+    "Limonest",
+    "Champagne-au-Mont-d'Or"
+  ],
+  "titre_seo": "Vendre dans l'Ouest lyonnais",
+  "positionnement_titre": "Mon cœur d'activité - un marché tendu, exigeant, que je couvre au quotidien.",
+  "process_surtitre": "Le processus",
+  "communes_limitrophes": [
+    "Lyon",
+    "Caluire-et-Cuire",
+    "Collonges-au-Mont-d'Or",
+    "Poleymieux-au-Mont-d'Or",
+    "Curis-au-Mont-d'Or",
+    "Couzon-au-Mont-d'Or",
+    "Albigny-sur-Saône",
+    "Chasselay",
+    "Lissieu",
+    "Marcilly-d'Azergues",
+    "Chazay-d'Azergues",
+    "Tassin-la-Demi-Lune",
+    "Charbonnières-les-Bains",
+    "Craponne",
+    "Francheville",
+    "Civrieux-d'Azergues",
+    "Lozanne",
+    "Dommartin",
+    "Fontaines-sur-Saône",
+    "Sainte-Foy-lès-Lyon",
+    "Villeurbanne",
+    "Saint-Genis-les-Ollières"
+  ],
+  "limitrophes_label": "+ communes limitrophes que je couvre également",
+  "limitrophes_note": "Je ne me limite jamais strictement aux communes principales - chaque projet sur les limitrophes est étudié avec la même attention.",
+  "hero_reassurance": "Sans engagement · 100% confidentiel",
+  "positionnement_texte": "Mon expertise principale s’appuie sur 6 communes de référence, ainsi que l’ensemble de leurs communes limitrophes. **Cette connaissance terrain me permet d’analyser chaque secteur avec précision** : niveau de demande, typologie des biens, prix pratiqués, délais de vente et attentes des acquéreurs.\n\nGrâce au réseau iad, j’accompagne également les projets sur toute la couronne ouest de la Métropole de Lyon, avec une approche locale, réactive et personnalisée.",
+  "atouts": [
+    {
+      "titre": "Expertise locale approfondie",
+      "desc": "Chaque commune, chaque quartier et chaque typologie de bien ont leurs spécificités. J’analyse votre secteur avec précision pour positionner votre bien au juste prix et le présenter dans les meilleures conditions."
+    },
+    {
+      "titre": "Visibilité maximale",
+      "desc": "Votre bien bénéficie d’une diffusion large auprès d’acquéreurs qualifiés, d’investisseurs ciblés et du réseau iad. Je m’appuie également sur les outils performants du réseau iad France pour maximiser les opportunités de contact."
+    },
+    {
+      "titre": "Discrétion & filtrage",
+      "desc": "Pour les biens de prestige dans les Monts d’Or, la discrétion est essentielle. Je veille à préserver la confidentialité de votre projet et à qualifier chaque acquéreur avant toute mise en relation ou visite."
+    }
+  ],
+  "carte_titre": "Survolez la carte pour explorer.",
+  "intro_complement": "**Mon objectif : vous accompagner avec transparence, méthode et engagement**, que ce soit pour vendre dans les meilleures conditions, acheter en toute sécurité, investir intelligemment ou trouver un locataire sérieux pour votre bien.",
+  "video": "/uploads/ouestlyonnais.jpeg",
+  "image": "/photos/IMG_7282.jpeg",
+  "carte_surtitre": "Les communes",
+  "cta_intro": "Offert, argumenté, sous 24 à 48h - sans engagement de mandat.",
+  "carte_texte": "Cliquez sur une commune pour ouvrir sa fiche détaillée - démographie, écoles, restaurants, quartiers, prix au m²."
+}

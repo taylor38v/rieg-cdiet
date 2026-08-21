@@ -1,0 +1,183 @@
+{
+  "superficie": 7.29,
+  "meta_description": "Avis de valeur, vente et achat à Saint-Cyr-au-Mont-d'Or avec Romain Rieg, conseiller iad. Expertise des propriétés de prestige du Mont d'Or et de l'Ouest lyonnais.",
+  "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+  "delai_vente": 74,
+  "prix_m2_maison": 6230,
+  "ecoles": [
+    {
+      "nom": "École maternelle du Bourg",
+      "type": "Maternelle",
+      "precision": "École publique située au cœur du village - de la petite à la grande section."
+    },
+    {
+      "nom": "École élémentaire de Champlong",
+      "type": "Primaire",
+      "precision": "École publique de la commune - du CP au CM2."
+    },
+    {
+      "nom": "Les Chartreux - Sainte Blandine",
+      "type": "Privé",
+      "precision": "École privée située à Saint-Cyr-au-Mont-d’Or"
+    },
+    {
+      "nom": "L’Envolée",
+      "type": "Primaire",
+      "precision": "École privée située à Saint-Cyr-au-Mont-d’Or"
+    },
+    {
+      "nom": "Collège Jean-Philippe Rameau",
+      "type": "Collège",
+      "precision": "Collège public situé à Champagne-au-Mont-d’Or"
+    },
+    {
+      "precision": "Établissement privé reconnu de l’Ouest lyonnais - de la primaire au lycée selon les niveaux et sites concernés.",
+      "nom": "Sainte-Marie Lyon",
+      "type": "Privé"
+    }
+  ],
+  "intro": "Surplombant la Saône, Saint-Cyr-au-Mont-d’Or fait partie des adresses les plus confidentielles dans les Monts d’Or. Propriétés d’exception, vues dégagées, belles demeures en pierres dorées et biens rarement disponibles : la commune attire une clientèle exigeante en recherche de calme, de discrétion et de proximité avec Lyon.",
+  "nom": "Saint-Cyr-au-Mont-d'Or",
+  "cp": "69450",
+  "ce_qui_differencie": [
+    {
+      "titre": "Un marché immobilier confidentiel et recherché",
+      "description": "Saint-Cyr-au-Mont-d’Or fait partie des communes les plus prisées de la métropole lyonnaise. L’offre y reste limitée et les biens de qualité sont particulièrement recherchés"
+    },
+    {
+      "titre": "Une adresse forte dans les Monts d’Or",
+      "description": "À quelques minutes de Lyon - la commune offre un cadre résidentiel rare avec vues sur la Saône - environnement préservé et atmosphère très privilégiée"
+    },
+    {
+      "titre": "Un patrimoine bâti remarquable",
+      "description": "Bastides anciennes / maisons en pierres dorées / propriétés avec parc / adresses discrètes : Saint-Cyr-au-Mont-d’Or possède une identité patrimoniale forte"
+    },
+    {
+      "titre": "Une clientèle exigeante",
+      "description": "Le marché local attire des acquéreurs attentifs à la qualité de vie - à la discrétion - aux prestations et à l’emplacement"
+    }
+  ],
+  "population": 6327,
+  "intercommunalite": "Métropole de Lyon",
+  "associations": [
+    {
+      "nom": "Tennis Club de Saint-Cyr-au-Mont-d’Or",
+      "activite": "Club sportif historique de la commune, avec une pratique locale ancrée"
+    },
+    {
+      "nom": "Mont Cindre et son ermitage",
+      "activite": "Association engagée dans la mise en valeur du Mont Cindre, de son ermitage et de son patrimoine remarquable."
+    },
+    {
+      "nom": "HBCCD - Handball Club Saint-Cyr / Saint-Didier",
+      "activite": "Club de handball intercommunal, actif sur Saint-Cyr-au-Mont-d’Or et Saint-Didier-au-Mont-d’Or."
+    },
+    {
+      "nom": "Associations culturelles et sportives",
+      "activite": "La commune bénéficie d’un tissu associatif varié, entre sport, culture, patrimoine et animations locales."
+    }
+  ],
+  "evolution_prix": [
+    {
+      "annee": 2020,
+      "prixM2": 5400,
+      "prix_appartement": 4449
+    },
+    {
+      "annee": 2021,
+      "prixM2": 5900,
+      "prix_appartement": 4861
+    },
+    {
+      "annee": 2022,
+      "prixM2": 6350,
+      "prix_appartement": 5232
+    },
+    {
+      "annee": 2023,
+      "prixM2": 6450,
+      "prix_appartement": 5314
+    },
+    {
+      "annee": 2024,
+      "prixM2": 6320,
+      "prix_appartement": 5207
+    },
+    {
+      "annee": 2025,
+      "prixM2": 6230,
+      "prix_appartement": 5133
+    }
+  ],
+  "prix_m2_appartement": 5133,
+  "restaurants": [
+    {
+      "nom": "L'Ermitage Cuisine à Manger",
+      "cuisine": "Une adresse emblématique sur les hauteurs de Saint-Cyr-au-Mont-d’Or, avec cuisine soignée, produits de saison et vue remarquable sur Lyon. · 4,5★ ",
+      "gamme": "Gastro",
+      "note": 4.5
+    },
+    {
+      "nom": "Le Comptoir de St Cyr",
+      "cuisine": "Une adresse conviviale route de Lyon, appréciée pour son esprit brasserie et son emplacement pratique. · 4,3★ ",
+      "gamme": "Brasserie",
+      "note": 4.3
+    },
+    {
+      "nom": "Là-Haut sur la Colline",
+      "cuisine": "Restaurant situé route du Mont Cindre, avec une cuisine de saison dans un cadre verdoyant et une atmosphère chaleureuse. · 4,3★ ",
+      "gamme": "Bistrot",
+      "note": 4.3
+    },
+    {
+      "nom": "Brasserie des Monts d'Or",
+      "cuisine": "Une adresse de centre village, simple et conviviale, qui participe à la vie locale de Saint-Cyr-au-Mont-d’Or. · 3,9★",
+      "gamme": "Brasserie",
+      "note": 3.9
+    }
+  ],
+  "video_insta": {
+    "titre": "Bastide en pierres dorées - visite exclusive",
+    "duree": "1:45"
+  },
+  "galerie": [
+    "/uploads/saint-cyr-au-mont-dor.jpeg",
+    "/uploads/img_7306.jpeg",
+    "/uploads/img_7348.jpeg",
+    "/uploads/img_7386.jpeg",
+    "/uploads/img_7949.jpeg",
+    "/uploads/img_7389.jpeg",
+    "/uploads/img_7396.jpeg",
+    "/uploads/img_7425.jpeg"
+  ],
+  "video": "/uploads/st-cyr.jpeg",
+  "quartiers": [
+    {
+      "nom": "Le Bourg - République",
+      "description": "Le cœur historique de Saint-Cyr-au-Mont-d’Or : commerces de proximité, mairie, église, marché et belles maisons en pierres des Monts d’Or. Un secteur recherché pour son cachet, sa vie de village et sa proximité avec Lyon.",
+      "prix_indicatif": "5 500 - 6 700 €/m²"
+    },
+    {
+      "nom": "Mont Cindre - Ermitage",
+      "description": "Secteur emblématique de la commune, apprécié pour ses vues, son environnement boisé et son patrimoine autour de l’Ermitage. Les propriétés les plus rares peuvent dépasser cette fourchette selon le terrain, la vue et le niveau de prestations.",
+      "prix_indicatif": "6 000 - 7 600 €/m²"
+    },
+    {
+      "nom": "Les Ormes - Greffières - Indiennerie",
+      "description": "Un secteur résidentiel plus varié, entre maisons familiales, propriétés anciennes, environnement végétal et accès pratique vers Lyon. Une zone intéressante pour les acquéreurs qui recherchent le compromis entre cadre de vie et mobilité.",
+      "prix_indicatif": "5 300 - 6 600 €/m²"
+    },
+    {
+      "nom": "Mont Thou - Maison de la Nature",
+      "prix_indicatif": "5 800 - 7 300 €/m²",
+      "description": "Un secteur résidentiel confidentiel, recherché pour son calme, ses grandes parcelles et son rapport direct à la nature. Une adresse très appréciée des acquéreurs en quête d’espace et de discrétion."
+    },
+    {
+      "prix_indicatif": "5 400 - 6 700 €/m²",
+      "nom": "La Chaux - Baticolière - Nervieux",
+      "description": "Un secteur familial et résidentiel, composé de maisons individuelles, de propriétés discrètes et d’adresses calmes. Très apprécié pour son équilibre entre tranquillité, accès aux écoles et proximité des transports."
+    }
+  ],
+  "video_visite": "/uploads/saint-cyr-au-mont-dor.mp4",
+  "meta_title": "Conseiller immobilier iad à Saint-Cyr-au-Mont-d'Or"
+}

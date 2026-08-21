@@ -1,0 +1,96 @@
+{
+  "meta_description": "Mise en location et gestion locative sécurisées sur les Mont d'Or, l'Ouest lyonnais et la Plaine du Forez. Locataires sélectionnés, revenus sécurisés, zéro vacance grâce au réseau iad.",
+  "cta_final": {
+    "locataires_surtitre": "Pour les locataires aussi",
+    "locataires_titre": "Vous cherchez à louer ?",
+    "locataires_desc": "Inscrivez-vous à mes alertes biens à louer - vous serez notifié dès qu'un bien correspondant à vos critères est disponible.",
+    "locataires_cta_label": "Recevoir les alertes",
+    "locataires_cta_href": "/contact",
+    "question_surtitre": "Une question rapide ?",
+    "question_titre": "Je réponds directement.",
+    "question_desc": "Sans intermédiaire, sans standard. Téléphone ou SMS direct, vous choisissez."
+  },
+  "cta_contact": {
+    "titre": "Je réponds directement.",
+    "intro": "Sms, email ou téléphone - une réponse personnelle sous 24h."
+  },
+  "romain_card": {
+    "titre": "Vos revenus locatifs, sécurisés.",
+    "message": "Je sélectionne rigoureusement chaque locataire (solvabilité, profil), je rédige les baux conformes, et je m'occupe de tout l'administratif. Vous touchez votre loyer, je gère le reste."
+  },
+  "secteurs_section": {
+    "surtitre": "Mes secteurs",
+    "titre": "Les communes où je gère vos locations.",
+    "intro": "Cliquez sur une commune pour découvrir le marché local - démographie, écoles, prix au m², quartiers détaillés.",
+    "groupe_mont_dor_label": "Ouest Lyonnais",
+    "groupe_forez_label": "Plaine du Forez",
+    "zones_lien_label": "Découvrir la zone →",
+    "loyer_label": "Loyer indicatif"
+  },
+  "pourquoi": {
+    "surtitre": "Pourquoi me confier votre bien ?",
+    "titre": "Six piliers pour une mise en location sécurisée.",
+    "items": [
+      {
+        "titre": "Expertise locale",
+        "desc": "Je connais les marchés locatifs des Monts d’Or, de l’Ouest lyonnais et de la Plaine du Forez pour vous aider à fixer un loyer cohérent, attractif et adapté à votre bien."
+      },
+      {
+        "titre": "Sélection rigoureuse des locataires",
+        "desc": "Chaque dossier est étudié avec attention : situation professionnelle, solvabilité, garanties et cohérence du projet locatif avant toute validation."
+      },
+      {
+        "titre": "Réduction de la vacance locative",
+        "desc": "Grâce à une diffusion efficace et à la réactivité du réseau iad, votre bien gagne en visibilité pour trouver un locataire sérieux dans les meilleurs délais."
+      },
+      {
+        "titre": "Gain de temps",
+        "desc": "Je vous accompagne dans les démarches essentielles : estimation du loyer, diffusion de l’annonce, gestion des contacts, organisation des visites, étude des dossiers et préparation du bail."
+      },
+      {
+        "titre": "Visibilité renforcée",
+        "desc": "Votre annonce est diffusée sur les principaux portails immobiliers et bénéficie de la force du réseau iad pour toucher davantage de candidats qualifiés."
+      },
+      {
+        "titre": "Mise en valeur professionnelle",
+        "desc": "Photos de qualité, annonce soignée et présentation claire du logement : tout est pensé pour attirer **les bons profils dès la première lecture.**"
+      }
+    ]
+  },
+  "hero": {
+    "surtitre": "Location · Gestion locative",
+    "intro1": "Vous souhaitez mettre en location votre maison ou appartement **rapidement, efficacement et sans stress ?**",
+    "intro2": "J’accompagne les propriétaires dans la mise en location de leur bien, de l’estimation du loyer à la sélection du locataire.\nOriginaire de la Plaine du Forez et ancré dans les Monts d’Or, je combine connaissance du terrain, diffusion efficace et accompagnement administratif pour vous aider à trouver un locataire sérieux, solvable et cohérent avec votre bien.",
+    "cta_primary_label": "Étude personnalisée gratuite",
+    "mention": "Confidentiel · sans engagement",
+    "titre": "Louez votre bien en toute sérénité.",
+    "cta_secondary_url": "sms:+33679571473?body=Bonjour%20Romain%2C%20je%20souhaite%20mettre%20mon%20bien%20en%20location.",
+    "cta_primary_href": "/contact",
+    "intro_complement": "Mon objectif : **vous faire gagner du temps, sécuriser votre mise en location** et vous accompagner avec une approche claire, rigoureuse et personnalisée.",
+    "cta_secondary_label": "💬 Sms",
+    "video": "/uploads/img_7577.jpeg"
+  },
+  "services": {
+    "surtitre": "Mes services pour la location",
+    "titre": "Quatre piliers pour une location sereine.",
+    "items": [
+      {
+        "titre": "Recherche de locataires qualifiés",
+        "desc": "Annonce optimisée, diffusion ciblée et sélection rigoureuse des candidats pour attirer des profils sérieux, solvables et adaptés à votre bien."
+      },
+      {
+        "titre": "Dossier locatif & suivi administratif",
+        "desc": "Je vous accompagne dans la constitution du dossier : pièces justificatives, analyse des candidatures, préparation du bail, dépôt de garantie et état des lieux."
+      },
+      {
+        "titre": "Accompagnement complet jusqu’à l’entrée dans les lieux",
+        "desc": "De la première estimation du loyer à la remise des clés, je vous guide à chaque étape pour sécuriser la mise en location et vous faire gagner du temps."
+      },
+      {
+        "titre": "Mise en valeur & visibilité",
+        "desc": "Photos professionnelles, annonce soignée, publication sur les principaux portails immobiliers et relais via le réseau iad pour maximiser la visibilité de votre bien."
+      }
+    ]
+  },
+  "meta_title": "Location & gestion locative"
+}

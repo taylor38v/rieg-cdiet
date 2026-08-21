@@ -1,0 +1,64 @@
+{
+  "meta_title": "À propos - Romain Rieg, conseiller immobilier",
+  "meta_description": "Conseiller immobilier iad dans l'Ouest lyonnais et la Plaine du Forez. Une approche sur-mesure, locale et rigoureuse.",
+  "hero": {
+    "surtitre": "À propos",
+    "titre_l1": "Un conseiller,",
+    "titre_l2": "pas un vendeur.",
+    "paragraphes": [
+      "J'ai grandi sur les coteaux du Mont d'Or. Ce territoire, je le connais rue après rue. Après un parcours de commerce et plusieurs années dans le conseil, j'ai rejoint le réseau iad pour exercer le métier comme je l'entends : prendre le temps, écouter, transmettre l'information, ne vendre que ce que je défends.",
+      "Chez moi, un mandat, c'est d'abord une rencontre. Je ne signe que si je suis convaincu d'apporter de la valeur - et si la confiance est mutuelle."
+    ],
+    "photo": "/photos/romain-pro.jpg",
+    "photo_alt": "Romain Rieg",
+    "stats": [
+      {
+        "valeur": "2019",
+        "label": "Début immobilier"
+      },
+      {
+        "valeur": "120+",
+        "label": "Transactions"
+      },
+      {
+        "valeur": "98%",
+        "label": "Prix net / estimation"
+      }
+    ]
+  },
+  "engagements": {
+    "surtitre": "Mes engagements",
+    "titre": "Ce à quoi vous avez droit.",
+    "items": [
+      {
+        "titre": "Un mandat exclusif, jamais imposé",
+        "desc": "Je vous présente les options. À vous de choisir, en connaissance de cause."
+      },
+      {
+        "titre": "Une estimation argumentée",
+        "desc": "Pas de prix de complaisance. Des comparables récents, une méthode, un argumentaire."
+      },
+      {
+        "titre": "Un reporting bi-mensuel",
+        "desc": "Visites, retours, statistiques d'annonces : vous savez où en est votre dossier."
+      },
+      {
+        "titre": "Une disponibilité réelle",
+        "desc": "Pas de standard, pas d'assistant. Vous m'appelez, je réponds."
+      },
+      {
+        "titre": "La confidentialité",
+        "desc": "Adresse, photos, documents : rien ne sort sans votre accord explicite."
+      },
+      {
+        "titre": "Une rémunération au résultat",
+        "desc": "Mes honoraires ne sont dus qu'à la signature de l'acte authentique."
+      }
+    ]
+  },
+  "cta_final": {
+    "titre": "On se rencontre ?",
+    "cta_label": "Prendre rendez-vous",
+    "cta_href": "/contact"
+  }
+}

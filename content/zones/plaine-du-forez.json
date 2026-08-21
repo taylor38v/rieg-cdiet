@@ -1,0 +1,94 @@
+{
+  "hero_cta_label": "Me contacter",
+  "meta_description": "Vendez votre bien dans la Plaine du Forez avec Romain Rieg, conseiller immobilier iad. Saint-Just-Saint-Rambert, Andrézieux-Bouthéon : avis de valeur offert sous 24-48h.",
+  "process_titre": "Quatre étapes claires.",
+  "cta_titre": "Et si on commençait par un avis de valeur ?",
+  "positionnement_surtitre": "Mon positionnement",
+  "communes_principales_label": "Communes principales",
+  "hero_surtitre": "Mon secteur d'intervention",
+  "communes_label": "Saint-Just-Saint-Rambert · Andrézieux-Bouthéon - et leurs limitrophes",
+  "h1": "Réussissez votre projet immobilier dans la Plaine du Forez.",
+  "atouts_surtitre": "Pourquoi me confier votre bien ?",
+  "atouts_titre": "Trois atouts qui font la différence.",
+  "etapes": [
+    {
+      "num": "01",
+      "titre": "Premier contact & collecte d'infos",
+      "desc": "Formulaire en ligne, téléphone ou email : nous échangeons sur votre bien, votre situation et vos objectifs. Je recueille les informations essentielles pour comprendre votre projet et préparer une première analyse."
+    },
+    {
+      "num": "02",
+      "titre": "Visite & avis de valeur précis",
+      "desc": "Je me déplace sur place pour évaluer votre bien dans le détail : emplacement, état général, prestations, atouts, points de vigilance et potentiel de valorisation. Vous recevez ensuite un avis de valeur fiable, argumenté et adapté au marché local."
+    },
+    {
+      "num": "03",
+      "titre": "Mise en vente optimale",
+      "desc": "Votre bien est mis en valeur avec des photos professionnelles, une annonce soignée et, si nécessaire, des prises de vue par drone. Il est diffusé sur **tout les portails immobiliers et bénéficie de la puissance du réseau iad pour toucher les bons acquéreurs.**"
+    },
+    {
+      "num": "04",
+      "titre": "Suivi jusqu'à la signature",
+      "desc": "J’organise les visites, sélectionne les acquéreurs sérieux, vous accompagne dans la négociation et assure le suivi administratif jusqu’à la signature chez le notaire. **Vous avancez avec un interlocuteur unique, réactif et impliqué.**"
+    }
+  ],
+  "intro": [
+    "Vous souhaitez vendre, acheter, louer ou investir à Saint-Just-Saint-Rambert, Andrézieux-Bouthéon ou dans les communes alentours ? \n\n",
+    "Originaire de la Loire, j’ai vécu à Saint-Just-Saint-Rambert et à Andrézieux-Bouthéon pendant près de 20 ans, ce qui me permet de vous accompagner avec **une vraie connaissance du territoire, de ses communes et de son marché immobilier.**"
+  ],
+  "communes_principales": [
+    "Saint-Just-Saint-Rambert",
+    "Andrézieux-Bouthéon"
+  ],
+  "titre_seo": "Vendre dans la Plaine du Forez",
+  "positionnement_titre": "Saint-Just-Saint-Rambert & Andrézieux-Bouthéon : mon territoire d'enfance.",
+  "process_surtitre": "Le processus",
+  "communes_limitrophes": [
+    "Saint-Étienne",
+    "Bonson",
+    "Chambles",
+    "Saint-Marcellin-en-Forez",
+    "Saint-Cyprien",
+    "Sury-le-Comtal",
+    "Veauchette",
+    "Veauche",
+    "Unieux",
+    "La Fouillouse",
+    "Saint-Romain-le-Puy",
+    "Roche-la-Molière",
+    "Firminy",
+    "Villars",
+    "Saint-Priest-en-Jarez",
+    "L'Étrat",
+    "La Tour-en-Jarez",
+    "Saint-Héand",
+    "Saint-Bonnet-les-Oules",
+    "Saint-Galmier",
+    "Chambœuf"
+  ],
+  "limitrophes_label": "+ communes limitrophes que je couvre également",
+  "limitrophes_note": "Je ne me limite jamais strictement aux communes principales - chaque projet sur les limitrophes est étudié avec la même attention.",
+  "hero_reassurance": "Sans engagement · 100% confidentiel",
+  "positionnement_texte": "Ces deux communes occupent une place particulière dans mon parcours. **J’y ai grandi, j’y ai construit mes repères et j’en connais les dynamiques locales** : quartiers, axes de circulation, bassins d’emploi, attractivité résidentielle et attentes des acquéreurs.\n\nCette connaissance personnelle du secteur me permet d’accompagner les projets immobiliers avec une vraie lecture du terrain, au-delà des simples chiffres de marché.",
+  "atouts": [
+    {
+      "titre": "L'enfant du pays",
+      "desc": "Originaire de la Loire, où j’ai grandi et vécu pendant 20 ans, je connais la Plaine du Forez de l’intérieur : ses communes, ses quartiers, ses habitudes de marché et les attentes des acquéreurs locaux."
+    },
+    {
+      "titre": "Réactivité & suivi",
+      "desc": "Avis de valeur sous 24 à 48h, échanges réguliers, disponibilité et suivi personnalisé : vous avancez avec un interlocuteur impliqué à chaque étape de votre projet."
+    },
+    {
+      "titre": "Force du réseau iad",
+      "desc": "Votre bien bénéficie d’une diffusion large sur les principaux portails immobiliers et auprès du réseau iad, pour toucher davantage d’acquéreurs qualifiés."
+    }
+  ],
+  "carte_titre": "Survolez la carte pour explorer.",
+  "intro_complement": "Je suis Romain Rieg, conseiller immobilier indépendant au sein du réseau iad France. **Estimation, stratégie de vente, recherche acquéreur, investissement ou mise en location** : je vous accompagne avec méthode, visibilité et sécurité, en m’appuyant sur une approche locale, précise et réaliste ainsi que sur des outils de diffusion performants.",
+  "video": "/uploads/plaine-du-forez.jpeg",
+  "image": "/photos/IMG_7295.jpeg",
+  "carte_surtitre": "Les communes",
+  "cta_intro": "Offert, argumenté, sous 24 à 48h - sans engagement de mandat.",
+  "carte_texte": "Cliquez sur une commune pour ouvrir sa fiche détaillée - démographie, écoles, restaurants, quartiers, prix au m²."
+}

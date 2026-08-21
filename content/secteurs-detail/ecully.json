@@ -1,0 +1,210 @@
+{
+  "superficie": 9,
+  "meta_description": "Avis de valeur, vente et achat à Écully avec Romain Rieg, conseiller iad. Connaissance fine des résidences de standing du Mont d'Or et de l'Ouest lyonnais.",
+  "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+  "delai_vente": 62,
+  "prix_m2_maison": 5278,
+  "ecoles": [
+    {
+      "nom": "Écoles publiques d’Écully",
+      "type": "Primaire",
+      "precision": "La commune compte plusieurs groupes scolaires publics : Les Cerisiers, Charrière Blanche, Vallon de Grandvaux, Le Pérollier et le Centre."
+    },
+    {
+      "nom": "École Sainte-Blandine",
+      "type": "Privé",
+      "precision": "École privée située place de la Libération à Écully."
+    },
+    {
+      "nom": "École Saint Dominique Savio",
+      "type": "Privé",
+      "precision": "École privée située chemin de la Sauvegarde à Écully."
+    },
+    {
+      "nom": "Collège Laurent Mourguet",
+      "precision": "Collège public situé à Écully.",
+      "type": "Collège"
+    },
+    {
+      "precision": "Collège privé catholique sous contrat situé avenue du Docteur Terver à Écully.",
+      "type": "Privé",
+      "nom": "Collège Sacré-Cœur - Don Bosco"
+    },
+    {
+      "nom": "École Centrale de Lyon",
+      "type": "Supérieur",
+      "precision": "Établissement d’excellence situé à Écully, au cœur du campus Lyon Ouest."
+    },
+    {
+      "nom": "Institut Lyfe - ex Institut Paul Bocuse",
+      "type": "Supérieur",
+      "precision": "École internationale de référence dans les domaines de l’hôtellerie-restauration, des arts culinaires, de la pâtisserie et du management."
+    }
+  ],
+  "intro": "Aux portes de Lyon, Écully séduit par son équilibre rare entre cadre résidentiel, patrimoine naturel, grandes écoles et accès rapide au centre lyonnais. Entre propriétés familiales, résidences de standing, quartiers commerçants et secteurs plus confidentiels, la commune attire une clientèle variée à la recherche d’espace, de confort et de qualité de vie.",
+  "nom": "Écully",
+  "cp": "69130",
+  "ce_qui_differencie": [
+    {
+      "titre": "Un marché résidentiel recherché",
+      "description": "Écully attire une demande familiale solide grâce à sa proximité avec Lyon - ses quartiers résidentiels - ses écoles et son cadre de vie privilégié"
+    },
+    {
+      "titre": "Un pôle d’enseignement supérieur reconnu",
+      "description": "École Centrale de Lyon / Institut Lyfe - ex Institut Paul Bocuse / campus Lyon Ouest Écully : la commune bénéficie d’un environnement académique fort et attractif"
+    },
+    {
+      "titre": "Une commune bien connectée à Lyon",
+      "description": "Accès rapide à Lyon par les lignes de bus - la gare Écully-la-Demi-Lune - le tram-train de l’Ouest lyonnais et les grands axes routiers"
+    },
+    {
+      "titre": "Un cadre naturel très présent",
+      "description": "Parc du Vivier / bois de Serres / espaces boisés / quartiers résidentiels arborés : Écully conserve une vraie respiration verte aux portes de Lyon"
+    }
+  ],
+  "population": 17944,
+  "intercommunalite": "Métropole de Lyon",
+  "associations": [
+    {
+      "nom": "Écully Sports",
+      "activite": "Structure multisports emblématique de la commune, avec plusieurs disciplines et une forte présence dans la vie locale."
+    },
+    {
+      "nom": "Écully Athlétisme",
+      "activite": "Club dédié à la pratique de l’athlétisme, de la découverte à la compétition."
+    },
+    {
+      "nom": "MJC d'Écully",
+      "activite": "Lieu important de la vie culturelle locale, avec activités, ateliers, théâtre, musique et projets collectifs."
+    },
+    {
+      "nom": "Comité de jumelage Écully - Lourinhã (Portugal)",
+      "activite": "Association favorisant les échanges culturels et les liens internationaux avec le Portugal."
+    }
+  ],
+  "evolution_prix": [
+    {
+      "annee": 2020,
+      "prixM2": 4700,
+      "prix_appartement": 3856
+    },
+    {
+      "annee": 2021,
+      "prixM2": 5050,
+      "prix_appartement": 4143
+    },
+    {
+      "annee": 2022,
+      "prixM2": 5400,
+      "prix_appartement": 4430
+    },
+    {
+      "annee": 2023,
+      "prixM2": 5450,
+      "prix_appartement": 4471
+    },
+    {
+      "annee": 2024,
+      "prixM2": 5350,
+      "prix_appartement": 4389
+    },
+    {
+      "annee": 2025,
+      "prixM2": 5280,
+      "prix_appartement": 4332
+    }
+  ],
+  "prix_m2_appartement": 4330,
+  "restaurants": [
+    {
+      "nom": "Saisons (Institut Paul Bocuse) -                 1 étoile michelin",
+      "cuisine": "Restaurant gastronomique d’application installé au cœur du parc du Vivier, dans l’environnement de l’Institut Lyfe - ex Institut Paul Bocuse. · 4,8★ ",
+      "gamme": "Étoilé",
+      "note": 4.8
+    },
+    {
+      "nom": "Au Bel Avenir",
+      "cuisine": "Restaurant et bar à Écully, avec une cuisine traditionnelle française, une ambiance conviviale et une belle adresse pour déjeuner, dîner ou partager un moment entre amis. · 4,7★ ",
+      "gamme": "Brasserie",
+      "note": 4.7
+    },
+    {
+      "nom": "Au Comptoir d'Écully",
+      "cuisine": "Adresse récente et chaleureuse, pensée autour de la convivialité, des produits du terroir et d’une cuisine maison.· 4,9★ ",
+      "gamme": "Bistrot",
+      "note": 4.9
+    },
+    {
+      "nom": "Volfoni Écully",
+      "cuisine": "Restaurant italien situé chemin Jean-Marie Vianney, à proximité d’Écully Grand Ouest.· 4,6★ ",
+      "gamme": "Bistrot",
+      "note": 4.6
+    },
+    {
+      "nom": "Restaurant Le Village",
+      "cuisine": "Adresse située avenue du Docteur Terver, avec une cuisine maison, une ambiance chaleureuse et une terrasse agréable en saison. · 4,5★ ",
+      "gamme": "Bistrot",
+      "note": 4.5
+    },
+    {
+      "nom": "L'Entre-Nous",
+      "cuisine": "Restaurant italien situé allée Moulin Berger, avec une offre de restauration, pizzeria et vente à emporter.· 4,5★ ",
+      "gamme": "Bistrot",
+      "note": 4.5
+    },
+    {
+      "nom": "Kif Angkor",
+      "cuisine": "Adresse située rue Marietton, avec une cuisine d’inspiration cambodgienne et indochinoise.· 5★ ",
+      "gamme": "Bistrot",
+      "note": 5
+    }
+  ],
+  "video_insta": {
+    "titre": "Pourquoi Écully attire les familles cadres",
+    "duree": "1:30"
+  },
+  "galerie": [
+    "/uploads/img_7187.jpeg",
+    "/uploads/ecully.jpeg",
+    "/uploads/img_7205.jpeg",
+    "/uploads/img_7214.jpeg",
+    "/uploads/img_7235.jpeg",
+    "/uploads/img_8002.jpeg",
+    "/uploads/img_8005.jpeg"
+  ],
+  "video": "/uploads/ecully.jpeg",
+  "quartiers": [
+    {
+      "nom": "Centre-ville - Docteur Terver",
+      "description": "Le cœur vivant d’Écully : commerces, marché, mairie, écoles, restaurants et services du quotidien. Un secteur recherché pour sa centralité, son esprit village et sa facilité de vie aux portes de Lyon.",
+      "prix_indicatif": "4 500 - 5 400 €/m²"
+    },
+    {
+      "nom": "Valvert - Charlier - Marietton",
+      "description": "Secteur pratique et connecté, proche de Lyon 9e, de Vaise, des transports et des grands axes. Le marché y est varié, entre appartements, maisons de ville et adresses plus résidentielles selon les rues.",
+      "prix_indicatif": "4 100 - 5 100 €/m²"
+    },
+    {
+      "nom": "Vivier - Les Serres",
+      "description": "Secteur résidentiel apprécié pour son environnement verdoyant, ses belles propriétés, ses espaces arborés et la proximité du parc du Vivier. Une adresse recherchée pour son calme et son cadre de vie.",
+      "prix_indicatif": "4 500 - 5 600 €/m²"
+    },
+    {
+      "nom": "Charrière Blanche - Grandvaux - Calabert",
+      "description": "Secteur familial et résidentiel, composé de maisons, résidences de standing et rues calmes. Grandvaux et Charrière Blanche affichent souvent des valeurs solides grâce à leur environnement, leurs écoles et leur qualité résidentielle.",
+      "prix_indicatif": "4 600 - 5 700 €/m²"
+    },
+    {
+      "nom": "Sources - Pérollier - Vianney",
+      "description": "Secteur plus mixte, avec une offre importante d’appartements, de résidences et de logements familiaux. Un secteur intéressant pour les acquéreurs recherchant un budget plus accessible à Écully, avec des écarts importants selon l’adresse et l’état du bien.",
+      "prix_indicatif": "3 900 - 5 100 €/m²"
+    },
+    {
+      "nom": "Tronchon - Moulin Carron - École Centrale",
+      "description": "Secteur lié au campus, aux grandes écoles et aux axes de l’Ouest lyonnais. Il attire aussi bien des familles, des actifs que des profils investisseurs, notamment grâce à la proximité de l’École Centrale de Lyon et des pôles d’enseignement supérieur.",
+      "prix_indicatif": "4 100 - 5 200 €/m"
+    }
+  ],
+  "video_visite": "/uploads/ecully.mp4",
+  "meta_title": "Conseiller immobilier iad à Écully (69130)"
+}

@@ -1,0 +1,92 @@
+{
+  "meta_description": "Calculateurs, simulateurs et carte interactive pour préparer votre projet immobilier sur les Mont d'Or, l'Ouest lyonnais et la Plaine du Forez.",
+  "surtitre": "Boîte à outils",
+  "cta_titre": "Vous préférez me parler directement ?",
+  "cta_label": "Contactez-moi",
+  "outil_lien_label": "Ouvrir l'outil",
+  "intro": "Le marché immobilier des Monts d’Or, de l’Ouest lyonnais et de la Plaine du Forez ne se résume pas à une moyenne au m². Prix, délais de vente, rentabilité, capacité d’achat, frais annexes : **chaque décision mérite des données claires.**\n\n",
+  "groupes": [
+    {
+      "titre": "Visualiser le marché",
+      "outils": [
+        {
+          "href": "/outils/carte-prix",
+          "chiffre": "01",
+          "sub": "Carte interactive",
+          "titre": "Combien vaut le m² près de chez moi ?",
+          "desc": "Carte des 8 communes avec prix moyens maison & appartement, et évolution sur 5 ans."
+        }
+      ]
+    },
+    {
+      "titre": "Pour décider d'acheter",
+      "outils": [
+        {
+          "href": "/outils/capacite-achat",
+          "chiffre": "02",
+          "sub": "Capacité d'achat",
+          "titre": "Combien puis-je acheter au Mont d'Or ?",
+          "desc": "À partir de votre revenu et de votre apport, votre budget réel et la surface accessible commune par commune."
+        },
+        {
+          "href": "/outils/acheter-vs-louer",
+          "chiffre": "03",
+          "sub": "Achat vs location",
+          "titre": "Acheter ou louer sur 10 ans ?",
+          "desc": "Comparaison financière complète intégrant frais de notaire, intérêts, valorisation et placement alternatif de l'apport."
+        },
+        {
+          "href": "/outils/frais-notaire",
+          "chiffre": "04",
+          "sub": "Frais de notaire détaillés",
+          "titre": "Combien me coûteront les frais de notaire ?",
+          "desc": "Calcul précis pour le Rhône (69) et la Loire (42), neuf vs ancien, avec déduction du mobilier."
+        }
+      ]
+    },
+    {
+      "titre": "Pour préparer une vente",
+      "outils": [
+        {
+          "href": "/outils/vendabilite",
+          "chiffre": "05",
+          "sub": "Score de vendabilité",
+          "titre": "Mon bien va-t-il se vendre vite et bien ?",
+          "desc": "Score sur 100 + diagnostic en 3 points sur prix, DPE et tension de marché. Outil indicatif - un avis de valeur officiel reste indispensable."
+        },
+        {
+          "href": "/outils/projection",
+          "chiffre": "06",
+          "sub": "Projection plus-value",
+          "titre": "Combien vaudra mon bien dans 5 ans ?",
+          "desc": "Sur la base de l'historique DVF de votre quartier. Outil indicatif - projections non garanties."
+        },
+        {
+          "href": "/outils/dpe-express",
+          "chiffre": "07",
+          "sub": "Diagnostic énergétique",
+          "titre": "Quel est le DPE probable de mon bien ?",
+          "desc": "Estimation rapide + plan de travaux pour passer en classe C ou B avant la vente."
+        }
+      ]
+    },
+    {
+      "titre": "Pour investir",
+      "outils": [
+        {
+          "href": "/outils/rentabilite-locative",
+          "chiffre": "08",
+          "sub": "Rentabilité locative",
+          "titre": "Quel rendement vais-je obtenir ?",
+          "desc": "Brut, net, cash-flow mensuel et patrimoine constitué sur 20 ans, fiscalité incluse."
+        }
+      ]
+    }
+  ],
+  "titre": "Huit outils, zéro promesse vide.",
+  "intro_complement": "J’ai conçu ces outils pour vous donner un premier niveau d’analyse, avec les mêmes indicateurs que ceux que j’utilise au quotidien dans mon accompagnement : **gratuitement, sans inscription et sans engagement.**",
+  "cta_href": "/contact",
+  "disclaimer": "Ces outils sont fournis à titre indicatif. Ils ne remplacent pas une analyse personnalisée de votre bien, de votre projet ou de votre situation. Pour toute décision engageante - vente, achat, investissement ou fiscalité - un échange avec Moi-même est recommandé.",
+  "cta_intro": "Tous ces outils sont là pour préparer votre rendez-vous avec moi, pas pour me remplacer.",
+  "meta_title": "Outils"
+}

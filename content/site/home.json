@@ -1,0 +1,181 @@
+{
+  "meta_description": "Conseiller immobilier iad sur l'Ouest lyonnais et la Plaine du Forez. Avis de valeur offert sous 24 - 48h, vente, achat et mise en location.",
+  "cta_final": {
+    "titre": "Parlons de votre projet.",
+    "intro": "Vendre, acheter, louer, ou rejoindre l'équipe iad : un seul interlocuteur, à votre rythme.",
+    "cta_primary_label": "Contactez-moi",
+    "cta_primary_href": "/contact",
+    "cta_secondary_label": "06 79 57 14 73",
+    "cta_secondary_href": "tel:+33679571473"
+  },
+  "biens_iad": {
+    "surtitre": "Mes biens à la vente",
+    "titre": "Retrouvez l'ensemble de mes mandats sur mon mini-site iad officiel.",
+    "desc": "Annonces actualisées en temps réel, fiches complètes et prise de rendez-vous en ligne.",
+    "cta_label": "Voir mes biens iad ↗",
+    "cta_url": "https://www.iadfrance.fr/conseiller-immobilier/romain.rieg"
+  },
+  "instagram": {
+    "surtitre": "À voir",
+    "titre": "Mon quotidien sur Instagram.",
+    "intro": "Visites, conseils, anecdotes du métier - suivez mon quotidien de conseiller immobilier dans les Monts d'Or.",
+    "lien": "https://www.instagram.com/romainrieg.immo/",
+    "reel_label": "Reel",
+    "videos": [
+      {
+        "titre": "Série - 10 semaines pour découvrir et apprendre sur l'immobilier",
+        "duree": "1:03",
+        "thumb": "/uploads/10-semaines-immobilier.png",
+        "url": "https://www.instagram.com/romainrieg.immo/reel/DWjgSdBxZQe/"
+      },
+      {
+        "titre": "Série - 1 minutes pour comprendre",
+        "duree": "0:46",
+        "thumb": "/uploads/1min-intro.jpg",
+        "url": "https://www.instagram.com/romainrieg.immo/reel/DZX1jO3KNGr/"
+      },
+      {
+        "titre": "Un peu de moi",
+        "duree": "0:00",
+        "thumb": "/uploads/un-peu-de-moi.png",
+        "url": "https://www.instagram.com/romainrieg.immo/p/DVtiQThiMi2/"
+      }
+    ],
+    "cta_label": "Voir tous mes contenus Instagram →"
+  },
+  "secteurs": {
+    "surtitre": "Mes secteurs d'intervention",
+    "titre": "Une présence locale, un suivi personnalisé.",
+    "intro": "Chaque commune bénéficie d'une stratégie adaptée à son marché et d'un avis de valeur fiable sous 24 à 48 h.",
+    "lien_label": "Découvrir la zone →",
+    "zones": [
+      {
+        "slug": "ouest-lyonnais",
+        "titre": "Ouest lyonnais",
+        "desc": "Mon secteur principal. Saint-Didier-au-Mont-d'Or, Écully, Dardilly, Limonest, Champagne-au-Mont-d'Or, Saint-Cyr-au-Mont-d'Or et toutes les communes limitrophes.",
+        "badge": "Cœur d'activité",
+        "image": "/uploads/ouest-lyonnais-mont-dor.jpeg"
+      },
+      {
+        "slug": "saint-didier",
+        "titre": "Saint-Didier-au-Mont-d'Or",
+        "desc": "Ma commune de résidence : présence quotidienne sur le terrain et connaissance fine du marché.\n",
+        "badge": "Mon village",
+        "image": "/uploads/saint-didier-au-mont-dor.jpeg"
+      },
+      {
+        "slug": "plaine-du-forez",
+        "titre": "Plaine du Forez",
+        "desc": "Saint-Just-Saint-Rambert & Andrézieux-Bouthéon - mon secteur d'enfance, que je connais comme ma poche et toutes les communes limitrophes.",
+        "badge": "Mon secteur d'enfance",
+        "image": "/uploads/plaine-du-forez.jpeg"
+      }
+    ]
+  },
+  "qui_suis_je": {
+    "surtitre": "Qui suis-je ?",
+    "cta_secondary_href": "sms:+33679571473",
+    "citation": "Mon énergie au service de votre projet.",
+    "cta_primary_label": "Me rencontrer",
+    "photo": "/photos/IMG_6487_SnapseedCopy-1536x2048.jpg",
+    "titre": "Passionné d'immobilier,\nancré dans les Monts d'Or.",
+    "photo_position": "center",
+    "cta_primary_href": "/contact",
+    "cta_secondary_label": "💬 SMS",
+    "citation_auteur": "Romain Rieg · Conseiller immobilier iad",
+    "photo_alt": "Romain Rieg, conseiller iad",
+    "paragraphes": [
+      "Je m'appelle Romain Rieg, j'ai 28 ans et l'immobilier est bien plus qu'un métier pour moi. Après une reconversion professionnelle, j'ai choisi de devenir conseiller indépendant pour accompagner mes clients à ma manière : avec **transparence, engagement et un suivi personnalisé**.",
+      "Membre du réseau iad France, je m'appuie sur des outils performants et une stratégie digitale moderne - réseaux sociaux, vidéos - pour offrir à votre bien la meilleure visibilité possible.",
+      "Originaire de la Loire, où j'ai grandi pendant 20 ans, je suis aujourd'hui pleinement ancré dans les Monts d'Or. **Mon objectif : allier la puissance du réseau iad à un accompagnement humain, réactif et sans détour.**"
+    ]
+  },
+  "hero": {
+    "cta_secondary_href": "/rejoindre",
+    "cta_primary_label": "Avis de valeur offert · 24 - 48h",
+    "mention": "Sans engagement · 100% confidentiel",
+    "chip": "Saint-Didier-au-Mont-d'Or · Ouest lyonnais · Plaine du Forez",
+    "intro": "Vous souhaitez vendre, acheter ou mettre votre bien en location à Saint-Didier-au-Mont-d'Or, dans l'Ouest lyonnais ou dans la Plaine du Forez ? Je vous accompagne à chaque étape de votre projet immobilier avec **réactivité, expertise locale et un suivi personnalisé.**",
+    "titre": "Votre conseiller immobilier iad de proximité, spécialiste de l'Ouest lyonnais et de la Plaine du Forez.",
+    "cta_primary_href": "/avis-de-valeur",
+    "cta_secondary_label": "Rejoindre mon équipe",
+    "video": "/uploads/ouest-lyonnais.jpeg",
+    "stats": [
+      {
+        "valeur": "+16 000",
+        "label": "Conseillers iad"
+      },
+      {
+        "valeur": "63 000",
+        "label": "Ventes iad 2025"
+      },
+      {
+        "valeur": "24 - 48h",
+        "label": "Délai d'avis de valeur"
+      },
+      {
+        "valeur": "2",
+        "label": "Zones principales"
+      }
+    ]
+  },
+  "services": {
+    "surtitre": "Mes services sur-mesure",
+    "titre": "Quatre métiers, une même exigence.",
+    "item_prefix": "Service",
+    "item_cta_label": "Découvrir",
+    "items": [
+      {
+        "titre": "Avis de valeur · 24 - 48h",
+        "desc": "Recevez un avis de valeur fiable et personnalisé de votre bien, sans engagement.",
+        "href": "/avis-de-valeur"
+      },
+      {
+        "titre": "Vente immobilière",
+        "desc": "De la mise en valeur à la signature, je vous accompagne à chaque étape de la vente.",
+        "href": "/vendre"
+      },
+      {
+        "titre": "Achat / Investissement",
+        "desc": "Pour votre résidence principale, investissement locatif ou achat dans le neuf : je trouve le bien qui correspond à votre projet.",
+        "href": "/acheter"
+      },
+      {
+        "titre": "Mise en location & gestion locative",
+        "desc": "Je sélectionne les locataires sérieux et gère toutes les démarches pour simplifier votre mise en location.",
+        "href": "/location"
+      }
+    ]
+  },
+  "meta_title": "Romain Rieg · Conseiller immobilier iad - Ouest lyonnais & Plaine du Forez",
+  "avis": {
+    "badge_label": "Avis clients",
+    "titre": "La confiance se construit sur le terrain.",
+    "texte": "Je préfère laisser mes clients raconter leur expérience directement sur Google. Consultez les avis sur ma fiche — et si nous avons travaillé ensemble, le vôtre sera le bienvenu.",
+    "cta_label": "Voir mes avis Google",
+    "cta_url": "https://www.google.com/search?sa=X&sca_esv=f27198b4d2287e35&hl=fr-FR&q=Romain+RIEG+Immobilier+iad+France+Avis&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxI2NDY3M7M0MjI0NbA0MrA0Mzcy3sDI-IpRLSg_NzEzTyHI09VdwTM3Nz8pMycztUghMzFFwa0oMS85VcGxLLN4ESuRCgG1w3wYbAAAAA&rldimm=1376692215092096723&tbm=lcl#lkt=LocalPoiReviews",
+    "note_chiffre": "5/5",
+    "items": [
+      {
+        "nom": "Christian L. - Champagne-au-Mont-d'Or",
+        "contexte": "Vendeur · Appartement 76 m²",
+        "texte": "Avec Romain on a une écoute attentive sur nos besoins et de très bons échanges. Il a su nous conseiller sur la bonne marche à suivre."
+      },
+      {
+        "nom": "Antoine A. - Écully",
+        "contexte": "Acquéreur · Appartement 90 m²",
+        "texte": "Très disponible et professionnel, Romain sait vous accompagner dans vos projets immobiliers avec rapidité et efficacité. Il met beaucoup d'investissement et d'énergie dans le suivi de ses clients. Je recommande !"
+      },
+      {
+        "nom": "Elem B. - Lyon 9ème",
+        "contexte": "Avis de valeur · Local commercial",
+        "texte": "Romain Rieg a été en mesure de répondre très rapidement concernant mon projet, avec toutes les explications et infos dont j'avais besoin. Réactivité et professionnalisme exemplaires, je ferai à nouveau appel à lui sans hésiter."
+      },
+      {
+        "nom": "Julien B.",
+        "contexte": "Location - Lyon 3",
+        "texte": "Professionnel, avenant et très sympathique.\nJulien, Tumpa et Evan."
+      }
+    ]
+  }
+}

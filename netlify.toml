@@ -1,0 +1,16 @@
+# App Next qui tourne (plus de static export) → le plugin gère le publish et les
+# fonctions serverless. Les contenus sont lus dans Netlify Blobs à l'exécution.
+[build]
+  command = "npm run build"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+# Empêcher l'indexation de l'admin par les moteurs de recherche
+[[headers]]
+  for = "/admin/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"

@@ -1,0 +1,192 @@
+{
+  "superficie": 2.6,
+  "meta_description": "Avis de valeur, vente et achat à Champagne-au-Mont-d'Or avec Romain Rieg, conseiller iad. Connaissance fine du marché du Mont d'Or et de l'Ouest lyonnais.",
+  "instagram_url": "https://www.instagram.com/romainrieg.immo/",
+  "ecoles": [
+    {
+      "nom": "Groupe scolaire public de Champagne-au-Mont-d’Or",
+      "type": "Primaire",
+      "precision": "École publique de la commune - maternelle et élémentaire."
+    },
+    {
+      "nom": "École Les Chartreux Saint-Joseph",
+      "type": "Privé",
+      "precision": "École privée située au cœur du village - de la petite section au CM2."
+    },
+    {
+      "nom": "Collège Jean-Philippe Rameau",
+      "type": "Collège",
+      "precision": "Collège public situé à Champagne-au-Mont-d’Or - établissement de secteur pour plusieurs communes des Monts d’Or."
+    },
+    {
+      "nom": "Lycée Jean Perrin / La Martinière Duchère",
+      "type": "Lycée",
+      "precision": "Lycées publics situés à proximité, selon la sectorisation et l’orientation choisie."
+    }
+  ],
+  "intro": "Commune à taille humaine aux portes de Lyon, Champagne-au-Mont-d’Or séduit par son centre village vivant, ses commerces de proximité, sa bonne connexion à Vaise et son cadre résidentiel recherché. Une adresse pratique et familiale dans les Monts d’Or, appréciée pour son équilibre entre vie de village, accès rapide à Lyon et marché immobilier dynamique.",
+  "nom": "Champagne-au-Mont-d'Or",
+  "cp": "69410",
+  "ce_qui_differencie": [
+    {
+      "titre": "Une commune à taille humaine dans les Monts d’Or",
+      "description": "Champagne-au-Mont-d’Or offre un cadre résidentiel recherché avec une vraie vie de village - des commerces de proximité et une ambiance familiale"
+    },
+    {
+      "titre": "Un centre village vivant et pratique",
+      "description": "Marché - mairie - commerces - services du quotidien : la commune conserve une centralité agréable et facile à vivre"
+    },
+    {
+      "titre": "Une connexion efficace avec Lyon",
+      "description": "Lignes de bus TCL - proximité de Vaise - accès rapide aux grands axes : Champagne-au-Mont-d’Or reste très pratique pour les actifs et les familles"
+    },
+    {
+      "titre": "Un atout scolaire rare dans les Monts d’Or",
+      "description": "La commune dispose d’un collège public sur son territoire - un vrai point fort pour les familles du secteur"
+    }
+  ],
+  "population": 6311,
+  "intercommunalite": "Métropole de Lyon",
+  "associations": [
+    {
+      "nom": "GOAL FC - Grand Ouest Association Lyonnaise Football Club",
+      "activite": "Club de football structurant de l’Ouest lyonnais, présent dans la vie sportive locale."
+    },
+    {
+      "nom": "Association Champagne Tennis",
+      "activite": "Club de tennis local, ancré dans la pratique sportive de la commune."
+    },
+    {
+      "nom": "Champa’Bad",
+      "activite": "Association sportive champenoise dédiée à la pratique du badminton."
+    },
+    {
+      "nom": "Champagne Tennis de Table",
+      "activite": "Club local ouvert à la pratique loisir et sportive."
+    },
+    {
+      "nom": "Les Lycoses de Champagne-au-Mont-d’Or",
+      "activite": "Association dédiée à l’escalade, pour jeunes et adultes."
+    },
+    {
+      "nom": "Comité des Fêtes",
+      "activite": "Association impliquée dans les grands temps forts de la commune : forum des associations, Champagne en Fête, fête de la musique et animations locales."
+    }
+  ],
+  "evolution_prix": [
+    {
+      "annee": 2020,
+      "prixM2": 4300,
+      "prix_appartement": 3463
+    },
+    {
+      "annee": 2021,
+      "prixM2": 4650,
+      "prix_appartement": 3745
+    },
+    {
+      "annee": 2022,
+      "prixM2": 5000,
+      "prix_appartement": 4026
+    },
+    {
+      "annee": 2023,
+      "prixM2": 5050,
+      "prix_appartement": 4067
+    },
+    {
+      "annee": 2024,
+      "prixM2": 4960,
+      "prix_appartement": 3994
+    },
+    {
+      "annee": 2025,
+      "prixM2": 4890,
+      "prix_appartement": 3938
+    }
+  ],
+  "restaurants": [
+    {
+      "nom": "O Platanes",
+      "cuisine": "Restaurant bistronomique à Champagne-au-Mont-d’Or, avec une cuisine française soignée et une atmosphère chaleureuse. · 4,6★ ",
+      "gamme": "Bistrot",
+      "note": 4.6
+    },
+    {
+      "nom": "N'Autre MOnde",
+      "cuisine": "Adresse moderne et conviviale, avec une cuisine inspirée des cultures asiatiques et une terrasse agréable en saison. · 4,7★ ",
+      "gamme": "Bistrot",
+      "note": 4.7
+    },
+    {
+      "nom": "Le Rouge-Gorge",
+      "cuisine": "Adresse de proximité au cœur de Champagne-au-Mont-d’Or, dans un esprit bistrot simple et local. · 4,3★ ",
+      "gamme": "Bistrot",
+      "note": 4.3
+    },
+    {
+      "nom": "Le Rictoria",
+      "cuisine": "Adresse familiale et accessible, idéale pour déjeuner, dîner ou partager un moment simple dans un cadre agréable. · 4,6★ ",
+      "gamme": "Brasserie",
+      "note": 4.6
+    },
+    {
+      "nom": "Da Cocó by La Boîte Noire",
+      "cuisine": "Adresse italienne et pizzeria de qualité, dans l’esprit convivial des bonnes tables de quartier. · 4,7★ ",
+      "gamme": "Pizza",
+      "note": 4.7
+    },
+    {
+      "nom": "Ninkasi Champagne",
+      "cuisine": "Adresse animée pour burgers, bières craft et moments conviviaux, avec l’esprit Ninkasi bien connu dans la métropole lyonnaise. · 4,4★",
+      "gamme": "Brasserie",
+      "note": 4.4
+    },
+    {
+      "nom": "La Ferme des Monts d'Or",
+      "cuisine": "Restaurant français situé à Champagne-au-Mont-d’Or, avec une ardoise renouvelée et une ambiance conviviale. · 4,5★",
+      "gamme": "Bistrot",
+      "note": 4.5
+    }
+  ],
+  "video_insta": {
+    "titre": "Champagne - la commune la plus dynamique du Mont d'Or",
+    "duree": "1:25"
+  },
+  "galerie": [
+    "/uploads/champagne-au-mont-d-or.jpeg",
+    "/uploads/img_7134.jpeg",
+    "/uploads/img_7143.jpeg",
+    "/uploads/img_7147.jpeg",
+    "/uploads/img_7174.jpeg",
+    "/uploads/img_7183.jpeg"
+  ],
+  "video": "/uploads/champagne.jpeg",
+  "quartiers": [
+    {
+      "nom": "Centre village - Lanessan",
+      "description": "Le cœur pratique de Champagne-au-Mont-d’Or : mairie, commerces, marché, écoles, collège et accès rapide aux lignes TCL. Un secteur recherché pour sa vie de village, sa centralité et sa facilité au quotidien.",
+      "prix_indicatif": "4 000 - 4 900 €/m²"
+    },
+    {
+      "nom": "Les Bruyères - secteur résidentiel familial",
+      "description": "Un environnement résidentiel calme, composé de maisons familiales, petits collectifs et rues plus confidentielles. Un secteur apprécié pour son équilibre entre tranquillité, proximité des écoles et accès rapide aux grands axes.",
+      "prix_indicatif": "3 900 - 4 700 €/m²"
+    },
+    {
+      "nom": "Le Rocher - Mont-Louis",
+      "description": "Un secteur plus recherché sur les hauteurs, avec davantage de vues, de calme et de biens résidentiels qualitatifs. Une adresse intéressante pour les acquéreurs qui recherchent une atmosphère plus exclusive tout en restant proches du centre.",
+      "prix_indicatif": "4 500 - 5 600 €/m²"
+    },
+    {
+      "description": "Un secteur plus rare, marqué par le patrimoine ancien, la proximité du vallon de Rochecardon et une ambiance plus végétale. Les biens y sont moins nombreux, mais recherchés pour leur cadre, leur discrétion et leur connexion avec les Monts d’Or.",
+      "prix_indicatif": "4 300 - 5 400 €/m²",
+      "nom": "Voutillière - Rochecardon"
+    }
+  ],
+  "video_visite": "/uploads/champagne-au-mont-dor.mp4",
+  "meta_title": "Conseiller immobilier iad à Champagne-au-Mont-d'Or",
+  "prix_m2_maison": 4889,
+  "prix_m2_appartement": 3937,
+  "delai_vente": 54
+}

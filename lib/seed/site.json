@@ -1,0 +1,1137 @@
+{
+  "a-propos": {
+    "meta_title": "À propos - Romain Rieg, conseiller immobilier",
+    "meta_description": "Conseiller immobilier iad dans l'Ouest lyonnais et la Plaine du Forez. Une approche sur-mesure, locale et rigoureuse.",
+    "hero": {
+      "surtitre": "À propos",
+      "titre_l1": "Un conseiller,",
+      "titre_l2": "pas un vendeur.",
+      "paragraphes": [
+        "J'ai grandi sur les coteaux du Mont d'Or. Ce territoire, je le connais rue après rue. Après un parcours de commerce et plusieurs années dans le conseil, j'ai rejoint le réseau iad pour exercer le métier comme je l'entends : prendre le temps, écouter, transmettre l'information, ne vendre que ce que je défends.",
+        "Chez moi, un mandat, c'est d'abord une rencontre. Je ne signe que si je suis convaincu d'apporter de la valeur - et si la confiance est mutuelle."
+      ],
+      "photo": "/photos/romain-pro.jpg",
+      "photo_alt": "Romain Rieg",
+      "stats": [
+        {
+          "valeur": "2019",
+          "label": "Début immobilier"
+        },
+        {
+          "valeur": "120+",
+          "label": "Transactions"
+        },
+        {
+          "valeur": "98%",
+          "label": "Prix net / estimation"
+        }
+      ]
+    },
+    "engagements": {
+      "surtitre": "Mes engagements",
+      "titre": "Ce à quoi vous avez droit.",
+      "items": [
+        {
+          "titre": "Un mandat exclusif, jamais imposé",
+          "desc": "Je vous présente les options. À vous de choisir, en connaissance de cause."
+        },
+        {
+          "titre": "Une estimation argumentée",
+          "desc": "Pas de prix de complaisance. Des comparables récents, une méthode, un argumentaire."
+        },
+        {
+          "titre": "Un reporting bi-mensuel",
+          "desc": "Visites, retours, statistiques d'annonces : vous savez où en est votre dossier."
+        },
+        {
+          "titre": "Une disponibilité réelle",
+          "desc": "Pas de standard, pas d'assistant. Vous m'appelez, je réponds."
+        },
+        {
+          "titre": "La confidentialité",
+          "desc": "Adresse, photos, documents : rien ne sort sans votre accord explicite."
+        },
+        {
+          "titre": "Une rémunération au résultat",
+          "desc": "Mes honoraires ne sont dus qu'à la signature de l'acte authentique."
+        }
+      ]
+    },
+    "cta_final": {
+      "titre": "On se rencontre ?",
+      "cta_label": "Prendre rendez-vous",
+      "cta_href": "/contact"
+    }
+  },
+  "acheter": {
+    "meta_title": "Acheter / Investir",
+    "meta_description": "Trouvez votre futur chez-vous sur le Mont d'Or, l'Ouest lyonnais ou la Plaine du Forez. Accès off-market au réseau iad, accompagnement complet de la recherche à la signature.",
+    "hero": {
+      "argument_gold": "**Mon rôle : vous faire gagner du temps**, vous donner accès aux bonnes opportunités et sécuriser chaque étape de votre achat - de la première visite à la signature chez le notaire.",
+      "surtitre": "Acheter · Investir",
+      "cta_primary_label": "Démarrer ma recherche",
+      "intro": "Vous avez l’impression d’arriver trop tard sur les biens intéressants ou de perdre du temps avec des annonces qui ne correspondent pas vraiment à votre recherche ?",
+      "titre": "Trouvez votre futur chez-vous.",
+      "cta_secondary_url": "sms:+33679571473?body=Bonjour%20Romain%2C%20je%20cherche%20un%20bien.",
+      "cta_primary_href": "/contact",
+      "cta_secondary_label": "💬 Sms",
+      "presentation": "Je suis Romain Rieg, conseiller immobilier iad basé à Saint-Didier-au-Mont-d'Or. Grâce à ma connaissance terrain des Monts d'Or, de l'Ouest lyonnais et de la Plaine du Forez, je vous accompagne dans votre recherche avec **une approche claire, réactive et personnalisée.**\n",
+      "video": "/uploads/img_8317.jpeg"
+    },
+    "piliers": {
+      "surtitre": "Pourquoi acheter ou investir avec moi ?",
+      "titre": "Quatre piliers concrets pour sécuriser votre projet.",
+      "items": [
+        {
+          "titre": "Expertise locale",
+          "desc": "Je connais les marchés des Monts d’Or, de l’Ouest lyonnais et de la Plaine du Forez dans le détail : secteurs recherchés, prix au m², évolution du marché et opportunités à saisir."
+        },
+        {
+          "titre": "Accès off-market & réseau iad",
+          "desc": "Grâce au réseau iad et à mon réseau local, vous pouvez accéder à des biens en avant-première, parfois avant leur diffusion sur les portails immobiliers classiques."
+        },
+        {
+          "titre": "Accompagnement sur-mesure",
+          "desc": "Je vous guide à chaque étape : définition de votre recherche, sélection des biens, analyse du prix, organisation des visites, négociation et suivi jusqu’à la signature."
+        },
+        {
+          "titre": "Investissement sécurisé",
+          "desc": "Que votre projet concerne le neuf, l’ancien ou un investissement locatif, je vous aide à évaluer le potentiel du bien, sa cohérence avec votre objectif et sa pérennité dans le temps."
+        }
+      ]
+    },
+    "services": {
+      "surtitre": "Mes services pour l'achat & l'investissement",
+      "titre": "De la recherche à la remise des clés.",
+      "items": [
+        {
+          "titre": "Chasse immobilière personnalisée",
+          "desc": "**Gagnez du temps avec une sélection de biens réellement adaptés à votre projet** : secteur, budget, critères de vie, potentiel de valorisation. Vous visitez uniquement les opportunités pertinentes."
+        },
+        {
+          "titre": "Analyse & comparaison des biens",
+          "desc": "Emplacement, prix, état général, potentiel d'évolution, cohérence avec votre projet - **je vous aide à prendre la bonne décision, sans précipitation.**"
+        },
+        {
+          "titre": "Accompagnement jusqu'à la signature",
+          "desc": "Visites, conseils personnalisés, aide à la négociation et suivi administratif complet jusqu’au notaire. Je vous accompagne à chaque étape pour sécuriser votre achat."
+        },
+        {
+          "titre": "Accès élargi aux opportunités",
+          "desc": "Grâce au partage entre conseillers iad et à mon réseau local, vous bénéficiez d’un accès plus large aux biens disponibles, qu’ils soient diffusés publiquement ou proposés en avant-première."
+        }
+      ]
+    },
+    "secteurs_section": {
+      "surtitre": "Mes secteurs",
+      "titre": "Deux zones que je connais par cœur.",
+      "intro": "Survolez une commune sur la carte pour voir les infos clés, cliquez pour ouvrir sa fiche détaillée.",
+      "groupe_mont_dor_label": "Ouest Lyonnais",
+      "groupe_forez_label": "Plaine du Forez",
+      "zones_lien_label": "Découvrir la zone →"
+    },
+    "romain_card": {
+      "titre": "Trouver le bon bien, c'est mon métier.",
+      "message": "Avant chaque visite, je qualifie financièrement les biens et je vous évite les déplacements inutiles. Je travaille pour vous - pas pour le vendeur. Mes honoraires sont à la charge du vendeur, jamais de l'acquéreur."
+    },
+    "cta_final": {
+      "titre": "Dites-moi ce que vous cherchez.",
+      "intro": "Un café, 30 minutes, et on dresse ensemble votre cahier des charges.",
+      "cta_primary_label": "Démarrer ma recherche",
+      "cta_primary_href": "/contact",
+      "cta_whatsapp_label": "💬 Sms",
+      "cta_whatsapp_url": "sms:+33679571473"
+    }
+  },
+  "actualites-landing": {
+    "meta_title": "Actualités",
+    "meta_description": "Décryptage du marché immobilier local, événements et actualités du Mont d'Or et de l'Ouest lyonnais.",
+    "surtitre": "Actualités",
+    "titre": "Actualités locales & marché.",
+    "intro": "Tendances de marché, repères patrimoniaux, baromètre trimestriel dans l'Ouest lyonnais et la Plaine du Forez."
+  },
+  "avis-de-valeur": {
+    "meta_description": "Avis de valeur immobilier gratuit et argumenté sous 24-48h par Romain Rieg, conseiller iad. Monts d'Or, Ouest lyonnais et Plaine du Forez, sans engagement.",
+    "cta_final": {
+      "titre": "Démarrer mon avis de valeur",
+      "intro": "Six questions rapides - réponse sous 24 à 48h, sans engagement.",
+      "cta_label": "Démarrer le questionnaire"
+    },
+    "forces": {
+      "surtitre": "Pourquoi faire estimer avec moi ?",
+      "titre": "Trois forces concrètes.",
+      "items": [
+        {
+          "titre": "Expertise locale & comparatif précis",
+          "desc": "Je connais parfaitement les marchés des Monts d'Or, de l'Ouest lyonnais et de la Plaine du Forez. Chaque estimation s'appuie sur **les ventes récentes dans votre secteur, les tendances actuelles du marché local et les caractéristiques propres à votre bien.**"
+        },
+        {
+          "titre": "Dossier soigné & mise en valeur",
+          "desc": "Photos professionnelles, angles de vue soignés et drone si nécessaire, pour mettre votre bien en valeur dès le premier regard. L'estimation est restituée dans un dossier complet et soigné : **comparatif de marché, fourchette de prix, conseils personnalisés.** Bien plus qu'un simple chiffre."
+        },
+        {
+          "titre": "Accompagnement complet & réactivité",
+          "desc": "Je reste disponible pour répondre à vos questions, affiner la stratégie de prix et vous accompagner vers la mise en vente si vous le souhaitez : sans pression, à votre rythme."
+        }
+      ]
+    },
+    "carte_section": {
+      "surtitre": "Mes secteurs d'intervention",
+      "titre": "Je réalise vos avis de valeur dans toute la métropole lyonnaise et dans la Plaine du Forez.",
+      "intro": "Cliquez sur une commune pour ouvrir sa fiche détaillée."
+    },
+    "etapes": {
+      "surtitre": "Comment ça se déroule ?",
+      "titre": "Quatre étapes en 24 - 48h.",
+      "items": [
+        {
+          "num": "01",
+          "titre": "Contact & échange",
+          "desc": "Formulaire en ligne ou contact direct par téléphone ou email. Je recueille **les informations clés** pour une estimation précise : type de bien, superficie, situation personnelle, délais souhaités."
+        },
+        {
+          "num": "02",
+          "titre": "Visite sur place",
+          "desc": "Je me déplace directement chez vous pour évaluer votre bien dans le détail : surface, état général, atouts, points de vigilance et environnement immédiat. **Tout ce qui fait la vraie valeur d'un bien ne se voit pas sur un plan.**"
+        },
+        {
+          "num": "03",
+          "titre": "Rapport de valeur détaillé",
+          "desc": "Vous recevez **un dossier complet** : prix estimé, fourchette de marché et conseils personnalisés. Remis en main propre, sous 24 à 48 h."
+        },
+        {
+          "num": "04",
+          "titre": "Accompagnement pour la suite",
+          "desc": "Que vous souhaitiez vendre maintenant ou plus tard, **je vous conseille sur la meilleure stratégie à adopter** selon votre projet et votre calendrier : sans engagement."
+        }
+      ]
+    },
+    "wizard_merci": {
+      "surtitre": "Demande reçue",
+      "titre_prefix": "Merci",
+      "intro": "Je vous recontacte sous 24h pour un premier échange. Nous convenons ensemble d'une visite sur place pour affiner l'estimation et vous remettre un avis de valeur complet et argumenté.",
+      "cta_label": "Retour à l'accueil",
+      "cta_href": "/"
+    },
+    "confidentialite": "Vos données restent strictement confidentielles. Je suis le seul destinataire de votre demande.",
+    "romain_card": {
+      "titre": "Un avis de valeur honnête, basé sur de vrais comparables.",
+      "message": "Je ne survalorise pas pour signer un mandat. Je vous donne le prix juste, argumenté avec les ventes récentes de votre quartier. Si on doit revoir à la baisse, je vous le dis."
+    },
+    "hero": {
+      "surtitre": "Avis de valeur · 24 - 48h",
+      "intro1": "Vous pensez à vendre, vous souhaitez simplement faire le point ou vous préparez un projet à moyen terme ? Avant toute décision, une question est essentielle : **combien vaut réellement votre bien aujourd'hui, dans votre quartier, sur votre secteur ?**\n",
+      "intro2": "Le prix affiché sur les portails ne reflète pas toujours le prix de vente réel. Une estimation juste vous permet d'éviter deux erreurs fréquentes : **surestimer votre bien et allonger les délais de vente, ou le sous-estimer et perdre de la valeur.**",
+      "cta_primary_label": "Demander mon avis de valeur",
+      "mention": "Sans engagement · 100% confidentiel",
+      "titre": "Connaissez la valeur réelle de votre bien.",
+      "cta_secondary_url": "sms:+33679571473?body=Bonjour%20Romain%2C%20je%20souhaite%20un%20avis%20de%20valeur%20de%20mon%20bien.",
+      "intro_complement": "Je suis Romain Rieg, conseiller immobilier iad basé à Saint-Didier-au-Mont-d’Or. Je vous remets **un avis de valeur personnalisé, précis et sans engagement, sous 24 à 48 h.**",
+      "cta_secondary_label": "💬 Sms",
+      "video": "/uploads/img_7945.jpeg"
+    },
+    "meta_title": "Avis de valeur · 24 - 48h"
+  },
+  "confidentialite": {
+    "meta_title": "Politique de confidentialité & cookies",
+    "titre": "Politique de confidentialité & cookies",
+    "date_maj": "2026",
+    "body": "## Responsable de traitement\n\nRomain Rieg, agent commercial indépendant du réseau iad France, joignable à [romain.rieg@iadfrance.fr](mailto:romain.rieg@iadfrance.fr) ou au 06 79 57 14 73.\n\n## Données collectées\n\nLes seules données personnelles collectées sont celles que vous fournissez volontairement via les formulaires du site (contact, estimation, newsletter) : nom, prénom, email, téléphone, données qualifiant votre projet immobilier.\n\nAucune donnée n'est collectée à votre insu. Le site n'utilise aucun outil de mesure d'audience, aucun cookie de tracking publicitaire et aucun traceur tiers. Votre navigation n'est ni enregistrée ni analysée.\n\n## Finalité du traitement\n\nVos données sont utilisées exclusivement pour :\n\n- Vous recontacter au sujet de votre demande\n- Vous adresser, si vous y avez consenti, la newsletter mensuelle « Le Carnet du Mont d'Or »\n- Tenir à jour les obligations légales liées à votre transaction immobilière, le cas échéant\n\n## Conservation\n\nVos données sont conservées 3 ans maximum après le dernier contact actif, puis supprimées. Les données liées à une transaction immobilière effective sont conservées 10 ans conformément aux obligations légales.\n\n## Vos droits\n\nConformément au RGPD et à la loi Informatique et Libertés, vous disposez d'un droit d'accès, de rectification, d'effacement, d'opposition, de limitation et de portabilité sur vos données. Pour exercer ces droits : [romain.rieg@iadfrance.fr](mailto:romain.rieg@iadfrance.fr).\n\nVous pouvez également introduire une réclamation auprès de la CNIL : [www.cnil.fr](https://www.cnil.fr).\n\n## Cookies\n\nLe site utilise uniquement des cookies fonctionnels strictement nécessaires (mémorisation de vos préférences, consentement). Aucun cookie publicitaire ou de profilage n'est déposé.\n\n## Sécurité\n\nLe site est hébergé par Netlify (HTTPS obligatoire). Les formulaires sont protégés par un système anti-spam (honeypot). Vos données ne sont jamais stockées sur un serveur public et ne quittent jamais l'environnement professionnel de Romain Rieg."
+  },
+  "contact": {
+    "meta_title": "Contact",
+    "meta_description": "Votre projet démarre en 30 secondes - qualification intelligente, réponse personnelle de Romain Rieg sous 24h.",
+    "hero": {
+      "surtitre": "Contact",
+      "titre": "Votre projet, en 30 secondes.",
+      "intro": "Quelques clics suffisent pour qualifier votre besoin. La réponse arrive sous 24h, personnelle et ciblée - jamais générique.",
+      "garanties": [
+        "Réponse personnelle sous 24h",
+        "Aucune sollicitation commerciale",
+        "Données 100% confidentielles"
+      ]
+    },
+    "calendrier": {
+      "surtitre": "La solution la plus rapide",
+      "titre": "Réservez un créneau en ligne.",
+      "intro": "30 minutes en visio ou par téléphone pour qualifier votre projet, répondre à vos questions et envisager une collaboration.",
+      "puces": [
+        "Pas d'inscription",
+        "Pas de spam",
+        "Annulation ou report en un clic",
+        "Rappel automatique avant le rendez-vous"
+      ],
+      "cal_url": "https://cal.com/romain-rieg-ckdm4p/30min",
+      "cta_label": "Ouvrir le calendrier ↗"
+    },
+    "sidebar": {
+      "horaires_titre": "Du lundi au samedi",
+      "telephone_lien": "+33679571473",
+      "whatsapp_url": "sms:+33679571473",
+      "surtitre": "Vous préférez le contact direct ?",
+      "horaires_detail": "8h30 - 20h",
+      "telephone": "06 79 57 14 73",
+      "horaires_note": "Rendez-vous en soirée possibles sur demande.",
+      "whatsapp_label": "Envoyer un SMS",
+      "calcom_label": "Réserver 30 minutes",
+      "formulaire_label": "Remplir un formulaire",
+      "titre": "Quatre canaux, vous choisissez.",
+      "email": "romain.rieg@iadfrance.fr"
+    },
+    "engagement": {
+      "surtitre": "L'engagement",
+      "items": [
+        "Je vous réponds personnellement (pas d'assistant ni d'IA)",
+        "Sous 24h en semaine",
+        "Sous 4h si urgent",
+        "Aucun ajout à une liste de prospection automatique",
+        "Données strictement confidentielles",
+        "Jamais revendues"
+      ]
+    },
+    "footer_form_titre": "Pourquoi ce formulaire détaillé ?",
+    "footer_form_note": "Pour vous faire gagner du temps. En 30 secondes, votre besoin est qualifié et vous recevez une réponse vraiment ciblée - bien plus efficace qu'un formulaire générique « nom / email / message ».\n"
+  },
+  "home": {
+    "meta_description": "Conseiller immobilier iad sur l'Ouest lyonnais et la Plaine du Forez. Avis de valeur offert sous 24 - 48h, vente, achat et mise en location.",
+    "cta_final": {
+      "titre": "Parlons de votre projet.",
+      "intro": "Vendre, acheter, louer, ou rejoindre l'équipe iad : un seul interlocuteur, à votre rythme.",
+      "cta_primary_label": "Contactez-moi",
+      "cta_primary_href": "/contact",
+      "cta_secondary_label": "06 79 57 14 73",
+      "cta_secondary_href": "tel:+33679571473"
+    },
+    "biens_iad": {
+      "surtitre": "Mes biens à la vente",
+      "titre": "Retrouvez l'ensemble de mes mandats sur mon mini-site iad officiel.",
+      "desc": "Annonces actualisées en temps réel, fiches complètes et prise de rendez-vous en ligne.",
+      "cta_label": "Voir mes biens iad ↗",
+      "cta_url": "https://www.iadfrance.fr/conseiller-immobilier/romain.rieg"
+    },
+    "instagram": {
+      "surtitre": "À voir",
+      "titre": "Mon quotidien sur Instagram.",
+      "intro": "Visites, conseils, anecdotes du métier - suivez mon quotidien de conseiller immobilier dans les Monts d'Or.",
+      "lien": "https://www.instagram.com/romainrieg.immo/",
+      "reel_label": "Reel",
+      "videos": [
+        {
+          "titre": "Série - 10 semaines pour découvrir et apprendre sur l'immobilier",
+          "duree": "1:03",
+          "thumb": "/uploads/10-semaines-immobilier.png",
+          "url": "https://www.instagram.com/romainrieg.immo/reel/DWjgSdBxZQe/"
+        },
+        {
+          "titre": "Série - 1 minutes pour comprendre",
+          "duree": "0:46",
+          "thumb": "/uploads/1min-intro.jpg",
+          "url": "https://www.instagram.com/romainrieg.immo/reel/DZX1jO3KNGr/"
+        },
+        {
+          "titre": "Un peu de moi",
+          "duree": "0:00",
+          "thumb": "/uploads/un-peu-de-moi.png",
+          "url": "https://www.instagram.com/romainrieg.immo/p/DVtiQThiMi2/"
+        }
+      ],
+      "cta_label": "Voir tous mes contenus Instagram →"
+    },
+    "secteurs": {
+      "surtitre": "Mes secteurs d'intervention",
+      "titre": "Une présence locale, un suivi personnalisé.",
+      "intro": "Chaque commune bénéficie d'une stratégie adaptée à son marché et d'un avis de valeur fiable sous 24 à 48 h.",
+      "lien_label": "Découvrir la zone →",
+      "zones": [
+        {
+          "slug": "ouest-lyonnais",
+          "titre": "Ouest lyonnais",
+          "desc": "Mon secteur principal. Saint-Didier-au-Mont-d'Or, Écully, Dardilly, Limonest, Champagne-au-Mont-d'Or, Saint-Cyr-au-Mont-d'Or et toutes les communes limitrophes.",
+          "badge": "Cœur d'activité",
+          "image": "/uploads/ouest-lyonnais-mont-dor.jpeg"
+        },
+        {
+          "slug": "saint-didier",
+          "titre": "Saint-Didier-au-Mont-d'Or",
+          "desc": "Ma commune de résidence : présence quotidienne sur le terrain et connaissance fine du marché.\n",
+          "badge": "Mon village",
+          "image": "/uploads/saint-didier-au-mont-dor.jpeg"
+        },
+        {
+          "slug": "plaine-du-forez",
+          "titre": "Plaine du Forez",
+          "desc": "Saint-Just-Saint-Rambert & Andrézieux-Bouthéon - mon secteur d'enfance, que je connais comme ma poche et toutes les communes limitrophes.",
+          "badge": "Mon secteur d'enfance",
+          "image": "/uploads/plaine-du-forez.jpeg"
+        }
+      ]
+    },
+    "qui_suis_je": {
+      "surtitre": "Qui suis-je ?",
+      "cta_secondary_href": "sms:+33679571473",
+      "citation": "Mon énergie au service de votre projet.",
+      "cta_primary_label": "Me rencontrer",
+      "photo": "/photos/IMG_6487_SnapseedCopy-1536x2048.jpg",
+      "titre": "Passionné d'immobilier,\nancré dans les Monts d'Or.",
+      "photo_position": "center",
+      "cta_primary_href": "/contact",
+      "cta_secondary_label": "💬 SMS",
+      "citation_auteur": "Romain Rieg · Conseiller immobilier iad",
+      "photo_alt": "Romain Rieg, conseiller iad",
+      "paragraphes": [
+        "Je m'appelle Romain Rieg, j'ai 28 ans et l'immobilier est bien plus qu'un métier pour moi. Après une reconversion professionnelle, j'ai choisi de devenir conseiller indépendant pour accompagner mes clients à ma manière : avec **transparence, engagement et un suivi personnalisé**.",
+        "Membre du réseau iad France, je m'appuie sur des outils performants et une stratégie digitale moderne - réseaux sociaux, vidéos - pour offrir à votre bien la meilleure visibilité possible.",
+        "Originaire de la Loire, où j'ai grandi pendant 20 ans, je suis aujourd'hui pleinement ancré dans les Monts d'Or. **Mon objectif : allier la puissance du réseau iad à un accompagnement humain, réactif et sans détour.**"
+      ]
+    },
+    "hero": {
+      "cta_secondary_href": "/rejoindre",
+      "cta_primary_label": "Avis de valeur offert · 24 - 48h",
+      "mention": "Sans engagement · 100% confidentiel",
+      "chip": "Saint-Didier-au-Mont-d'Or · Ouest lyonnais · Plaine du Forez",
+      "intro": "Vous souhaitez vendre, acheter ou mettre votre bien en location à Saint-Didier-au-Mont-d'Or, dans l'Ouest lyonnais ou dans la Plaine du Forez ? Je vous accompagne à chaque étape de votre projet immobilier avec **réactivité, expertise locale et un suivi personnalisé.**",
+      "titre": "Votre conseiller immobilier iad de proximité, spécialiste de l'Ouest lyonnais et de la Plaine du Forez.",
+      "cta_primary_href": "/avis-de-valeur",
+      "cta_secondary_label": "Rejoindre mon équipe",
+      "video": "/uploads/ouest-lyonnais.jpeg",
+      "stats": [
+        {
+          "valeur": "+16 000",
+          "label": "Conseillers iad"
+        },
+        {
+          "valeur": "63 000",
+          "label": "Ventes iad 2025"
+        },
+        {
+          "valeur": "24 - 48h",
+          "label": "Délai d'avis de valeur"
+        },
+        {
+          "valeur": "2",
+          "label": "Zones principales"
+        }
+      ]
+    },
+    "services": {
+      "surtitre": "Mes services sur-mesure",
+      "titre": "Quatre métiers, une même exigence.",
+      "item_prefix": "Service",
+      "item_cta_label": "Découvrir",
+      "items": [
+        {
+          "titre": "Avis de valeur · 24 - 48h",
+          "desc": "Recevez un avis de valeur fiable et personnalisé de votre bien, sans engagement.",
+          "href": "/avis-de-valeur"
+        },
+        {
+          "titre": "Vente immobilière",
+          "desc": "De la mise en valeur à la signature, je vous accompagne à chaque étape de la vente.",
+          "href": "/vendre"
+        },
+        {
+          "titre": "Achat / Investissement",
+          "desc": "Pour votre résidence principale, investissement locatif ou achat dans le neuf : je trouve le bien qui correspond à votre projet.",
+          "href": "/acheter"
+        },
+        {
+          "titre": "Mise en location & gestion locative",
+          "desc": "Je sélectionne les locataires sérieux et gère toutes les démarches pour simplifier votre mise en location.",
+          "href": "/location"
+        }
+      ]
+    },
+    "meta_title": "Romain Rieg · Conseiller immobilier iad - Ouest lyonnais & Plaine du Forez",
+    "avis": {
+      "badge_label": "Avis clients",
+      "titre": "La confiance se construit sur le terrain.",
+      "texte": "Je préfère laisser mes clients raconter leur expérience directement sur Google. Consultez les avis sur ma fiche — et si nous avons travaillé ensemble, le vôtre sera le bienvenu.",
+      "cta_label": "Voir mes avis Google",
+      "cta_url": "https://www.google.com/search?sa=X&sca_esv=f27198b4d2287e35&hl=fr-FR&q=Romain+RIEG+Immobilier+iad+France+Avis&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxI2NDY3M7M0MjI0NbA0MrA0Mzcy3sDI-IpRLSg_NzEzTyHI09VdwTM3Nz8pMycztUghMzFFwa0oMS85VcGxLLN4ESuRCgG1w3wYbAAAAA&rldimm=1376692215092096723&tbm=lcl#lkt=LocalPoiReviews",
+      "note_chiffre": "5/5",
+      "items": [
+        {
+          "nom": "Christian L. - Champagne-au-Mont-d'Or",
+          "contexte": "Vendeur · Appartement 76 m²",
+          "texte": "Avec Romain on a une écoute attentive sur nos besoins et de très bons échanges. Il a su nous conseiller sur la bonne marche à suivre."
+        },
+        {
+          "nom": "Antoine A. - Écully",
+          "contexte": "Acquéreur · Appartement 90 m²",
+          "texte": "Très disponible et professionnel, Romain sait vous accompagner dans vos projets immobiliers avec rapidité et efficacité. Il met beaucoup d'investissement et d'énergie dans le suivi de ses clients. Je recommande !"
+        },
+        {
+          "nom": "Elem B. - Lyon 9ème",
+          "contexte": "Avis de valeur · Local commercial",
+          "texte": "Romain Rieg a été en mesure de répondre très rapidement concernant mon projet, avec toutes les explications et infos dont j'avais besoin. Réactivité et professionnalisme exemplaires, je ferai à nouveau appel à lui sans hésiter."
+        },
+        {
+          "nom": "Julien B.",
+          "contexte": "Location - Lyon 3",
+          "texte": "Professionnel, avenant et très sympathique.\nJulien, Tumpa et Evan."
+        }
+      ]
+    }
+  },
+  "honoraires": {
+    "meta_title": "Honoraires de transaction - barème transparent",
+    "meta_description": "Barème d'honoraires transparent de Romain Rieg, conseiller immobilier iad. Honoraires TTC dus uniquement à la signature, sur le Mont d'Or et l'Ouest lyonnais.",
+    "surtitre": "Transparence",
+    "titre": "Honoraires de transaction",
+    "intro": "Mes honoraires sont toujours exprimés TTC et ne sont dus qu'à la signature de l'acte authentique. Ils incluent l'intégralité des prestations de commercialisation (photo, visite virtuelle, diffusion, accompagnement juridique).",
+    "tranches": [
+      {
+        "tranche": "Jusqu'à 100 000 €",
+        "pct": "6%",
+        "mini": "4 500 € minimum"
+      },
+      {
+        "tranche": "100 001 € à 300 000 €",
+        "pct": "5%",
+        "mini": ""
+      },
+      {
+        "tranche": "300 001 € à 600 000 €",
+        "pct": "4%",
+        "mini": ""
+      },
+      {
+        "tranche": "600 001 € à 1 000 000 €",
+        "pct": "3,5%",
+        "mini": ""
+      },
+      {
+        "tranche": "Au-delà de 1 000 000 €",
+        "pct": "3%",
+        "mini": ""
+      }
+    ],
+    "mention_bas_de_page": "Barème indicatif TTC, applicable à compter du 01/01/2026 sauf convention particulière. Honoraires généralement à la charge du vendeur, sauf mention contraire stipulée au mandat."
+  },
+  "location": {
+    "meta_description": "Mise en location et gestion locative sécurisées sur les Mont d'Or, l'Ouest lyonnais et la Plaine du Forez. Locataires sélectionnés, revenus sécurisés, zéro vacance grâce au réseau iad.",
+    "cta_final": {
+      "locataires_surtitre": "Pour les locataires aussi",
+      "locataires_titre": "Vous cherchez à louer ?",
+      "locataires_desc": "Inscrivez-vous à mes alertes biens à louer - vous serez notifié dès qu'un bien correspondant à vos critères est disponible.",
+      "locataires_cta_label": "Recevoir les alertes",
+      "locataires_cta_href": "/contact",
+      "question_surtitre": "Une question rapide ?",
+      "question_titre": "Je réponds directement.",
+      "question_desc": "Sans intermédiaire, sans standard. Téléphone ou SMS direct, vous choisissez."
+    },
+    "cta_contact": {
+      "titre": "Je réponds directement.",
+      "intro": "Sms, email ou téléphone - une réponse personnelle sous 24h."
+    },
+    "romain_card": {
+      "titre": "Vos revenus locatifs, sécurisés.",
+      "message": "Je sélectionne rigoureusement chaque locataire (solvabilité, profil), je rédige les baux conformes, et je m'occupe de tout l'administratif. Vous touchez votre loyer, je gère le reste."
+    },
+    "secteurs_section": {
+      "surtitre": "Mes secteurs",
+      "titre": "Les communes où je gère vos locations.",
+      "intro": "Cliquez sur une commune pour découvrir le marché local - démographie, écoles, prix au m², quartiers détaillés.",
+      "groupe_mont_dor_label": "Ouest Lyonnais",
+      "groupe_forez_label": "Plaine du Forez",
+      "zones_lien_label": "Découvrir la zone →",
+      "loyer_label": "Loyer indicatif"
+    },
+    "pourquoi": {
+      "surtitre": "Pourquoi me confier votre bien ?",
+      "titre": "Six piliers pour une mise en location sécurisée.",
+      "items": [
+        {
+          "titre": "Expertise locale",
+          "desc": "Je connais les marchés locatifs des Monts d’Or, de l’Ouest lyonnais et de la Plaine du Forez pour vous aider à fixer un loyer cohérent, attractif et adapté à votre bien."
+        },
+        {
+          "titre": "Sélection rigoureuse des locataires",
+          "desc": "Chaque dossier est étudié avec attention : situation professionnelle, solvabilité, garanties et cohérence du projet locatif avant toute validation."
+        },
+        {
+          "titre": "Réduction de la vacance locative",
+          "desc": "Grâce à une diffusion efficace et à la réactivité du réseau iad, votre bien gagne en visibilité pour trouver un locataire sérieux dans les meilleurs délais."
+        },
+        {
+          "titre": "Gain de temps",
+          "desc": "Je vous accompagne dans les démarches essentielles : estimation du loyer, diffusion de l’annonce, gestion des contacts, organisation des visites, étude des dossiers et préparation du bail."
+        },
+        {
+          "titre": "Visibilité renforcée",
+          "desc": "Votre annonce est diffusée sur les principaux portails immobiliers et bénéficie de la force du réseau iad pour toucher davantage de candidats qualifiés."
+        },
+        {
+          "titre": "Mise en valeur professionnelle",
+          "desc": "Photos de qualité, annonce soignée et présentation claire du logement : tout est pensé pour attirer **les bons profils dès la première lecture.**"
+        }
+      ]
+    },
+    "hero": {
+      "surtitre": "Location · Gestion locative",
+      "intro1": "Vous souhaitez mettre en location votre maison ou appartement **rapidement, efficacement et sans stress ?**",
+      "intro2": "J’accompagne les propriétaires dans la mise en location de leur bien, de l’estimation du loyer à la sélection du locataire.\nOriginaire de la Plaine du Forez et ancré dans les Monts d’Or, je combine connaissance du terrain, diffusion efficace et accompagnement administratif pour vous aider à trouver un locataire sérieux, solvable et cohérent avec votre bien.",
+      "cta_primary_label": "Étude personnalisée gratuite",
+      "mention": "Confidentiel · sans engagement",
+      "titre": "Louez votre bien en toute sérénité.",
+      "cta_secondary_url": "sms:+33679571473?body=Bonjour%20Romain%2C%20je%20souhaite%20mettre%20mon%20bien%20en%20location.",
+      "cta_primary_href": "/contact",
+      "intro_complement": "Mon objectif : **vous faire gagner du temps, sécuriser votre mise en location** et vous accompagner avec une approche claire, rigoureuse et personnalisée.",
+      "cta_secondary_label": "💬 Sms",
+      "video": "/uploads/img_7577.jpeg"
+    },
+    "services": {
+      "surtitre": "Mes services pour la location",
+      "titre": "Quatre piliers pour une location sereine.",
+      "items": [
+        {
+          "titre": "Recherche de locataires qualifiés",
+          "desc": "Annonce optimisée, diffusion ciblée et sélection rigoureuse des candidats pour attirer des profils sérieux, solvables et adaptés à votre bien."
+        },
+        {
+          "titre": "Dossier locatif & suivi administratif",
+          "desc": "Je vous accompagne dans la constitution du dossier : pièces justificatives, analyse des candidatures, préparation du bail, dépôt de garantie et état des lieux."
+        },
+        {
+          "titre": "Accompagnement complet jusqu’à l’entrée dans les lieux",
+          "desc": "De la première estimation du loyer à la remise des clés, je vous guide à chaque étape pour sécuriser la mise en location et vous faire gagner du temps."
+        },
+        {
+          "titre": "Mise en valeur & visibilité",
+          "desc": "Photos professionnelles, annonce soignée, publication sur les principaux portails immobiliers et relais via le réseau iad pour maximiser la visibilité de votre bien."
+        }
+      ]
+    },
+    "meta_title": "Location & gestion locative"
+  },
+  "mentions-legales": {
+    "meta_title": "Mentions légales",
+    "titre": "Mentions légales",
+    "body": "## Éditeur du site\r\n\r\n**EI Romain Rieg**, agent commercial de la SAS I@D France, immatriculé au RSAC de Lyon sous le n° **101 157 410**, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.\r\n\r\nAdresse : Saint-Didier-au-Mont-d'Or (69370)\r\nTéléphone : 06 79 57 14 73\r\nEmail : romain.rieg@iadfrance.fr\r\n\r\n## SAS I@D France\r\n\r\nSAS au capital de 2 640 523 € - siège social : 2 ter boulevard de la Libération, 93200 Saint-Denis - RCS Bobigny 503 740 428.\r\nCarte professionnelle CPI 9301 2016 000 014 488 délivrée par la CCI Seine-Saint-Denis.\r\n\r\n## Garantie financière\r\n\r\nGALIAN - 89 rue La Boétie, 75008 Paris.\r\n\r\n## Hébergement du site\r\n\r\nNetlify, Inc. - 44 Montgomery Street, Suite 300, San Francisco, CA 94104, USA. [www.netlify.com](https://www.netlify.com)\r\n\r\n## Sources & informations chiffrées\r\n\r\nLes chiffres mentionnés concernant iad France (63 000 ventes en 2025, 16 000 conseillers, jusqu'à 85% de rémunération) sont issus des communications officielles iad France 2024-2025. Le classement « n°1 de la transaction en 2025 » est établi par comparaison des chiffres déclarés par les principaux réseaux immobiliers nationaux en 2025.\r\n\r\nLes prix au m², délais de vente et données de marché présentés sur ce site sont indicatifs, issus de l'analyse des transactions DVF (Demandes de Valeurs Foncières publiées par la DGFiP) et de l'expérience terrain de l'éditeur. Ils ne constituent pas une estimation engageante.\r\n\r\n## Liens utiles\r\n\r\n* [Mon mini-site iad officiel](https://www.iadfrance.fr/conseiller-immobilier/romain.rieg) (annonces, présentation, outil d'estimation iad)\r\n* [join-iad.fr](https://www.join-iad.fr) - informations officielles sur le métier de conseiller iad\r\n\r\n## Propriété intellectuelle\r\n\r\nL'ensemble des contenus (textes, images, graphismes, logo iad) est protégé par le droit d'auteur. Toute reproduction, même partielle, sans autorisation préalable est interdite. Le logo iad est la propriété de la SAS I@D France.\r\n\r\n## Crédits photos\r\n\r\nPhotos de Romain Rieg et des secteurs : © Romain Rieg, tous droits réservés. Photos illustratives complémentaires : banques d'images libres de droits."
+  },
+  "merci": {
+    "meta_title": "Merci - votre message a bien été reçu",
+    "meta_description": "Merci pour votre message. Romain Rieg, conseiller immobilier iad sur le Mont d'Or et l'Ouest lyonnais, vous répond personnellement, en général sous 24h.",
+    "surtitre": "Message reçu",
+    "titre": "Merci 🌿",
+    "intro": "Romain vous répond personnellement, en général sous 24h. Si votre demande est urgente, n'hésitez pas à appeler le 06 79 57 14 73 ou à envoyer un SMS direct.",
+    "cta_label": "Retour à l'accueil",
+    "cta_href": "/"
+  },
+  "not-found": {
+    "surtitre": "Erreur 404",
+    "code": "404",
+    "titre": "Cette adresse n'existe pas… ou plus.",
+    "intro": "Comme un bien retiré du marché, certaines pages disparaissent. Mais rien n'est perdu : tout commence (ou recommence) par l'accueil.",
+    "cta_primary_label": "Retour à l'accueil",
+    "cta_primary_href": "/",
+    "cta_secondary_label": "Voir mes biens iad ↗",
+    "cta_secondary_url": "https://www.iadfrance.fr/conseiller-immobilier/romain.rieg"
+  },
+  "outils-landing": {
+    "meta_description": "Calculateurs, simulateurs et carte interactive pour préparer votre projet immobilier sur les Mont d'Or, l'Ouest lyonnais et la Plaine du Forez.",
+    "surtitre": "Boîte à outils",
+    "cta_titre": "Vous préférez me parler directement ?",
+    "cta_label": "Contactez-moi",
+    "outil_lien_label": "Ouvrir l'outil",
+    "intro": "Le marché immobilier des Monts d’Or, de l’Ouest lyonnais et de la Plaine du Forez ne se résume pas à une moyenne au m². Prix, délais de vente, rentabilité, capacité d’achat, frais annexes : **chaque décision mérite des données claires.**\n\n",
+    "groupes": [
+      {
+        "titre": "Visualiser le marché",
+        "outils": [
+          {
+            "href": "/outils/carte-prix",
+            "chiffre": "01",
+            "sub": "Carte interactive",
+            "titre": "Combien vaut le m² près de chez moi ?",
+            "desc": "Carte des 8 communes avec prix moyens maison & appartement, et évolution sur 5 ans."
+          }
+        ]
+      },
+      {
+        "titre": "Pour décider d'acheter",
+        "outils": [
+          {
+            "href": "/outils/capacite-achat",
+            "chiffre": "02",
+            "sub": "Capacité d'achat",
+            "titre": "Combien puis-je acheter au Mont d'Or ?",
+            "desc": "À partir de votre revenu et de votre apport, votre budget réel et la surface accessible commune par commune."
+          },
+          {
+            "href": "/outils/acheter-vs-louer",
+            "chiffre": "03",
+            "sub": "Achat vs location",
+            "titre": "Acheter ou louer sur 10 ans ?",
+            "desc": "Comparaison financière complète intégrant frais de notaire, intérêts, valorisation et placement alternatif de l'apport."
+          },
+          {
+            "href": "/outils/frais-notaire",
+            "chiffre": "04",
+            "sub": "Frais de notaire détaillés",
+            "titre": "Combien me coûteront les frais de notaire ?",
+            "desc": "Calcul précis pour le Rhône (69) et la Loire (42), neuf vs ancien, avec déduction du mobilier."
+          }
+        ]
+      },
+      {
+        "titre": "Pour préparer une vente",
+        "outils": [
+          {
+            "href": "/outils/vendabilite",
+            "chiffre": "05",
+            "sub": "Score de vendabilité",
+            "titre": "Mon bien va-t-il se vendre vite et bien ?",
+            "desc": "Score sur 100 + diagnostic en 3 points sur prix, DPE et tension de marché. Outil indicatif - un avis de valeur officiel reste indispensable."
+          },
+          {
+            "href": "/outils/projection",
+            "chiffre": "06",
+            "sub": "Projection plus-value",
+            "titre": "Combien vaudra mon bien dans 5 ans ?",
+            "desc": "Sur la base de l'historique DVF de votre quartier. Outil indicatif - projections non garanties."
+          },
+          {
+            "href": "/outils/dpe-express",
+            "chiffre": "07",
+            "sub": "Diagnostic énergétique",
+            "titre": "Quel est le DPE probable de mon bien ?",
+            "desc": "Estimation rapide + plan de travaux pour passer en classe C ou B avant la vente."
+          }
+        ]
+      },
+      {
+        "titre": "Pour investir",
+        "outils": [
+          {
+            "href": "/outils/rentabilite-locative",
+            "chiffre": "08",
+            "sub": "Rentabilité locative",
+            "titre": "Quel rendement vais-je obtenir ?",
+            "desc": "Brut, net, cash-flow mensuel et patrimoine constitué sur 20 ans, fiscalité incluse."
+          }
+        ]
+      }
+    ],
+    "titre": "Huit outils, zéro promesse vide.",
+    "intro_complement": "J’ai conçu ces outils pour vous donner un premier niveau d’analyse, avec les mêmes indicateurs que ceux que j’utilise au quotidien dans mon accompagnement : **gratuitement, sans inscription et sans engagement.**",
+    "cta_href": "/contact",
+    "disclaimer": "Ces outils sont fournis à titre indicatif. Ils ne remplacent pas une analyse personnalisée de votre bien, de votre projet ou de votre situation. Pour toute décision engageante - vente, achat, investissement ou fiscalité - un échange avec Moi-même est recommandé.",
+    "cta_intro": "Tous ces outils sont là pour préparer votre rendez-vous avec moi, pas pour me remplacer.",
+    "meta_title": "Outils"
+  },
+  "outils-pages": {
+    "carte-prix": {
+      "meta_description": "Prix immobiliers au m² par commune dans l’Ouest lyonnais et la Plaine du Forez. Données Meilleurs Agents 2026.",
+      "surtitre": "Outil 01",
+      "cta_titre": "Et votre bien, à quel prix ?",
+      "cta_label": "Demander mon avis de valeur",
+      "methodologie_label": "Méthodologie :",
+      "limitrophes_intro": "J’interviens également sur l’ensemble des communes limitrophes des secteurs de cœur. Prix indicatifs sur demande - fiches détaillées en cours d’enrichissement.",
+      "intro": "Prix immobiliers au m² par commune dans l’Ouest lyonnais et la Plaine du Forez. Données Meilleurs Agents 2026.",
+      "limitrophes_titre": "Communes limitrophes",
+      "methodologie": "moyennes basées sur les données Meilleurs Agents 2026 et les transactions DVF. Données indicatives - chaque bien doit être évalué individuellement selon son état, son emplacement précis, ses prestations et son potentiel.",
+      "titre": "Carte des prix immobiliers",
+      "limitrophes_note_lien": "Demander une estimation",
+      "limitrophes_note": "Votre commune n’est pas listée ? Ma couverture s’étend à toute la Métropole de Lyon et au bassin stéphanois.",
+      "cta_intro": "Une moyenne de marché ne suffit pas. Avis de valeur argumenté offert sous 24 à 48 h.",
+      "classement_titre": "Classement",
+      "meta_title": "Carte des prix immobiliers au m² · Ouest lyonnais & Plaine du Forez"
+    },
+    "capacite-achat": {
+      "representation_titre": "Surface accessible par commune",
+      "meta_description": "Calculez votre budget immobilier et la surface accessible par commune dans l’Ouest lyonnais & la Plaine du Forez. Simulateur gratuit.",
+      "surtitre": "Outil 02",
+      "cta_titre": "Affinons votre projet ensemble",
+      "resultat_titre": "Votre budget total",
+      "titre": "Combien puis-je acheter ?",
+      "note": "Calcul indicatif sur la base d’un taux d’endettement à 35 %, de frais de notaire estimés à 7,5 % et des prix moyens de marché. Résultat soumis à l’accord d’un établissement bancaire.",
+      "representation_surtitre": "Ce que cela représente",
+      "cta_intro": "Mise en relation possible avec un courtier partenaire pour optimiser votre plan de financement, puis sélection de biens correspondants réellement à votre capacité d’achat.",
+      "meta_title": "Capacité d'achat immobilier : combien puis-je emprunter ?"
+    },
+    "acheter-vs-louer": {
+      "bascule_unite": "ans",
+      "meta_description": "Achat ou location : comparez les deux options selon votre durée d’occupation, en intégrant frais de notaire, intérêts, taxe foncière, valorisation du bien et placement alternatif de l’apport. Conseil personnalisé par Romain RIEG conseiller immobilier iad dans l’Ouest lyonnais et la Plaine du Forez.",
+      "surtitre": "Outil 03",
+      "cta_titre": "Me contacter pour en parler",
+      "bascule_aucun": "Sur les 30 prochaines années, la location reste financièrement préférable dans cette configuration.",
+      "a_retenir_label": "À retenir :",
+      "intro": "Comparaison financière complète selon votre durée d’occupation. Le calcul intègre frais de notaire, intérêts d’emprunt, taxe foncière, charges, valorisation du bien et placement alternatif de l’apport.",
+      "bascule_suffix": "d'occupation.",
+      "titre": "Acheter ou louer ?",
+      "bascule_prefix": "Le point de bascule, c’est-à-dire le moment où l’achat devient plus intéressant que la location, se situe à",
+      "verdict_achat": "L'achat est financièrement plus avantageux",
+      "a_retenir": "ce comparatif est purement financier. La propriété apporte aussi de la sécurité, la possibilité de transmettre et la liberté de transformer son logement. La location offre davantage de flexibilité géographique et évite la gestion des travaux. Un échange permet de mettre ces chiffres en perspective avec votre vrai projet de vie.",
+      "verdict_suffix": "ans",
+      "scenario_location_titre": "Scénario location + placement",
+      "verdict_prefix": "Verdict à",
+      "verdict_location": "La location est financièrement plus avantageuse",
+      "scenario_achat_titre": "Scénario achat",
+      "cta_intro": "Mettre ces chiffres en face d’un vrai bien, d’une vraie commune et d’un vrai projet de vie : un échange en visio ou lors d'un café permet d’aller plus loin.",
+      "meta_title": "Acheter ou louer ? Comparateur immobilier de l'Ouest lyonnais & la Plaine du Forez"
+    },
+    "frais-notaire": {
+      "meta_description": "Estimez vos frais de notaire dans le Rhône et la Loire, dans le neuf ou l’ancien, avec déduction éventuelle du mobilier. Barème 2026, calcul détaillé par votre conseiller immobilier iad Romain RIEG.",
+      "surtitre": "Outil 04",
+      "cta_titre": "Optimiser vos frais de notaire ?",
+      "resultat_titre": "Total frais de notaire",
+      "methodologie_titre": "Méthodologie de calcul",
+      "repartition_titre": "Répartition",
+      "intro": "Calcul détaillé pour le Rhône (69 - taux relevé à 5 % en 2025) et la Loire (42 - taux maintenu à 4,5 %), dans le neuf ou l’ancien, avec déduction éventuelle du mobilier. Barème 2026.",
+      "titre": "Frais de notaire",
+      "cta_intro": "Inclure le mobilier à l’acte, choisir le bon montage, négocier certains frais lorsque c’est possible : un conseil personnalisé permet d’identifier les bons leviers.",
+      "meta_title": "Calcul des frais de notaire 2026 · Rhône (69) & Loire (42)"
+    },
+    "vendabilite": {
+      "meta_description": "Mesurez en 30 secondes les chances de vendre votre bien selon son prix, son DPE et la tension du marché. Diagnostic gratuit par un conseiller iad dans les Monts d’Or - l’Ouest lyonnais & la Plaine du Forez",
+      "surtitre": "Outil 05",
+      "cta_titre": "Avis de valeur officiel ?",
+      "score_titre": "Score",
+      "sources_intro": "ce diagnostic croise les prix médians par secteur, issus d’une compilation interne, avec les données publiques officielles. Pour aller plus loin :",
+      "sources_titre": "Sources de référence :",
+      "intro": "En 30 secondes, mesurez les chances réelles de vendre votre bien. Diagnostic personnalisé selon le prix, le DPE et la tension du marché local.",
+      "avertissement": "Le résultat dépend directement de la précision des informations entrées. Pour obtenir un avis fiable et argumenté, un avis de valeur complet et offert peut être réalisé sous 24 à 48h, sur la base d’une visite qualitative.",
+      "titre": "Diagnostic indicatif de vendabilité",
+      "diagnostic_titre": "Diagnostic en 3 points",
+      "decomposition_titre": "Décomposition du score",
+      "cta_intro": "Visite de votre bien et rapport complet sous 24 à 48h : comparables, photos, analyse du marché et stratégie de commercialisation. Offert et sans engagement.",
+      "meta_title": "Diagnostic de vendabilité : votre bien va-t-il se vendre ?",
+      "avertissement_titre": "Score indicatif basé sur les seules données saisies."
+    },
+    "projection": {
+      "meta_description": "Projetez la valeur future de votre bien selon les tendances 2020 - 2025 par commune dans les Monts d’Or, l’Ouest lyonnais et la Plaine du Forez. Analyse par un conseiller iad - Romain RIEG",
+      "surtitre": "Outil 06",
+      "cta_titre": "Analyse personnalisée de votre bien ?",
+      "resultat_titre": "Projection scénario central",
+      "methodologie_label": "Méthodologie :",
+      "avertissement": "Projection indicative basée sur les tendances réelles 2020 - 2025 par commune et par type de bien. Elle ne préjuge pas de l’évolution future du marché, qui dépend du contexte économique, réglementaire, fiscal et local. Pour une analyse fiable, une étude personnalisée intégrant les spécificités de votre bien reste indispensable.",
+      "methodologie": "historique 2020 - 2025 basé sur les chiffres Meilleurs Agents et DVF, Demandes de Valeurs Foncières. Projection future fondée sur les tendances long terme par commune et par type de bien, en tenant compte de la correction de 2024 et de la stabilisation observée en 2025. Ne constitue pas un engagement de valorisation.",
+      "cta_intro": "Une analyse approfondie croise la projection avec votre quartier précis, le DPE, l’état du bien, ses prestations et les comparables récents pour aboutir à une estimation réellement exploitable.",
+      "titre_suffix": "ans ?",
+      "meta_title": "Projection de valeur immobilière : combien vaudra mon bien ?",
+      "titre_prefix": "Combien vaudra mon bien dans"
+    },
+    "dpe-express": {
+      "classe_titre": "Classe DPE estimée",
+      "meta_description": "Estimez la classe DPE de votre logement et identifiez les travaux à envisager pour viser une classe C ou B. Méthode 3CL 2021.",
+      "surtitre": "Outil 07",
+      "cta_titre": "Plan de rénovation énergétique ?",
+      "bien_performant_titre": "Bien déjà performant ✓",
+      "intro": "Estimation rapide de la classe DPE de votre bien et plan de travaux indicatif pour viser une classe C ou B. Basé sur les coefficients officiels de la méthode 3CL 2021.",
+      "bien_performant_texte": "Aucun travaux énergétique majeur à prévoir. Un très bon atout à valoriser dans l’annonce et lors des visites.",
+      "disclaimer_label": "Important :",
+      "titre": "DPE express",
+      "disclaimer_texte": "cette estimation indicative ne remplace pas un DPE officiel réalisé par un diagnostiqueur certifié, obligatoire à la vente. ",
+      "cta_intro": "Un accompagnement complet : diagnostiqueur, devis travaux, dossier MaPrimeRénov’, puis valorisation du bien à la revente.",
+      "meta_title": "DPE express : estimez la classe énergétique de votre bien"
+    },
+    "rentabilite-locative": {
+      "meta_description": "Rendement brut, rendement net, cash-flow et enrichissement patrimonial sur 20 ans. Le calcul tient compte de la fiscalité, de la vacance locative et de l’évolution du marché.",
+      "surtitre": "Outil 08",
+      "cta_titre": "Sélection de biens à fort rendement ?",
+      "note_enrichissement": "valeur du bien + cash-flow cumulé - apport initial. Hors revente et fiscalité de plus-value.",
+      "intro": "Rendement brut, net, cash-flow et enrichissement patrimonial sur 20 ans. Tient compte de la fiscalité, de la vacance locative et de l'évolution du marché.",
+      "verdict_label": "Verdict :",
+      "titre": "Rentabilité locative",
+      "verdict_faible": "Rentabilité faible : l’opération n’a de sens que si le bien bénéficie d’un emplacement très recherché ou d’un fort potentiel de plus-value future.",
+      "cashflow_titre": "Cash-flow mensuel après impôts",
+      "patrimoine_titre": "Patrimoine constitué dans",
+      "patrimoine_titre_suffix": "ans",
+      "verdict_rentable": "Investissement rentable, à étudier.",
+      "verdict_moyen": "Rentabilité moyenne : l’effort d’épargne reste raisonnable, avec un intérêt principalement patrimonial.",
+      "cta_intro": "Dans les Monts d’Or, l’Ouest lyonnais et la Plaine du Forez, un sourcing investisseur permet d’identifier des biens pertinents, y compris certains biens off-market et programmes neufs.",
+      "meta_title": "Calcul de rentabilité locative : rendement et cash-flow"
+    }
+  },
+  "rejoindre": {
+    "meta_title": "Rejoindre mon équipe iad",
+    "meta_description": "Devenez conseiller immobilier iad au sein de l'équipe de Romain Rieg. Formation, accompagnement, rémunération jusqu'à 85% - sans apport.",
+    "hero": {
+      "surtitre": "Rejoindre mon équipe",
+      "cta_primary_label": "Échanger 30 minutes",
+      "intro": "iad, c'est **63 000 ventes en 2025** et **plus de 16 000 conseillers** en France et à l'international, et **18 ans d'expérience au service des professionnels de l'immobilier**. \n\n",
+      "cta_whatsapp_url": "sms:+33679571473?body=Bonjour%20Romain%2C%20je%20souhaite%20en%20savoir%20plus%20sur%20le%20m%C3%A9tier%20de%20conseiller%20iad.",
+      "titre": "Rejoignez le n°1 de la transaction immobilière.",
+      "logo_alt": "iad Prestige",
+      "cta_whatsapp_label": "💬 Sms",
+      "cta_primary_href": "/contact",
+      "logo_iad": "/photos/IAD_LOGO_FINAL-removebg-preview.png",
+      "intro_complement": "Au sein de mon équipe, je forme et accompagne celles et ceux qui veulent se lancer ou se reconvertir dans l'immobilier. Que vous soyez débutant ou déjà expérimenté, je vous transmets ce qui fonctionne vraiment sur le terrain : **sans filtre et sans discours commercial.**",
+      "video": "/uploads/3b13e40a-5363-4781-9928-699f9d151a09.jpg",
+      "stats": [
+        {
+          "valeur": "+18 ans",
+          "label": "D'expérience"
+        },
+        {
+          "valeur": "+16 000",
+          "label": "Conseillers iad"
+        },
+        {
+          "valeur": "94%",
+          "label": "Conseillers satisfaits"
+        },
+        {
+          "valeur": "0€",
+          "label": "D'apport requis"
+        }
+      ]
+    },
+    "piliers": {
+      "surtitre": "Pourquoi iad ?",
+      "titre": "Six piliers, une promesse simple : votre réussite.",
+      "items": [
+        {
+          "titre": "Une rémunération sans limites",
+          "desc": "Jusqu'à 85% de commission sur votre production personnelle. Diversifiez vos revenus avec la prescription ou en créant votre équipe."
+        },
+        {
+          "titre": "Formation gratuite en continu",
+          "desc": "23 ateliers en présentiel animés par plus de 600 formateurs et 40 h de formation vidéo (conforme loi ALUR). Pour apprendre ou vous perfectionner."
+        },
+        {
+          "titre": "Un accompagnement à chaque étape",
+          "desc": "Votre parrain, votre gestionnaire administratif dédié et les équipes du siège iad sont à vos côtés pour vous accompagner tout au long de votre aventure."
+        },
+        {
+          "titre": "Des outils métier puissants",
+          "desc": "Prospection, estimation, photos, visite virtuelle, prise de mandats, signature électronique. Gagnez en expertise et en temps avec les outils exclusifs iad."
+        },
+        {
+          "titre": "Entreprenez sans apport",
+          "desc": "Contrairement aux franchises classiques, bâtissez votre fonds de commerce, cessible et valorisable, sans aucun apport ni financement."
+        },
+        {
+          "titre": "Fixez vos propres objectifs",
+          "desc": "Vous concentrer sur la vente, vous spécialiser, devenir formateur, manager ou développer votre organisation à l'international : vous êtes votre propre patron."
+        }
+      ],
+      "source": "Source : iad France 2025. N°1 de la transaction immobilière avec 63 000 ventes réalisées par iad France, en comparaison des chiffres déclarés par les principaux réseaux immobiliers nationaux en 2025."
+    },
+    "profils": {
+      "surtitre": "Pour qui ?",
+      "titre": "Vous vous reconnaissez ?",
+      "items": [
+        {
+          "titre": "Vous avez une expérience commerciale",
+          "desc": "Bancaire, automobile, B2B, retail, conseil… Votre culture du résultat sera votre meilleur atout sur le terrain."
+        },
+        {
+          "titre": "Vous êtes en reconversion",
+          "desc": "Quitter un statut salarié pour entreprendre, c'est exactement ce que j'ai fait. Je vous explique comment sécuriser la transition : sans prendre de risques inutiles."
+        },
+        {
+          "titre": "Vous êtes déjà conseiller immobilier",
+          "desc": "Rémunération insuffisante, manque de liberté, outils dépassés ? Comparons concrètement votre situation actuelle avec ce que je vous propose."
+        },
+        {
+          "titre": "Vous démarrez votre vie pro",
+          "desc": "Apprendre un métier en autonomie sous mentorat - un cadre exigeant mais formateur, idéal pour qui veut entreprendre tôt."
+        }
+      ]
+    },
+    "qui_suis_je": {
+      "surtitre": "Qui suis-je ?",
+      "titre": "Vous ne rejoignez pas un réseau. Vous rejoignez une équipe.",
+      "paragraphes": [
+        "Je m’appelle Romain Rieg, conseiller immobilier indépendant au sein du réseau iad France, installé à Saint-Didier-au-Mont-d’Or.\nAprès une première carrière dans le développement commercial, j’ai choisi l’immobilier pour ce qu’il demande vraiment : **aller sur le terrain, construire des relations de confiance et s’engager dans la durée auprès de ses clients.**\n\n\n\n\n",
+        "Depuis le début de mon activité, j’accompagne aussi des femmes et des hommes qui souhaitent se lancer ou se reconvertir dans l’immobilier. Au-delà de l’accès à un réseau, mon objectif est de leur apporter **un accompagnement concret, humain et structuré.**\nJe sais ce que cette étape demande : comprendre comment fonctionne réellement une estimation, préparer un rendez-vous vendeur, construire sa prospection sans s’épuiser, adopter les bons réflexes et avancer avec méthode.\n",
+        "**Mon rôle n’est pas de vous vendre un statut.** Il est de vous aider à **bâtir une activité solide, réaliste et durable**, avec les bons outils, les bons repères et un suivi terrain qui ne s’arrête pas à la signature du contrat."
+      ],
+      "photo": "/photos/IMG_6487_SnapseedCopy-1536x2048.jpg",
+      "photo_alt": "Romain Rieg",
+      "citation": "Le métier ne s'apprend pas dans les livres. Il s'apprend en visite, dossier après dossier.",
+      "citation_auteur": "Romain Rieg · Coach immobilier iad"
+    },
+    "parcours": {
+      "surtitre": "Le parcours",
+      "titre": "De l'envie au premier mandat - cinq étapes claires.",
+      "etapes": [
+        {
+          "num": "01",
+          "titre": "Échange découverte",
+          "desc": "30 minutes en visio ou autour d'un café. Je vous présente concrètement **le quotidien, la rémunération réelle, ce qui marche et ce qui est dur.**"
+        },
+        {
+          "num": "02",
+          "titre": "Validation des prérequis",
+          "desc": "Vérification du statut, des éventuels droits France Travail, validation de votre projet et mise en relation avec mon gestionnaire administratif iad."
+        },
+        {
+          "num": "03",
+          "titre": "Formation en ligne & coaching",
+          "desc": "Formation iad en ligne (parcours certifiant conforme loi ALUR), accessible à votre rythme, complétée par du coaching individuel et des ateliers en présentiel."
+        },
+        {
+          "num": "04",
+          "titre": "Lancement accompagné",
+          "desc": "Premiers mandats, premières prospections, premiers compromis - avec mon **soutien quotidien sur les 3 premiers mois, et bien au-delà**."
+        },
+        {
+          "num": "05",
+          "titre": "Autonomie & développement",
+          "desc": "**Premiers mandats signés, premières ventes, premières fiertés.** Vous êtes désormais maître de votre activité et de votre agenda. Et si l'aventure vous donne envie d'aller plus loin, vous pourrez à votre tour recruter, accompagner et bâtir votre propre équipe."
+        }
+      ]
+    },
+    "cta_final": {
+      "titre": "Prêt(e) à en parler ?",
+      "intro": "30 minutes en visio ou autour d'un café. Aucun engagement, aucune pression - juste une conversation honnête.",
+      "cta_primary_label": "Demander un échange",
+      "cta_primary_href": "/contact",
+      "cta_secondary_label": "06 79 57 14 73",
+      "cta_secondary_href": "tel:+33679571473"
+    }
+  },
+  "secteurs-landing": {
+    "meta_title": "Secteurs d'intervention - Romain Rieg Immobilier",
+    "meta_description": "Marché immobilier local et prix au m² pour chaque commune du Mont d'Or, Ouest lyonnais et Plaine du Forez.",
+    "surtitre": "Marché local",
+    "titre": "Nos secteurs",
+    "intro": "Sept communes, sept dynamiques de marché. Découvrez pour chaque secteur les prix au m², les délais de vente et les atouts à valoriser pour votre projet.",
+    "prix_maison_label": "Prix/m² maison",
+    "prix_appart_label": "Prix/m² appart.",
+    "delai_label": "Délai moyen"
+  },
+  "vendre": {
+    "meta_description": "Vendez votre bien au meilleur prix sur le Mont d'Or, l'Ouest lyonnais et la Plaine du Forez. Avis de valeur fiable sous 24 - 48h, accompagnement complet jusqu'à la signature notaire.",
+    "pourquoi_moi": {
+      "surtitre": "Pourquoi vendre avec moi ?",
+      "titre": "Cinq raisons concrètes.",
+      "items": [
+        {
+          "titre": "Expertise locale",
+          "desc": "Je connais parfaitement les marchés des Monts d'Or, de l'Ouest lyonnais et de la Plaine du Forez. Votre bien est évalué avec précision : **ventes récentes, tendances du secteur, spécificités du quartier.**"
+        },
+        {
+          "titre": "Accompagnement personnalisé",
+          "desc": "Succession, divorce, projet de vie … chaque situation est unique. **Je vous guide pas à pas** et prends en charge les démarches administratives pour que vous vendiez en toute sérénité."
+        },
+        {
+          "titre": "Stratégie de diffusion optimale",
+          "desc": "Photos professionnelles, prises de vue soignées et drone si nécessaire, diffusion sur les principaux portails immobiliers et visibilité auprès de plus de 16 000 conseillers du réseau iad - pour déclencher le coup de cœur dès la première annonce."
+        },
+        {
+          "titre": "Sélection rigoureuse des acquéreurs",
+          "desc": "Je vérifie la solvabilité et la cohérence du projet de chaque acheteur avant toute visite - pour vous **faire gagner du temps et éviter les déconvenues.**"
+        },
+        {
+          "titre": "Réactivité et transparence",
+          "desc": "Un suivi régulier, des retours honnêtes après chaque visite et une disponibilité réelle du lundi au samedi - parce que vendre un bien mérite mieux qu'un conseiller injoignable."
+        }
+      ]
+    },
+    "cta_final": {
+      "titre": "Prêt(e) à connaître la valeur de votre bien ?",
+      "intro": "Avis de valeur Offert sous 24 à 48h, sans engagement.",
+      "cta_primary_label": "Demander mon avis de valeur",
+      "cta_primary_href": "/avis-de-valeur",
+      "cta_whatsapp_label": "💬 Sms",
+      "cta_whatsapp_url": "sms:+33679571473"
+    },
+    "etapes": {
+      "surtitre": "Le processus simplifié",
+      "titre": "Quatre étapes claires.",
+      "items": [
+        {
+          "num": "01",
+          "titre": "Premier contact & collecte d'infos",
+          "desc": "Formulaire en ligne ou contact direct par téléphone ou email. Je recueille les informations essentielles sur votre bien et votre projet : **délais, situation personnelle, attentes.**"
+        },
+        {
+          "num": "02",
+          "titre": "Visite & avis de valeur précis",
+          "desc": "Je me déplace chez vous pour évaluer votre bien dans le détail. Vous recevez un avis de valeur précis et argumenté : **ventes récentes du secteur, tendances du marché local, spécificités de votre bien.**"
+        },
+        {
+          "num": "03",
+          "titre": "Mise en vente optimale",
+          "desc": "Photos professionnelles, prises de vue soignées et drone si nécessaire, description soignée et diffusion sur plus de 100 portails immobiliers. Votre bien bénéficie également de la visibilité du réseau iad - plus de 16 000 conseillers actifs en France."
+        },
+        {
+          "num": "04",
+          "titre": "Suivi & accompagnement jusqu'à la signature",
+          "desc": "Gestion des visites, sélection rigoureuse des acquéreurs, accompagnement dans la négociation et suivi administratif jusqu'à la signature chez le notaire. **Vous n'avez qu'à vous concentrer sur votre projet.**"
+        }
+      ]
+    },
+    "zones_section": {
+      "surtitre": "Mes 2 zones",
+      "titre": "Deux zones, une seule exigence.",
+      "lien_label": "Vendre dans cette zone →",
+      "zones": [
+        {
+          "slug": "ouest-lyonnais",
+          "titre": "Ouest lyonnais",
+          "desc": "Saint-Didier-au-Mont-d'Or · Saint-Cyr-au-Mont-d'Or · Limonest · Écully · Dardilly · Champagne-au-Mont-d'Or et limitrophes.",
+          "image": "/uploads/ouest-lyonnais-mont-dor.jpeg"
+        },
+        {
+          "slug": "plaine-du-forez",
+          "titre": "Plaine du Forez",
+          "desc": "Saint-Just-Saint-Rambert · Andrézieux-Bouthéon - j'y ai vécu 20 ans.",
+          "image": "/uploads/plaine-du-forez.jpeg"
+        }
+      ]
+    },
+    "comparatif": {
+      "surtitre": "Vendre seul vs vendre avec moi",
+      "titre": "Le comparatif honnête.",
+      "badge": "⭐ Mon accompagnement",
+      "label_avec": "Avec moi",
+      "label_sans": "Tout seul",
+      "note": "La différence ne se limite pas aux honoraires. Elle se mesure dans le temps gagné, la qualité des acquéreurs sélectionnés, la sécurité du dossier et la sérénité avec laquelle vous avancez jusqu’à la signature.",
+      "items": [
+        {
+          "avec": "Avis de valeur précis, argumenté",
+          "sans": "Estimation approximative sans référence marché"
+        },
+        {
+          "avec": "Dossier administratif clé en main",
+          "sans": "Gestion des diagnostics compliquée"
+        },
+        {
+          "avec": "Plus de 100 portails et réseau iad",
+          "sans": "Diffusion limitée aux plateformes grand public"
+        },
+        {
+          "avec": "Solvabilité vérifiée, dossiers filtrés avant visite",
+          "sans": "Aucun filtrage, visites chronophages"
+        },
+        {
+          "avec": "Diagnostics, compromis, suivi notaire pris en charge",
+          "sans": "Gestion complète des démarches par le vendeur"
+        },
+        {
+          "avec": "Suivi complet de l'estimation à la remise des clés",
+          "sans": "Seul face aux imprévus et aux négociations"
+        }
+      ]
+    },
+    "romain_card": {
+      "titre": "Vendre votre bien, c'est une décision importante.",
+      "message": "Je m'engage personnellement sur chaque mandat - étude de marché chiffrée, mise en valeur premium, suivi régulier jusqu'à la signature notariale. Le tout avec discrétion et sans pression."
+    },
+    "secteurs_section": {
+      "surtitre": "Mes secteurs d'intervention",
+      "titre": "Là où je vends pour vous.",
+      "intro": "Survolez une commune pour voir les infos clés · cliquez pour ouvrir la fiche.",
+      "groupe_mont_dor_label": "Ouest Lyonnais",
+      "groupe_forez_label": "Plaine du Forez"
+    },
+    "hero": {
+      "surtitre": "Vendre",
+      "cta_primary_label": "Avis de valeur · 24 - 48h",
+      "mention": "Sans engagement · 100% confidentiel",
+      "intro": "Vendre votre maison ou appartement est une étape importante qui ne s'improvise pas. Pour **vendre au bon prix, dans les bons délais et auprès des bons acheteurs**, chaque détail compte : estimation juste, mise en valeur soignée, stratégie de diffusion adaptée et suivi rigoureux jusqu'à la signature.\nJe vous accompagne à chaque étape avec une méthode claire, structurée et personnalisée : pour valoriser votre bien et avancer sereinement dans votre projet.",
+      "titre": "Vendez votre bien dans les meilleures conditions.",
+      "cta_secondary_url": "sms:+33679571473?body=Bonjour%20Romain%2C%20je%20souhaite%20vendre%20mon%20bien.",
+      "cta_primary_href": "/avis-de-valeur",
+      "intro_complement": "Je suis Romain Rieg, conseiller immobilier iad. J’accompagne mes clients dans l’Ouest lyonnais et la Plaine du Forez avec **une approche claire, réactive et personnalisée, pour vendre dans les meilleures conditions.**",
+      "cta_secondary_label": "💬 Sms",
+      "video": "/uploads/img_7016.jpeg"
+    },
+    "meta_title": "Vendre votre bien"
+  }
+}

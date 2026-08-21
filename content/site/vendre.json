@@ -1,0 +1,140 @@
+{
+  "meta_description": "Vendez votre bien au meilleur prix sur le Mont d'Or, l'Ouest lyonnais et la Plaine du Forez. Avis de valeur fiable sous 24 - 48h, accompagnement complet jusqu'à la signature notaire.",
+  "pourquoi_moi": {
+    "surtitre": "Pourquoi vendre avec moi ?",
+    "titre": "Cinq raisons concrètes.",
+    "items": [
+      {
+        "titre": "Expertise locale",
+        "desc": "Je connais parfaitement les marchés des Monts d'Or, de l'Ouest lyonnais et de la Plaine du Forez. Votre bien est évalué avec précision : **ventes récentes, tendances du secteur, spécificités du quartier.**"
+      },
+      {
+        "titre": "Accompagnement personnalisé",
+        "desc": "Succession, divorce, projet de vie … chaque situation est unique. **Je vous guide pas à pas** et prends en charge les démarches administratives pour que vous vendiez en toute sérénité."
+      },
+      {
+        "titre": "Stratégie de diffusion optimale",
+        "desc": "Photos professionnelles, prises de vue soignées et drone si nécessaire, diffusion sur les principaux portails immobiliers et visibilité auprès de plus de 16 000 conseillers du réseau iad - pour déclencher le coup de cœur dès la première annonce."
+      },
+      {
+        "titre": "Sélection rigoureuse des acquéreurs",
+        "desc": "Je vérifie la solvabilité et la cohérence du projet de chaque acheteur avant toute visite - pour vous **faire gagner du temps et éviter les déconvenues.**"
+      },
+      {
+        "titre": "Réactivité et transparence",
+        "desc": "Un suivi régulier, des retours honnêtes après chaque visite et une disponibilité réelle du lundi au samedi - parce que vendre un bien mérite mieux qu'un conseiller injoignable."
+      }
+    ]
+  },
+  "cta_final": {
+    "titre": "Prêt(e) à connaître la valeur de votre bien ?",
+    "intro": "Avis de valeur Offert sous 24 à 48h, sans engagement.",
+    "cta_primary_label": "Demander mon avis de valeur",
+    "cta_primary_href": "/avis-de-valeur",
+    "cta_whatsapp_label": "💬 Sms",
+    "cta_whatsapp_url": "sms:+33679571473"
+  },
+  "etapes": {
+    "surtitre": "Le processus simplifié",
+    "titre": "Quatre étapes claires.",
+    "items": [
+      {
+        "num": "01",
+        "titre": "Premier contact & collecte d'infos",
+        "desc": "Formulaire en ligne ou contact direct par téléphone ou email. Je recueille les informations essentielles sur votre bien et votre projet : **délais, situation personnelle, attentes.**"
+      },
+      {
+        "num": "02",
+        "titre": "Visite & avis de valeur précis",
+        "desc": "Je me déplace chez vous pour évaluer votre bien dans le détail. Vous recevez un avis de valeur précis et argumenté : **ventes récentes du secteur, tendances du marché local, spécificités de votre bien.**"
+      },
+      {
+        "num": "03",
+        "titre": "Mise en vente optimale",
+        "desc": "Photos professionnelles, prises de vue soignées et drone si nécessaire, description soignée et diffusion sur plus de 100 portails immobiliers. Votre bien bénéficie également de la visibilité du réseau iad - plus de 16 000 conseillers actifs en France."
+      },
+      {
+        "num": "04",
+        "titre": "Suivi & accompagnement jusqu'à la signature",
+        "desc": "Gestion des visites, sélection rigoureuse des acquéreurs, accompagnement dans la négociation et suivi administratif jusqu'à la signature chez le notaire. **Vous n'avez qu'à vous concentrer sur votre projet.**"
+      }
+    ]
+  },
+  "zones_section": {
+    "surtitre": "Mes 2 zones",
+    "titre": "Deux zones, une seule exigence.",
+    "lien_label": "Vendre dans cette zone →",
+    "zones": [
+      {
+        "slug": "ouest-lyonnais",
+        "titre": "Ouest lyonnais",
+        "desc": "Saint-Didier-au-Mont-d'Or · Saint-Cyr-au-Mont-d'Or · Limonest · Écully · Dardilly · Champagne-au-Mont-d'Or et limitrophes.",
+        "image": "/uploads/ouest-lyonnais-mont-dor.jpeg"
+      },
+      {
+        "slug": "plaine-du-forez",
+        "titre": "Plaine du Forez",
+        "desc": "Saint-Just-Saint-Rambert · Andrézieux-Bouthéon - j'y ai vécu 20 ans.",
+        "image": "/uploads/plaine-du-forez.jpeg"
+      }
+    ]
+  },
+  "comparatif": {
+    "surtitre": "Vendre seul vs vendre avec moi",
+    "titre": "Le comparatif honnête.",
+    "badge": "⭐ Mon accompagnement",
+    "label_avec": "Avec moi",
+    "label_sans": "Tout seul",
+    "note": "La différence ne se limite pas aux honoraires. Elle se mesure dans le temps gagné, la qualité des acquéreurs sélectionnés, la sécurité du dossier et la sérénité avec laquelle vous avancez jusqu’à la signature.",
+    "items": [
+      {
+        "avec": "Avis de valeur précis, argumenté",
+        "sans": "Estimation approximative sans référence marché"
+      },
+      {
+        "avec": "Dossier administratif clé en main",
+        "sans": "Gestion des diagnostics compliquée"
+      },
+      {
+        "avec": "Plus de 100 portails et réseau iad",
+        "sans": "Diffusion limitée aux plateformes grand public"
+      },
+      {
+        "avec": "Solvabilité vérifiée, dossiers filtrés avant visite",
+        "sans": "Aucun filtrage, visites chronophages"
+      },
+      {
+        "avec": "Diagnostics, compromis, suivi notaire pris en charge",
+        "sans": "Gestion complète des démarches par le vendeur"
+      },
+      {
+        "avec": "Suivi complet de l'estimation à la remise des clés",
+        "sans": "Seul face aux imprévus et aux négociations"
+      }
+    ]
+  },
+  "romain_card": {
+    "titre": "Vendre votre bien, c'est une décision importante.",
+    "message": "Je m'engage personnellement sur chaque mandat - étude de marché chiffrée, mise en valeur premium, suivi régulier jusqu'à la signature notariale. Le tout avec discrétion et sans pression."
+  },
+  "secteurs_section": {
+    "surtitre": "Mes secteurs d'intervention",
+    "titre": "Là où je vends pour vous.",
+    "intro": "Survolez une commune pour voir les infos clés · cliquez pour ouvrir la fiche.",
+    "groupe_mont_dor_label": "Ouest Lyonnais",
+    "groupe_forez_label": "Plaine du Forez"
+  },
+  "hero": {
+    "surtitre": "Vendre",
+    "cta_primary_label": "Avis de valeur · 24 - 48h",
+    "mention": "Sans engagement · 100% confidentiel",
+    "intro": "Vendre votre maison ou appartement est une étape importante qui ne s'improvise pas. Pour **vendre au bon prix, dans les bons délais et auprès des bons acheteurs**, chaque détail compte : estimation juste, mise en valeur soignée, stratégie de diffusion adaptée et suivi rigoureux jusqu'à la signature.\nJe vous accompagne à chaque étape avec une méthode claire, structurée et personnalisée : pour valoriser votre bien et avancer sereinement dans votre projet.",
+    "titre": "Vendez votre bien dans les meilleures conditions.",
+    "cta_secondary_url": "sms:+33679571473?body=Bonjour%20Romain%2C%20je%20souhaite%20vendre%20mon%20bien.",
+    "cta_primary_href": "/avis-de-valeur",
+    "intro_complement": "Je suis Romain Rieg, conseiller immobilier iad. J’accompagne mes clients dans l’Ouest lyonnais et la Plaine du Forez avec **une approche claire, réactive et personnalisée, pour vendre dans les meilleures conditions.**",
+    "cta_secondary_label": "💬 Sms",
+    "video": "/uploads/img_7016.jpeg"
+  },
+  "meta_title": "Vendre votre bien"
+}

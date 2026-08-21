@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "exemple-page-libre",
+    "titre": "Exemple de page libre",
+    "description": "Démonstration d'une page créée depuis le CMS - modifie ce contenu ou crée tes propres pages.",
+    "hero_image": "",
+    "publie": true,
+    "body": "# Bienvenue sur cette page exemple\n\nCette page a été créée pour montrer comment ajouter une nouvelle page depuis le CMS. **Tu peux la supprimer ou la modifier** depuis l'interface `/admin/`.\n\n## Comment créer une nouvelle page\n\n1. Connecte-toi sur `/admin/`\n2. Clique sur **Pages libres**\n3. Clique sur **Nouvelle page**\n4. Remplis le titre, le slug (l'URL), et le contenu\n5. Publie - la page sera live dans 2-3 minutes\n\n## Tu peux écrire en markdown\n\n- Listes à puces\n- **Texte en gras** ou *en italique*\n- [Liens vers d'autres pages](/contact/)\n- Citations :\n\n> Ceci est une citation. Pratique pour mettre en avant une phrase forte.\n\n## Et même intégrer des images\n\nUpload une image via le CMS, elle sera disponible dans `/uploads/`."
+  }
+]

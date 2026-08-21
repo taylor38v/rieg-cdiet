@@ -1,0 +1,15 @@
+{
+  "meta_title": "Honoraires de transaction - barème transparent",
+  "meta_description": "Barème d'honoraires transparent de Romain Rieg, conseiller immobilier iad. Honoraires TTC dus uniquement à la signature, sur le Mont d'Or et l'Ouest lyonnais.",
+  "surtitre": "Transparence",
+  "titre": "Honoraires de transaction",
+  "intro": "Mes honoraires sont toujours exprimés TTC et ne sont dus qu'à la signature de l'acte authentique. Ils incluent l'intégralité des prestations de commercialisation (photo, visite virtuelle, diffusion, accompagnement juridique).",
+  "tranches": [
+    { "tranche": "Jusqu'à 100 000 €", "pct": "6%", "mini": "4 500 € minimum" },
+    { "tranche": "100 001 € à 300 000 €", "pct": "5%", "mini": "" },
+    { "tranche": "300 001 € à 600 000 €", "pct": "4%", "mini": "" },
+    { "tranche": "600 001 € à 1 000 000 €", "pct": "3,5%", "mini": "" },
+    { "tranche": "Au-delà de 1 000 000 €", "pct": "3%", "mini": "" }
+  ],
+  "mention_bas_de_page": "Barème indicatif TTC, applicable à compter du 01/01/2026 sauf convention particulière. Honoraires généralement à la charge du vendeur, sauf mention contraire stipulée au mandat."
+}

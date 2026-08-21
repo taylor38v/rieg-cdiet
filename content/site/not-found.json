@@ -1,0 +1,10 @@
+{
+  "surtitre": "Erreur 404",
+  "code": "404",
+  "titre": "Cette adresse n'existe pas… ou plus.",
+  "intro": "Comme un bien retiré du marché, certaines pages disparaissent. Mais rien n'est perdu : tout commence (ou recommence) par l'accueil.",
+  "cta_primary_label": "Retour à l'accueil",
+  "cta_primary_href": "/",
+  "cta_secondary_label": "Voir mes biens iad ↗",
+  "cta_secondary_url": "https://www.iadfrance.fr/conseiller-immobilier/romain.rieg"
+}
