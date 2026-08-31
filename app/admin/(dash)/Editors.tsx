@@ -4,6 +4,25 @@
 import { useEffect, useState, useCallback } from "react";
 import JsonEditor from "./JsonEditor";
 
+// Correspondance clé de contenu → URL de la page, pour l'aperçu.
+const URLS_SITE: Record<string, string> = {
+  home: "/", vendre: "/vendre/", acheter: "/acheter/", location: "/location/",
+  "avis-de-valeur": "/avis-de-valeur/", rejoindre: "/rejoindre/", contact: "/contact/",
+  honoraires: "/honoraires/", "a-propos": "/a-propos/", "secteurs-landing": "/secteurs/",
+  "outils-landing": "/outils/", "outils-pages": "/outils/", confidentialite: "/confidentialite/",
+  "mentions-legales": "/mentions-legales/", merci: "/merci/",
+};
+function cheminApercu(table: string, cle?: string, item?: any): string {
+  if (table === "site") return URLS_SITE[cle || ""] || "/";
+  if (table === "secteurs") return `/secteurs/${cle}/`;
+  if (table === "zones") return `/vendre/${cle}/`;
+  if (table === "articles") return item?.slug ? `/actualites/${item.slug}/` : "/actualites/";
+  return "/";
+}
+function ouvrirApercu(chemin: string) {
+  window.open(`/api/admin/preview/?to=${encodeURIComponent(chemin)}`, "_blank");
+}
+
 function useTable<T = any>(table: string) {
   const [data, setData] = useState<T | null>(null);
   const [chargement, setChargement] = useState(true);
@@ -38,15 +57,21 @@ function useTable<T = any>(table: string) {
   return { data, setData, chargement, erreur, save, sauve, msg };
 }
 
-function SaveBar({ onSave, sauve, msg }: { onSave: () => void; sauve: string; msg: string }) {
+function SaveBar({ onSave, sauve, msg, onPreview }: { onSave: () => void; sauve: string; msg: string; onPreview?: () => void }) {
   return (
-    <div className="sticky bottom-0 -mx-5 md:-mx-8 mt-8 px-5 md:px-8 py-3 bg-white/90 backdrop-blur border-t border-slate-200 flex items-center gap-4">
+    <div className="sticky bottom-0 -mx-5 md:-mx-8 mt-8 px-5 md:px-8 py-3 bg-white/90 backdrop-blur border-t border-slate-200 flex items-center gap-3">
       <button
         onClick={onSave} disabled={sauve === "envoi"}
         className="px-5 py-2.5 bg-slate-900 text-white text-sm font-medium rounded-lg hover:bg-slate-700 disabled:opacity-50"
       >
         {sauve === "envoi" ? "Enregistrement…" : "Enregistrer"}
       </button>
+      {onPreview && (
+        <button onClick={onPreview} disabled={sauve === "envoi"}
+          className="px-4 py-2.5 border border-slate-300 text-slate-700 text-sm rounded-lg hover:bg-slate-50 disabled:opacity-50">
+          Prévisualiser ↗
+        </button>
+      )}
       {msg && <span className={`text-sm ${sauve === "err" ? "text-red-600" : "text-emerald-600"}`}>{msg}</span>}
       <span className="text-xs text-slate-400 ml-auto hidden sm:block">Pensez à « Mettre le site à jour » pour publier.</span>
     </div>
@@ -73,7 +98,8 @@ export function WholeEditor({ table, titre, description }: { table: string; titr
       <div className="bg-white rounded-xl border border-slate-200 p-5">
         <JsonEditor value={data} onChange={setData} />
       </div>
-      <SaveBar onSave={() => save(data)} sauve={sauve} msg={msg} />
+      <SaveBar onSave={() => save(data)} sauve={sauve} msg={msg}
+        onPreview={async () => { await save(data); ouvrirApercu("/"); }} />
     </Cadre>
   );
 }
@@ -105,7 +131,8 @@ export function RecordEditor({
       <div className="bg-white rounded-xl border border-slate-200 p-5">
         <JsonEditor value={data[courant]} onChange={(v) => setData({ ...data, [courant]: v })} />
       </div>
-      <SaveBar onSave={() => save(data)} sauve={sauve} msg={msg} />
+      <SaveBar onSave={() => save(data)} sauve={sauve} msg={msg}
+        onPreview={async () => { await save(data); ouvrirApercu(cheminApercu(table, courant)); }} />
     </Cadre>
   );
 }
@@ -140,7 +167,8 @@ export function ListEditor({
           {data[i] ? <JsonEditor value={data[i]} onChange={set} /> : <p className="text-slate-400">Sélectionnez un élément.</p>}
         </div>
       </div>
-      <SaveBar onSave={() => save(data)} sauve={sauve} msg={msg} />
+      <SaveBar onSave={() => save(data)} sauve={sauve} msg={msg}
+        onPreview={async () => { await save(data); ouvrirApercu(cheminApercu(table, undefined, data[i])); }} />
     </Cadre>
   );
 }

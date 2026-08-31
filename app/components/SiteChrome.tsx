@@ -7,6 +7,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 import WhatsApp from "./WhatsApp";
 import RevealOnScroll from "./RevealOnScroll";
+import PreviewBanner from "./PreviewBanner";
 
 export default function SiteChrome({ justifie, children }: { justifie: boolean; children: React.ReactNode }) {
   const pathname = usePathname();
@@ -18,6 +19,7 @@ export default function SiteChrome({ justifie, children }: { justifie: boolean; 
       <Footer />
       <WhatsApp />
       <RevealOnScroll />
+      <PreviewBanner />
     </>
   );
 }

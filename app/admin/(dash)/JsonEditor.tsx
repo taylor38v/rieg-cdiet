@@ -4,6 +4,14 @@
  * vidéo) pour proposer un envoi de fichier. Contrôlé : chaque niveau remonte sa valeur
  * mise à jour au parent. Suffit à couvrir tout le contenu du site sans coder chaque champ. */
 import { useState } from "react";
+import RichTextEditor from "./RichTextEditor";
+
+// Champs techniques/SEO renvoyés en bas de l'éditeur (le contenu visuel d'abord).
+const CHAMPS_FIN = ["meta_title", "meta_description", "slug", "publie", "ordre", "date", "duree_lecture", "auteur"];
+const ordonner = (keys: string[]) => [
+  ...keys.filter((k) => !CHAMPS_FIN.includes(k)),
+  ...CHAMPS_FIN.filter((k) => keys.includes(k)),
+];
 
 const humaniser = (k: string) =>
   k.replace(/_/g, " ").replace(/^\w/, (c) => c.toUpperCase());
@@ -65,6 +73,8 @@ export default function JsonEditor({
   // Chaînes
   if (typeof value === "string") {
     if (estMedia(fieldKey)) return <MediaField value={value} onChange={onChange} />;
+    // Corps d'article → éditeur riche (mise en forme + collage de texte structuré).
+    if (fieldKey === "body") return <RichTextEditor value={value} onChange={onChange} />;
     if (estLong(fieldKey, value)) {
       return (
         <textarea
@@ -144,7 +154,7 @@ export default function JsonEditor({
     const set = (k: string, v: any) => onChange({ ...value, [k]: v });
     return (
       <div className={depth > 0 ? "space-y-4 pl-4 border-l-2 border-slate-200" : "space-y-5"}>
-        {Object.keys(value).map((k) => (
+        {ordonner(Object.keys(value)).map((k) => (
           <FieldRow key={k} label={humaniser(k)} nested={value[k] !== null && typeof value[k] === "object"}>
             <JsonEditor value={value[k]} onChange={(v) => set(k, v)} fieldKey={k} depth={depth + 1} />
           </FieldRow>
