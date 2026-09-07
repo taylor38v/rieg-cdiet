@@ -23,6 +23,11 @@ function ouvrirApercu(chemin: string) {
   window.open(`/api/admin/preview/?to=${encodeURIComponent(chemin)}`, "_blank");
 }
 
+// Ordre d'affichage des champs, calé sur l'ordre des sections de la page.
+const ORDRE_COMMUNE = ["nom", "intro", "prix_m2_maison", "prix_m2_appartement", "delai_vente", "population", "superficie", "ce_qui_differencie", "evolution_prix", "video_visite", "quartiers", "ecoles", "restaurants", "associations", "galerie", "video", "video_insta", "instagram_url", "hero_position", "cp", "intercommunalite", "altitude", "meta_title", "meta_description"];
+const ORDRE_ZONE = ["h1", "hero_surtitre", "intro", "intro_complement", "hero_reassurance", "hero_cta_label", "atouts_surtitre", "atouts_titre", "atouts", "process_surtitre", "process_titre", "etapes", "positionnement_surtitre", "positionnement_titre", "positionnement_texte", "carte_surtitre", "carte_titre", "carte_texte", "communes_principales_label", "communes_principales", "limitrophes_label", "communes_limitrophes", "limitrophes_note", "communes_label", "cta_titre", "cta_intro", "video", "image", "titre_seo", "meta_description"];
+const ORDRES: Record<string, string[]> = { secteurs: ORDRE_COMMUNE, zones: ORDRE_ZONE };
+
 function useTable<T = any>(table: string) {
   const [data, setData] = useState<T | null>(null);
   const [chargement, setChargement] = useState(true);
@@ -129,7 +134,7 @@ export function RecordEditor({
         ))}
       </div>
       <div className="bg-white rounded-xl border border-slate-200 p-5">
-        <JsonEditor value={data[courant]} onChange={(v) => setData({ ...data, [courant]: v })} />
+        <JsonEditor value={data[courant]} order={ORDRES[table]} onChange={(v) => setData({ ...data, [courant]: v })} />
       </div>
       <SaveBar onSave={() => save(data)} sauve={sauve} msg={msg}
         onPreview={async () => { await save(data); ouvrirApercu(cheminApercu(table, courant)); }} />

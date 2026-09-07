@@ -8,10 +8,19 @@ import RichTextEditor from "./RichTextEditor";
 
 // Champs techniques/SEO renvoyés en bas de l'éditeur (le contenu visuel d'abord).
 const CHAMPS_FIN = ["meta_title", "meta_description", "slug", "publie", "ordre", "date", "duree_lecture", "auteur"];
-const ordonner = (keys: string[]) => [
-  ...keys.filter((k) => !CHAMPS_FIN.includes(k)),
-  ...CHAMPS_FIN.filter((k) => keys.includes(k)),
-];
+// Ordonne les clés d'un objet : soit selon un ordre explicite fourni (villes, zones),
+// soit par défaut (contenu dans l'ordre JSON, champs SEO/techniques en bas).
+const ordonner = (keys: string[], order?: string[]) => {
+  if (order && order.length) {
+    const connus = order.filter((k) => keys.includes(k));
+    const reste = keys.filter((k) => !order.includes(k));
+    return [...connus, ...reste];
+  }
+  return [
+    ...keys.filter((k) => !CHAMPS_FIN.includes(k)),
+    ...CHAMPS_FIN.filter((k) => keys.includes(k)),
+  ];
+};
 
 const humaniser = (k: string) =>
   k.replace(/_/g, " ").replace(/^\w/, (c) => c.toUpperCase());
@@ -66,9 +75,9 @@ function MediaField({ value, onChange }: { value: string; onChange: (v: string) 
 
 /* ---- Nœud récursif ---- */
 export default function JsonEditor({
-  value, onChange, fieldKey = "", depth = 0,
+  value, onChange, fieldKey = "", depth = 0, order,
 }: {
-  value: any; onChange: (v: any) => void; fieldKey?: string; depth?: number;
+  value: any; onChange: (v: any) => void; fieldKey?: string; depth?: number; order?: string[];
 }) {
   // Chaînes
   if (typeof value === "string") {
@@ -154,7 +163,7 @@ export default function JsonEditor({
     const set = (k: string, v: any) => onChange({ ...value, [k]: v });
     return (
       <div className={depth > 0 ? "space-y-4 pl-4 border-l-2 border-slate-200" : "space-y-5"}>
-        {ordonner(Object.keys(value)).map((k) => (
+        {ordonner(Object.keys(value), depth === 0 ? order : undefined).map((k) => (
           <FieldRow key={k} label={humaniser(k)} nested={value[k] !== null && typeof value[k] === "object"}>
             <JsonEditor value={value[k]} onChange={(v) => set(k, v)} fieldKey={k} depth={depth + 1} />
           </FieldRow>
