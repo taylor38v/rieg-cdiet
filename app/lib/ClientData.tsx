@@ -22,3 +22,4 @@ export const useSettings = () => useData().settings;
 export const useSecteurs = () => useData().secteurs;
 export const useSecteursDetails = () => useData().secteursDetails;
 export const useSiteContent = () => useData().site;
+export const useTerritoire = () => useData().territoire;

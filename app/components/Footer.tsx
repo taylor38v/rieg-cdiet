@@ -1,8 +1,7 @@
 "use client";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { zones } from "../lib/territoire";
-import { useSettings } from "../lib/ClientData";
+import { useSettings, useTerritoire } from "../lib/ClientData";
 import NewsletterForm from "./NewsletterForm";
 
 const IAD_MINISITE = "https://www.iadfrance.fr/conseiller-immobilier/romain.rieg";
@@ -88,7 +87,8 @@ function SocialIcon({ kind }: { kind: "instagram" | "tiktok" | "linkedin" | "fac
 
 export default function Footer() {
   const settings = useSettings();
-  const zonesPourFooter = zones.filter((z) => z.slug !== "saint-didier");
+  const territoire = useTerritoire();
+  const zonesPourFooter = ((territoire?.zones ?? []) as any[]).filter((z) => z.slug !== "saint-didier");
   const pathname = usePathname();
   const isHome = pathname === "/";
 
@@ -203,7 +203,7 @@ export default function Footer() {
           <p className="text-ivory/60 text-sm mt-2 max-w-3xl">{settings.footer?.secteurs_intro ?? "Je couvre les zones ci-dessous ainsi que leurs communes limitrophes - sans m'y limiter strictement."}</p>
 
           <div className="grid md:grid-cols-2 gap-8 mt-6">
-            {zonesPourFooter.map((z) => (
+            {zonesPourFooter.map((z: { slug: string; nom: string; principales: string[]; limitrophes: string[] }) => (
               <div key={z.slug}>
                 <Link href={`/vendre/${z.slug}`} className="text-xs uppercase tracking-widest text-gold mb-3 flex items-center gap-2 hover:text-ivory transition">
                   <span className="w-6 h-px bg-gold" /> {z.nom}

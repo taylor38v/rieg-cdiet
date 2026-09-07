@@ -2,8 +2,7 @@
 import { useState, useMemo } from "react";
 import Link from "next/link";
 import { formatPrix } from "../../lib/format";
-import { zones } from "../../lib/territoire";
-import { useSecteurs, useSecteursDetails, useSiteContent } from "../../lib/ClientData";
+import { useSecteurs, useSecteursDetails, useSiteContent, useTerritoire } from "../../lib/ClientData";
 
 // Slugs des communes ayant déjà une fiche dédiée → exclues de la section limitrophes
 const FICHES_EXISTANTES = new Set([
@@ -39,6 +38,7 @@ export default function Page() {
   const secteurs = useSecteurs();
   const secteursDetails = useSecteursDetails();
   const site = useSiteContent();
+  const zones = (useTerritoire()?.zones ?? []) as { slug: string; nom: string; principales: string[]; limitrophes: string[] }[];
   const t = (site as any)["outils-pages"]?.["carte-prix"] ?? {};
   const [type, setType] = useState<"maison" | "appartement">("maison");
   const [annee, setAnnee] = useState(2025);

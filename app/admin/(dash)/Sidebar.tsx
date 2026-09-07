@@ -9,6 +9,7 @@ const LIENS = [
   { href: "/admin/pages", label: "Pages du site" },
   { href: "/admin/communes", label: "Fiches communes" },
   { href: "/admin/zones", label: "Zones de vente" },
+  { href: "/admin/territoire", label: "Communes (footer, cartes)" },
   { href: "/admin/articles", label: "Articles" },
   { href: "/admin/leads", label: "Demandes reçues" },
   { href: "/admin/compte", label: "Mon mot de passe" },

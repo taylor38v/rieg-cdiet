@@ -20,6 +20,8 @@ export const getSettings = cache(async (): Promise<Settings> => (await readTable
 export const getSiteContent = cache(async (): Promise<SiteContent> => (await readTable("site")) as SiteContent);
 export const getSecteursDetails = cache(async (): Promise<Record<string, SecteurDetail>> => (await readTable("secteurs")) as Record<string, SecteurDetail>);
 export const getZonesContent = cache(async (): Promise<Record<string, any>> => (await readTable("zones")) as Record<string, any>);
+// Communes du footer (« Là où j'interviens ») + de la carte interactive, éditables au CMS.
+export const getTerritoire = cache(async (): Promise<any> => await readTable("territoire"));
 export const getArticles = cache(async (): Promise<Article[]> => (await readTable("articles")) as Article[]);
 export const getTemoignages = cache(async (): Promise<any[]> => (await readTable("temoignages")) as any[]);
 export const getPagesLibres = cache(async (): Promise<any[]> => (await readTable("pages")) as any[]);
@@ -71,11 +73,12 @@ export type SiteData = {
   secteurs: Secteur[];
   secteursDetails: Record<string, SecteurDetail>;
   site: SiteContent;
+  territoire: any;
 };
 
 export const getSiteData = cache(async (): Promise<SiteData> => {
-  const [settings, secteurs, secteursDetails, site] = await Promise.all([
-    getSettings(), getSecteurs(), getSecteursDetails(), getSiteContent(),
+  const [settings, secteurs, secteursDetails, site, territoire] = await Promise.all([
+    getSettings(), getSecteurs(), getSecteursDetails(), getSiteContent(), getTerritoire(),
   ]);
-  return { settings, secteurs, secteursDetails, site };
+  return { settings, secteurs, secteursDetails, site, territoire };
 });

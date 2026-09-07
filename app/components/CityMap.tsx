@@ -2,11 +2,12 @@
 import { useEffect, useRef, useState } from "react";
 import communesGeo from "../lib/communes-geo.json";
 import { formatPrix } from "../lib/format";
-import { useSecteurs, useSettings } from "../lib/ClientData";
+import { useSecteurs, useSettings, useTerritoire } from "../lib/ClientData";
 
 type Tier = "primaire" | "secondaire" | "limitrophe";
 
-const ZONES: Record<string, { tier: Tier; zone: "mont-dor" | "forez" }> = {
+// Secours : utilisé si la table « territoire » du CMS est vide. Sinon la carte lit le CMS.
+const ZONES_DEFAUT: Record<string, { tier: Tier; zone: "mont-dor" | "forez" }> = {
   // Mont d'Or / Ouest lyonnais - zone primaire (doré)
   "ecully":                   { tier: "primaire", zone: "mont-dor" },
   "dardilly":                 { tier: "primaire", zone: "mont-dor" },
@@ -91,6 +92,11 @@ export default function CityMap({
 }: Props) {
   const settings = useSettings();
   const secteurs = useSecteurs();
+  const territoire = useTerritoire();
+  // Communes de la carte : depuis le CMS (table « territoire »), secours sinon.
+  const ZONES: Record<string, { tier: Tier; zone: "mont-dor" | "forez" }> = territoire?.carte?.length
+    ? Object.fromEntries(((territoire.carte) as any[]).map((c) => [c.slug, { tier: c.tier as Tier, zone: c.zone }]))
+    : ZONES_DEFAUT;
   // Libellés de la carte, éditables via le CMS (Réglages globaux → Carte)
   const CARTE = {
     legendeTitre: settings.carte?.legende_titre ?? "Mes secteurs d'intervention",
