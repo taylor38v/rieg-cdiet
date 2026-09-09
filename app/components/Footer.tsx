@@ -119,6 +119,10 @@ export default function Footer() {
     .replace("{year}", String(new Date().getFullYear()))
     .replace("{rsac}", rsacNumero);
 
+  // Crédit de réalisation : volontairement en dur, hors Réglages.
+  const CREDIT_LABEL = "Hugo Sivignon, webdesigner";
+  const CREDIT_URL = "https://hugo-sivignon.com";
+
   return (
     <footer className="bg-navy text-ivory">
       {isHome && (
@@ -235,7 +239,16 @@ export default function Footer() {
 
       <div className="border-t border-ivory/10">
         <div className="max-w-7xl mx-auto px-6 py-5 flex flex-col md:flex-row justify-between gap-2 text-xs text-ivory/50">
-          <div>{copyrightText}</div>
+          <div>
+            {copyrightText}
+            <span className="mx-2 text-ivory/25">·</span>
+            <span>
+              Site réalisé par{" "}
+              <a href={CREDIT_URL} target="_blank" rel="noopener" className="hover:text-gold underline underline-offset-2">
+                {CREDIT_LABEL}
+              </a>
+            </span>
+          </div>
           <div className="flex gap-5 mt-2 md:mt-0">
             <Link href="/mentions-legales" className="hover:text-gold">{settings.footer?.lien_mentions_legales ?? "Mentions légales"}</Link>
             <Link href="/confidentialite" className="hover:text-gold">{settings.footer?.lien_confidentialite ?? "Confidentialité"}</Link>
